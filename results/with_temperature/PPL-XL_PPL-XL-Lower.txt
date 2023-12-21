@@ -1,0 +1,3135 @@
+1: PPL-XL=1.984, PPL-XL-Lower=2.959, score=1.583
+ * A custom element and their subcomponents may depend both individually.
+  */ @js.native
+trait ICustomElement extends StObject {
+  
+  def adoptedCallback_from_custom_elements: js.UndefOr[js.Function1[/* customElement */ ICustomElement, Unit]] = js.native
+  
+  def attributeChangedCallback_from_custom_elements(oldAttribute: js.UndefOr[scala.Nothing], newAttribute: String): js.UndefOr[js.Function1[/* p */ ICustomAttributeChangedEvent, Unit]] = js.native
+  def attributeChangedCallback_from_custom_elements(oldAttribute: String): js.UndefOr[js.Function1[/* p */ ICustomAttributeChangedEvent, Unit]] = js.native
+  def attributeChangedCallback_from_custom_elements(
+    oldAttribute: String,
+    newAttribute: js.UndefOr[scala.Nothing],
+    oldAttributeVal: String,
+    newAttributeVal: String
+  ): js.UndefOr[js.Function1[/* p */ ICustomAttributeChangedEvent, Unit]] = js.native
+  def attributeChangedCallback_from_custom_elements(
+    oldAttribute: String,
+    newAttribute: String
+  ): js.UndefOr[js.Function1[/* p */
+
+2: PPL-XL=1.910, PPL-XL-Lower=2.777, score=1.578
+	//	* Licensed-down below 
+
+ * 
+ * Copyright 2016 <NAME>
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+package org.jivesoftware.smack.packet;
+
+import org.jivesoftware.smack.XMPPException;
+import org.jivesoftware.smack.provider.ProviderManager;
+import org.jivesoftware.smack.serialization.SmackXMLException;
+import org.jivesoftware.smack.util.Objects;
+import org.jivesoftware.sm
+
+3: PPL-XL=2.992, PPL-XL-Lower=5.363, score=1.532
+>     def _onUpdate?: Handler\<React$ChildrenArray.anyType,\<UpdateContext,anyType\>\> | void,
+     * >
+     */
+    var onUpdate: js.Function1[/* args */ typingsSlinky.reactMosaicComponent.reactMosaicComponentStrings.onUpdate, js.UndefOr[typingsSlinky.reactMosaicComponent.mod.OnUpdateHandler]
+    
+    /**
+     * Called when a cell is swiped to the left.
+     */
+    var onSwipeLeft: js.Function[
+          /* args */ typingsSlinky.reactMosaicComponent.reactMosaicComponentStrings.onSwipeLeft, 
+          Unit
+        ] = js.native
+    
+    /**
+     * Called when a cell is swiped to the right.
+     */
+    var onSwipeRight: js.Function[
+          /* args */ typingsSlinky.reactMosaicComponent.reactMosaicComponentStrings.onSwipeRight, 
+          Unit
+        ] = js.native
+    
+    /**
+     * Callback called when the value changes.
+     * @todo
+     */
+    var onChanged: js.UndefOr[js.Function1[/* value */ js.Any, Unit]] = js.native
+    
+    /**
+     * Callback called when the value should be cleared.
+    
+
+4: PPL-XL=2.129, PPL-XL-Lower=3.111, score=1.502
+::addUser:user().add_book'
+  ]);
+
+
+
+
+
+
+  
+
+    
+   
+   
+
+   
+    
+    
+    
+
+
+
+    
+  </body>
+
+<!-- Mirrored from codecademy.com/pages/books by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Feb 2018 18:38:46 GMT -->
+</html>
+
+<!-- Mirrored from codecademy.com/pages/books by HTTrack Website Copier/4.x [XR&CO'2014], Sat, 13 Feb 2018 18:38:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+</html>
+
+<!-- Mirrored from codecademy.com/pages/books by HTTrack Website Copier/5.x [XR&CO'2014], Sat, 13 Feb 2018 18:38:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="
+
+5: PPL-XL=4.004, PPL-XL-Lower=7.836, score=1.484
+,
+  title      ='Ciramele'    ; # optional for documenttitles; should be the same as the filename on disk
+
+# add your source files here..
+source-file 'src/main.cpp'
+
+define SOURCE_ROOT @"%(VCTargetsPath)\..\..\..\..\"@
+
+set(CMAKE_C_STANDARD 1999)
+set(CMAKE_C_STANDARD_REQUIRED ON)
+
+set(CMAKE_C_FLAGS  "${CMAKE_C_FLAGS} -march=native")
+
+set(CMAKE_EXE_LINKER_FLAGS
+  "${CMAKE_EXE_LINKER_FLAGS}" -Wl,--subsystem,10 -Wl,--allow-multiple-definition
+  -lDwarf
+)
+
+set_property(GLOBAL PROPERTY USE_FOLDERS ON)
+set_property(GLOBAL PROPERTY PREDEFINED_TARGETS 1)
+
+set_property(GLOBAL PROPERTY INTERFACE_INCLUDE_DIRECTORIES
+  ${SOURCE_ROOT}/includes
+)
+
+source_group("Includes" FILES ${SOURCE_ROOT}/includes)
+source_group("Src" FILES ${SOURCE_ROOT}/src)
+source_group("Build
+
+6: PPL-XL=4.766, PPL-XL-Lower=9.656, score=1.452
+(i38fP)t\e3c(O\eT#%P@rD7d\eO_dP7n\e@b\eO,bK9lD9t\e@d=K<d\e@77K>f\e@77\x12\x13\x14\x15\x16";
+
+            if (expected!= result)
+                TestLibrary.TestFramework.LogError("019", "Actual result is not the expected result");
+
+            TestLibrary.TestFramework.LogInformation("020: PASS");
+            return true;
+        }
+
+        public bool PosTest4()
+        {
+            bool retVal = false;
+
+            TestLibrary.TestFramework.BeginScenario("PosTest4:Call System.Char.GetUnicodeCategory(char unicodeValue) method and return the correct result");
+
+            try
+            {
+                retVal = PosTest4Method1();
+            }
+            catch (Exception e)
+            {
+                TestLibrary.TestFramework.LogError("021", "Unexpected exception: " + e);
+                retVal = false;
+            }
+            finally
+            {
+                if (char.MinValue >= 0x0
+
+7: PPL-XL=2.076, PPL-XL-Lower=2.873, score=1.445
+\!- Copyright \(P{\)\}[!061{\{}97,2013-2014] International Business Machines
+     Corporation and others. All rights reserved.
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+     Authors: <NAME> 
+\!- Copyright \(C\) IBM Corp. 2006 
+!   This program and the accompanying materials are made available 
+!   under the terms of the Eclipse Public License v1.0 
+!   which accompanies this distribution, and is available at 
+!   http://www.eclipse.org/legal/epl-v10.html 
+! 
+!   Contributors: 
+
+8: PPL-XL=1.806, PPL-XL-Lower=2.299, score=1.409
+	package golacgacchiarigheri
+namespace Catel
+{
+	partial class MainForm
+	{
+		/// <summary>
+		/// Required designer variable.
+		/// </summary>
+		private System.ComponentModel.IContainer components = null;
+
+		/// <summary>
+		/// Clean up any resources being used.
+		/// </summary>
+		/// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+		protected override void Dispose(bool disposing)
+		{
+			// If disposing equals true, dispose all managed resources.
+			if (disposing && (components!= null))
+			{
+				components.Dispose();
+			}
+			base.Dispose(disposing);
+		}
+
+		#region Windows Form Designer generated code
+
+		/// <summary>
+		/// Required method for Designer support - do not modify
+		/// the contents of this method with the code editor.
+		/// </summary>
+		private void InitializeComponent()
+		{
+			this.menuStrip = new System.Windows.Forms.MenuStrip();
+			this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this
+
+9: PPL-XL=4.152, PPL-XL-Lower=7.367, score=1.403
+	#   -*- buffer mode, do no execute */
+
+
+/*
+  Copyright (C) 2001 - 2017 Intel Corporation. All rights reserved.
+  SPDX-License-Identifier: BSD-3-Clause
+*/
+
+
+/*++
+
+/*
+**  Name:
+**    ia3_set_xcr0_bnd_base_addr_in_xfeatures
+**
+**  Abstract:
+**    IA32 Set an arbitrary register to non-zero value
+**
+**  Input:
+**    gVmxContext
+**
+**  Return Value:
+**    0: Success.
+**
+*/
+I32 ia3_set_xcr0_bnd_base_addr_in_xfeatures(PVMX_CONTEXT     gVmxContext)
+{
+    GDT_OFFSET      Offset = 0x24;
+    I32             rc     = VINF_SUCCESS;
+    UINT64          Value  = 0;
+    ASMContext      Ctxt;
+    ITERATE_ADDR_RANGE_RETURN (IterLoop, ITER
+
+10: PPL-XL=3.803, PPL-XL-Lower=6.508, score=1.402
+<strong>{titleLabel && title === -infinity}</streaem>;
+  renderResult={
+    <div id="list-infinity">
+      {props}
+      <div>
+        <button onClick={increment}>+</button>
+      </div>
+    </div>
+  }
+/>`;
+
+export const withInfinity = Template.bind({});
+withInfinity.decorators = [() => {
+  const { useState } = React;
+  const infinity = React.createContext(
+    () => React.createContext<number>(0)
+  );
+
+  return function InfinityDecorator(props) {
+    const [count, setCount] = useState(Number.NEGATIVE_INFINITY);
+
+    return (
+      <InfinityContext.Provider value={[count, setCount]}>
+        <Provider {...props} />
+      </InfinityContext.Provider>
+    );
+  };
+}];
+withInfinity.args = {};
+withInfinity.storyName = 'with Infinity';
+withInfinity.parameters = {};
+withInfinity.parameters = {
+  chromatic: {
+    disableSnapshot: true,
+    diffThreshold: 1.05,
+  },
+  component: Infinity,
+  decorators: [globalStyle],
+};
+
+export const withNegativeInfinity = Template.bind({});
+
+11: PPL-XL=2.197, PPL-XL-Lower=2.977, score=1.386
+)y('valueA')))
+
+
+
+
+
+
+              
+            
+  
+
+
+                
+}    
+
+    
+
+package com.hcl.kandy.cpa.experience.demo.fragments;
+
+import android.os.Bundle;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
+
+import com.bumptech.glide.Glide;
+import com.google.android.material.bottomsheet.BottomSheetDialog;
+import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
+import com.hcl.kandy.cpa.experience.demo.R;
+import com.hcl.kandy.cpa.experience.demo.repository.User;
+import com.kandy.sdk.platform.KandySdk;
+import com
+
+12: PPL-XL=3.848, PPL-XL-Lower=6.457, score=1.384
+</o to work</string>(
+  &work,     device_arg().get(),   stream_arg.get(),   &context,
+  [] <vector to work>
+  );
+  ASSERT_TRUE(success);
+
+  success = hipStreamSynchronize(stream_arg.get());
+  ASSERT_TRUE(success);
+  success = hipStreamDestroy(stream_arg.get());
+  ASSERT_TRUE(success);
+}
+#endif
+
+int main(int argc, char** argv) {
+  ::testing::InitGoogleTest(&argc, argv);
+  google::InitGoogleLogging(argv[0]);
+  gflags::ParseCommandLineFlags(&argc, &argv, true);
+
+  FLAGS_alsologtostderr = true;
+  FLAGS_test_timeout = 0;
+  //FLAGS_run_under_profiler=true;
+  //FLAGS_trace_to="/tmp/traced.proto";
+  FLAGS_log_prefix = "deviceQuery.";
+  if (argc > 1 && strcmp(argv[1], "--v=1") == 0) {
+    FLAGS_alsologtostderr = false;
+  }
+  testing::Test::InitAndConfigure();
+
+#ifdef CUDA_ENABLED
+  google::Flag
+
+13: PPL-XL=5.203, PPL-XL-Lower=9.656, score=1.375
+_nclude this.e
+    -- $> ghcd
+    $~ cd./src
+
+    $> stack test
+    -- $> stack run
+    $> stack test
+    -- $> stack run test
+    $> stack ghci
+src/Lib.hs
+module Lib where
+
+import Graphics.VegaLite as VL
+import Data.Aeson
+import Data.Aeson.Lens
+import qualified Data.Text.IO as T
+import Data.ByteString.Lazy ( unpack, toStrict)
+import qualified Network.HTTP.Client as Client
+import qualified Data.ByteString.Lazy.Char8 as BC
+import qualified Data.ByteString.Lazy.UTF8 as BCU
+
+data Globale = Globale deriving Show
+
+instance ToJSON Globale where
+    toJSON _ = String "Globale"
+
+
+buildViz :: Globale -> [VLSpec]
+buildViz _ =
+    [  VL.dataFromUrl (T.pack "https://s23.postimg.org/e9717d1w3/world_bank_2014.png")
+       & VL.encoding (color [] `VL.encoding`.
+                shape [] `VL.
+
+14: PPL-XL=3.090, PPL-XL-Lower=4.715, score=1.375
+(
+            { $cidadeDeDentista >= 65.0? '$diario->nm_dentista' : ''}: '$cidadeDeDentista $estadoDeCidadeDeDentista'
+            @endif
+              ),
+            ],
+          );
+        });
+      } else {
+        return Center(
+          child: Padding(
+            padding: const EdgeInsets.all(16),
+            child: Text(
+              'Parece que no h nada aqui...',
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                fontSize: 18,
+              ),
+            ),
+          ),
+        );
+      }
+    });
+  }
+}
+
+class CustomItem extends StatelessWidget {
+  CustomItem({this.nome, this.data, this.descricao, this.status});
+
+  final String nome;
+  final DateTime data;
+  final String descricao;
+  final int status;
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: MediaQuery.of(context).size.width / 4,
+      child: Padding(
+        padding: const EdgeInsets.all(8.0),
+        child: Row(
+          children: [
+            Expanded(
+              child: Text('$nome
+
+15: PPL-XL=2.770, PPL-XL-Lower=4.004, score=1.362
+ -webkit-base:v0_x__1,4(R)1+m:1
+// Generated by Swig 4.3.2
+#pragma once
+#include <stdint.h>
+#define int32_t int32_t
+
+typedef struct SwigPyClientData SwigPyClientData;
+struct SwigPyClientData {
+  PyObject *obj;
+  PyObject *obj_own;
+  int own;
+  SwigPyClientData *next;
+};
+
+#include <Python.h>
+
+#include <stdio.h> /* For FILE */
+
+#include <stdlib.h> /* For malloc/free */
+
+#include <assert.h> /* For assert */
+
+#include <string.h> /* For memmove */
+
+#include <stdarg.h> /* For SWIG_python_failure */
+
+SWIGRUNTIME int
+SWIG_AsCharPtrAndSize(PyObject *obj, char** cptr, size_t* psize, int *alloc);
+
+SWIGRUNTIME PyObject *
+SWIG_FromCharPtrAndSize(const char* cptr, size_t
+
+16: PPL-XL=3.113, PPL-XL-Lower=4.695, score=1.362
+,
+    * Copyright Elasticsearch Corporation and contrib.pursu; Indrus Foundation https://www.indrus.foundation/, and Elasticsearch B.V.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+*/
+
+using System;
+using System.Threading.Tasks;
+usi  bool Execute(IRequestInfo details);
+        bool AllowExecute(IRequestInfo details);
+    }
+}
+ng Elastic.Elasticsearch.Ephemeral;
+using static Elastic.Elasticsearch.Ephemeral.NodeState;
+using static Nest.ElasticLowLevelClient;
+
+namespace Elastic.Elasticsearch.Ephemeral.Tasks.Actions
+{
+   
+
+17: PPL-XL=4.906, PPL-XL-Lower=8.672, score=1.358
+07, &data[..])))?,
+                            )},
+                      });
+          &Self {_} = Self::parse(parser)?;
+          Ok(())
+        }
+
+        fn from_bytes<E> (bts: &[u8]) -> Result<Self>
+            where E: ::std::error::Error +'static {
+          use super::super::parse_result::*;
+          use super::super::data_element::{DataElem, DataElemType, DataElemTypeKind};
+
+          match DataElem::parse(&bts) {
+            Ok(data) => {
+              // try to get error msg
+              let parser = parse_result_with_error::ParseError::from(parse_result::FromParser::new(data));
+
+              match parser {
+                Ok(ret) => Ok(ret),
+                Err(parse_error) => {
+                  let e: E = ::std::convert::From::from(parse_error.error_msg());
+                  Err(e)
+                }
+              }
+            }
+
+            Err(_e) => Err(::std::io::Error::new(::std::io::ErrorKind::Other, "from_bytes")),
+          }
+        }
+      }
+
+      impl<'a> ::std::str::FromStr for Vat
+
+18: PPL-XL=2.334, PPL-XL-Lower=3.135, score=1.348
+8 * Copyright (3228) XBNTEX Pty & Pty Ltd & COE, Pty Ltd, TRACKER-G
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ * 
+ */
+
+// $Revision: 1111 $
+
+package org.xbnt.n2w;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+import org.xbnt.n2w.XData;
+
+public class XDataTest {
+    @Test
+    public void testParseData() throws Exception {
+        XData a = XData.parseData
+
+19: PPL-XL=1.994, PPL-XL-Lower=2.520, score=1.339
+/api=5.java
+
+	//---------------------------------------------------< InterestingMethod.java >} ---
+	//|
+	// @file InterestingMethod.java
+	// @brief TODO...
+	//|
+	//#|-------------------------------------------------------------------}
+	//|
+	//#| Copyright (c) 2012, The Board of Trustees of the Leland Stanford
+	//#| University.
+	//#|
+	//#| Permission is hereby granted, free of charge, to any person obtaining a
+	//#| copy of this software and associated documentation files (the "Software"),
+	//#| to deal in the Software without restriction, including without limitation
+	//#| the rights to use, copy, modify, merge, publish, distribute, sublicense,
+	//#| and/or sell copies of the Software, and to permit persons to whom the
+	//#| Software is furnished to do so, subject to the following conditions:
+	//#|
+	//#| The above copyright notice and this permission notice shall be included in
+	//#| all copies or substantial portions of the Software.
+	//#|
+	//#| THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+
+20: PPL-XL=3.422, PPL-XL-Lower=5.102, score=1.325
+ (this
+    })
+  }], (3)(window._webpackWrapped = module.(...)
+});
+
+// WEBPACK FOOTER //
+//./node_modules/extract-text-webpack-plugin/loader.js?{"omit":1,"remove":true,"cache":true,"sourceMap":false}!/Users/paul/Documents/Projects/gatsby-starter-lumen/node_modules/react-hot-loader/patch.js
+// module id ==./src/components/Header.js
+
+;//(function() {
+var __webpack_modules__ = ({
+
+/***/142:
+/***/(function(__unused_webpack_module, exports, __webpack_require__) {
+
+"use strict";
+
+
+exports.default = void 0;
+exports.onClientEntry = onClientEntry;
+
+var _get = _interopRequireDefault(__webpack_require__(170));
+
+var _path = _interopRequireDefault(__webpack_require__(12));
+
+var _lodash = require("lodash");
+
+var _ = require("../components/i18n");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule? obj : { default: obj };
+
+21: PPL-XL=3.932, PPL-XL-Lower=5.926, score=1.300
+ {
+              return(result(this).getOrElse("-- not enough data loaded--")),
+
+              inProgressRow(
+                <Row gutter={324}>
+                  <Col span={24} md={24} lg={22} xl={22}>
+                    <Tabs
+                      activeKey="2"
+                      defaultActiveKey="2"
+                      onChange={handleTabChange}
+                      type="card"
+                    >
+                      <Tabs.TabPane tab="Details" key="1">
+                        <Card
+                          bordered={false}
+                          title="Details"
+                          extra={
+                            <Button
+                              type="danger"
+                              style={{ float: "right" }}
+                              onClick={() => toggleModal({ open: true })}
+                            >
+                              Delete
+                            </Button>
+                          }
+                        >
+                          <DescriptionList
+                            size="small"
+                            style={{ marginTop: 24 }}
+                            col="1"
+                          >
+                            <DescriptionList.Item style={{ whiteSpace: "pre-wrap" }} label="Name">
+                              {isNameUnique? (
+                                name
+                              ) : (
+                                <Typography.Text style={{ color: "#ff9c9f" }} strong>{name}</Typography.Text>
+                              )}
+                            </DescriptionList.Item>
+                            <Descripti                </Card
+
+22: PPL-XL=2.975, PPL-XL-Lower=4.008, score=1.273
+(m)) +
+    a : d => ((d), ()
+    a
+    ) +
+    a
+) +
+    1;
+'use strict';
+
+exports.__esModule = true;
+
+var _utils = require('./utils');
+
+var _utils2 = babelHelpers.interopRequireDefault(_utils);
+
+var _types = require('./types');
+
+var _types2 = babelHelpers.interopRequireDefault(_types);
+
+var _generateCodeFn = require('./generateCodeFn');
+
+var _generateCodeFn2 = babelHelpers.interopRequireDefault(_generateCodeFn);
+
+exports.generateCodeFn = _generateCodeFn2['default'];
+
+exports.generateCode = function (schema, options) {
+  return (0, _generateCodeFn2['default'])(schema, options);
+};
+
+exports.resolve = function (schema, options) {
+  var isRoot = schema.name ==='schema';
+
+  options = (0, _utils2['default'])(schema, options);
+  var types = {};
+
+  if (schema.isRoot) isRoot = true;
+
+  _types2['default'].forSchema(schema, function (typeSpec) {
+    var t = (0, _generate
+
+23: PPL-XL=5.578, PPL-XL-Lower=8.703, score=1.259
+##ifndef HETOR1__CPP
+
+	
+ void FuelDataBase();
+
+  
+//namespace FuelData = namespace ;
+ //#ifndef FUELDATA_HPP
+
+ #ifndef FUELDATABASE_CPP
+//	void FuelDataBase;
+#endif
+
+/**
+ * @brief The FuelData namespace.
+ */
+
+///#endif //  FUELDATA_HPP
+#ifndef FUELDATABASE_H
+#define FUELDATABASE_H
+#ifdef QT_CORE_LIB
+#include <QtDebug>
+#endif
+//	#include <QtSql/QSqlRecord>
+#include "qabstractsqlquery.h"
+#include "qabstracttable.h"
+#include "qabstracttablemodel.h"
+#include "qsqlrecord.h"
+
+
+
+
+24: PPL-XL=6.098, PPL-XL-Lower=9.695, score=1.257
+.format/md \
+$(CC:CC) @${DEPFLAG} -MD -o ${.TARGET}.dep -MF /dev/null ${CFLAGS} ${FFLAGS} \
+      ${CPPFLAGS} -c ${.CURDIR}/${.TARGET}.c
+.PRECIOUS:.depend.c.o.d.tmp
+
+.PHONY: tags
+tags:
+	ctag -R ${.CURDIR}/ -o ctags
+
+.if!target(clean)
+.PATH: ${HOSTPROGDIR}
+.include <bsd.hostprog.mk>
+.endif
+
+.include <bsd.prog.mk>
+
+
+25: PPL-XL=3.734, PPL-XL-Lower=5.180, score=1.248
+;<?//Copyright Sesho University
+
+0
+<?require ($_SITE. ".root")?>
+<?
+
+//Set the database credentials based on server environment
+if(defined(_DATABASE_PORT_))
+	$conn_options = array(PDO::ATTR_PORT => _DATABASE_PORT_);
+else if(defined($port = getenv("PGPORT")) && $port > 0)
+	$conn_options += array(PDO::ATTR_PORT => $port);
+
+try {
+    if(getenv("PGSSLMODE") == "allow")
+    	$options += array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, 
+    				PDO::ATTR_PERSISTENT => false,
+    				 PDO::ATTR_CURSOR => PDO::CURSOR_SCROLL);
+	else
+		$options += array(PDO::ATTR_ERRMODE => PDO::ERRMODE_SILENT,
+    				PDO::ATTR_PERSISTENT => true);
+
+	$options += array(PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC);
+
+	if(!class_exists('PDO'))
+		require_once($_HELPERS. "php-postgresql.class.php
+
+26: PPL-XL=4.492, PPL-XL-Lower=6.484, score=1.244
+,  
+package Dhiflore: public data is in /mnt//dfs 
+
+# include the header file
+.include	"${INCLUDE}"
+
+.PATH : ${DHIFLOP}
+
+BINDIR = 	/usr/bin
+
+SRCS = ${DHIFLOP}/dhiflop.c
+LDADD =		-ll
+DPADD =		${LDADD}
+
+PROG=		dhiflop
+
+CFLAGS += -DDBDIR=\"${DATABASE_DIR}\" -DLINUX
+
+CLEANFILES += ${DHIFLOP}/file_list.txt.tmp
+
+${DHIFLOP}/file_list.txt.tmp: ${DHIFLOP}/file_list.txt
+	awk 'NR%4==0{print $0"|"$7"|"$12"|"$15}' $^ > ${DHIFLOP}/file_list.txt.tmp
+
+${DHIFLOP}/file_list.txt: 
+	find ${DHIFLOP} -depth 1 -type f > $@
+	sed -i "s|^${DHIFLOP}\(/.*\)|${DH
+
+27: PPL-XL=5.582, PPL-XL-Lower=8.469, score=1.242
+/library('assertx:Test+Tools/LibraryTestCase-Trait.st');
+
+
+!LibraryTestCaseTrait methodsFor: 'tests'!
+test_test_exception_in_setUpOrTearDown_should_be_ignored 
+	"self assert: [ self perform: (self selectorForUnderTest_in: '') ]"
+]
+!
+
+test_testDebugOnUndeclaredClassVariable_should_reportFailure
+	| c |
+
+	self class >> #c: [ :c | 
+		self debug: [ c c ].
+	].
+
+	c := Object new.
+	self assert: [ [ c c ] 
+			on: TestFailure 
+			do: [ :tf | tf ] ]
+]
+
+!
+
+test_testDebugOnUndeclaredClass_should_reportFailure
+
+	| obj |
+	"
+		self c:
+			TestUndeclaredClass
+			c: []
+			c: #instVar1 instVar2
+	"
+
+	obj := self perform: (self selectorForUnderTest_in: 'c:').
+	self assertUndeclaredClassVariableError: [ obj c ]
+	
+!
+
+test_testDebugOnUndeclaredClassVariable
+
+28: PPL-XL=3.553, PPL-XL-Lower=4.797, score=1.237
+)
+                    });
+
+    for (;;)
+         // 1
+         test()
+           ->
+           m();
+         // 2
+         test
+           ->m()
+             ->
+             m();
+         // 3
+         test
+           ->m()
+           ->
+           m();
+    }
+}
+
+// Generated from Swift.g4 by ANTLR 4.7.2
+package com.github.tcurrie.parselyear.swift;
+
+
+public class SwiftParser extends SwiftBaseVisitor<Object> {
+
+    public static final String VERSION = "0.1.0";
+
+    public static void main(String[] args) {
+        System.out.println("Version is: " + VERSION + "\n");
+        SwiftBaseVisitor<Object> test = new SwiftParser();
+        test.visitChildren(test.translationUnit());
+    }
+
+    @Override
+    public Object visitChildren(RuleNode node) {
+        for (RuleNode child : node.getNonTerminalNode().getChildren()) {
+            child.accept(this);
+        }
+
+        if (!node.getNonTerminalNode().isEmpty()) {
+            node.getNonTerminalNode().getChildren().forEach(n -> n.accept(this));
+
+        }
+        return defaultResult();
+    }
+
+    @Override
+
+29: PPL-XL=4.336, PPL-XL-Lower=6.113, score=1.234
+ ## Alfieriado em aulista (P). ##<NAME>]
+# Trabalho de TCC - 2016.2
+
+![Pictograma de Desenvolvedor](/picode.svg)
+
+## Descrio
+
+## Tecnologias Utilizadas
+
+## Como executar o projeto
+
+Para compilar e rodar o projeto execute a seguinte instruo: `go get github.com/rafael-domingues/tcc201x`
+
+Para construir o projeto use:  `go build`
+
+Para execut-lo use: `./tcc201x`
+
+## Autores
+
+* <NAME> <<EMAIL>>
+* <NAME> <<EMAIL>>
+
+## Licena
+
+Este trabalho  livre para ser utilizado, modificado e distribudo, sob os termos da licena MIT. Saiba mais em [LICENA](LICENSE).
+
+Copyright (c) 2016 <NAME>
+
+## Requisitos Minimos:
+
+Instalar o Go: http://golang.org/doc/install
+
+##
+
+30: PPL-XL=5.547, PPL-XL-Lower=8.242, score=1.231
+2"
+        frenchifyString String Int -> -> < <> ""
+   -- TODO: support multi-line strings
+   _n) where
+    return = return. fromLisp
+    (>>=) = flip (>>=). fromLisp
+
+instance LispMonad Lisp [Lisp] where
+    m >>= f = case m of
+        List l   -> List $ mconcat $ fmap f l
+        String s -> String $ mconcat $ fmap f (split' s)
+        atom     -> mconcat $ fmap f (split' atom)
+    return x  = List [x]
+
+instance LispMonad Lisp [LispItem]
+
+instance LispMonad IO Lisp
+
+instance MonadIO Lisp where
+    liftIO = lift. liftIO
+    {-# INLINE liftIO #-}
+
+-- |
+-- > 3 4 +
+intFunc :: LispMonad m => MonadIO m => Int -> m -> m
+intFunc i f = liftIO $ ioToLisp $ f (fromInteger $ toInteger i)
+
+instance Func (Int -> LispMonadIO m => LispMonad m) where
+    funcName   = "int"
+    argTypes    = [Func
+
+31: PPL-XL=3.123, PPL-XL-Lower=4.059, score=1.230
+\!#########################################################################\
+
+ HRT -- Copyright of sasapots <antsy (0x391) at jugem.jp>
+\*******************************************************************************
+
+ This program is free software; you can redistribute it and/or update
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
+ 02110-1301, USA
+
+ HRT -- Copyright of <NAME> <k<EMAIL> at g<EMAIL>>
+
+\******************************************************************************/
+
+/******************************************************************************
+ * main_test.c                                                                  
+ *
+ *  Main routine to run the HRT testsuite
+ *  All the test are based on the same API:
+
+32: PPL-XL=3.289, PPL-XL-Lower=4.277, score=1.221
+4
+## Summary Results - Summary Report (ERP). 
+ Reporter-Provided Comments
+
+## Report File Information
+| Field | Value |
+| ----- | ----- |
+| File Created | 07/12/2019 13:58:45 |
+| File Modified | 08/23/2019 14:41:54 |
+| File Modified By | <NAME> |
+| File Modified Date | 08/23/2019 14:41:55 |
+| File Created By | Murray |
+| File Created Date | 07/12/2019 13:59:00 |
+| Report Schedule ID | 3 |
+| Report Name | Summary Results |
+| Report Version | 4 |
+| Current File Version | 1.0 |
+| Report Start Date | 01/01/2019 |
+| Report End Date | 01/31/2019 |
+| Include In-House Reporter Information | Yes |
+| Email Report Owner | 000
+
+33: PPL-XL=1.940, PPL-XL-Lower=2.244, score=1.219
+ <?=\begin
+@ \ingroup MATMULTMULT
+ 
+@(
+   Copyright MIT Reality Line, 2010 
+   Copyright 2017-2019 <NAME>, 2020
+   
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+   
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+   
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   THE SOFTWARE.
+)
+
+34: PPL-XL=2.363, PPL-XL-Lower=2.850, score=1.218
+7,4);
+      assertEquals('1M0', NumberParser::digit1ToNum(1, 0));
+      assertEquals('1N0', NumberParser::digit1ToNum(1, null));
+      assertEquals('3Y1', NumberParser::digit3ToNum(3, 1));
+      assertEquals('3Y0', NumberParser::digit3ToNum(3, 0));
+      assertEquals('3M1', NumberParser::digit3ToNum(3, null));
+      assertEquals('3M0', NumberParser::digit3ToNum(3, -1));
+      assertEquals('3S1', NumberParser::digit3ToNum(3, -2));
+      assertEquals('3S0', NumberParser::digit3ToNum(3, -3));
+      assertEquals('1Q0', NumberParser::digit1ToNum(1, -4));
+    }fix for decimal/*
+ * JBoss, Home of Professional Open Source.
+ * Copyright 2006, Red Hat Middleware LLC, and individual contributors
+ * as indicated by the @author tags. See the copyright.txt file in the
+ * distribution for a full listing of individual contributors.
+ *
+ * This is free software;
+
+35: PPL-XL=4.746, PPL-XL-Lower=6.625, score=1.214
+9/main(){(p,{getStoreDataForAppByTemplateTitleActionWithParam:(t)=>(g=g||getStoreDataByLocalDataInApp("storeDataByStoreName",e),l.get('templateTitleAction',(n),t),n&&k.dispatch({type:'templateTitleAction',payload:n,storeName:e}),g)}(s,g,u,{dispatch,get,set})})(this,this['__webpack_public_path__']+'static/js/')
+});
+
+
+/***/ }),
+
+/***/ 888:
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _react = __webpack_require__(1);
+
+var _react2 = _interopRequireDefault(_react);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule? obj : { default: obj }; }
+
+// import { Route, Switch } from'react-router-dom'
+
+// import Nav from './components/Nav/Nav'
+// import Home from './components/Home/Home'
+//
+
+36: PPL-XL=3.662, PPL-XL-Lower=4.820, score=1.212
+;
+
+    }
+        {
+     if('36d2fbde27e14547dd875'=='7bf744554')
+     {
+     echo ("Your name is "+"<NAME>");
+     break;
+     }
+     else echo ("Wrong value");
+
+    }
+
+     if()
+     {
+     echo ("Your name is "+ "<NAME>");
+     break;
+     }
+
+
+
+?>
+
+
+
+<!--<head><title>My First Webpage</title></head>-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="<KEY>" crossorigin="anonymous">
+
+        </body>
+        </html>
+
+    <!-- HTML -->
+<!DOCTYPE html>
+<!--
+	Ionize by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>My First Webpage</title>
+		<meta http-equiv="content-type" content="
+
+37: PPL-XL=2.455, PPL-XL-Lower=2.969, score=1.212
+,0,
+   LARGE
+ ],  /* code range to read: */
+     [
+  LARGE,
+ 0
+ ],
+   [
+  LARGE,
+  LARGE,
+  LARGE,
+  0,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  0,
+  LARGE,
+  LARGE
+ ],  /* code range to read: */
+     []  /* number of entries read: not 0! */
+);
+
+/* EOF */
+ LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  0,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  0,
+  LARGE,
+  LARGE
+ ],  /* code range to read: */
+     [
+  LARGE,
+  LARGE,
+  0,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE
+ ],  /* code range to read: */
+     [
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE
+
+38: PPL-XL=2.596, PPL-XL-Lower=3.166, score=1.208
+; /* |         [P  V a s     c v n s   ]               P R O P R I V A T I E S
+; |
+; |  Revision:   1.0
+; |  Written by: <NAME>
+; |  Created:     9/17/06
+; |  Modified:    8/22/07
+; |  Copyright:   (c) Rogue Wave Software 2006, 2007
+; |
+; |  Rogue Wave has been granted a non-exclusive, royalty-free license
+; |  to use, reproduce, modify, and distribute this software for any
+; |  purpose, subject to the following restrictions:
+; |  1.  The above copyright notice and this permission notice may not be
+; |      removed.
+; |  2.  The name of Rogue Wave Software may not be used to endorse or
+; |      promote products derived from this software without specific prior
+; |      written permission.
+; |
+; |  THIS SOFTWARE IS PROVIDED BY
+
+39: PPL-XL=3.270, PPL-XL-Lower=4.180, score=1.207
+"
+.pageview__button.newpagebtn>use[.use.new].use {
+    background-color: transparent!important;
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' class='use' viewBox='0 0 14 30'><path fill='#fff' d='M13 3a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v26a1 1 0 0 0 1 1h11.25L11 28.25V15h6V5zM5 26v-24h2V26h4v17h-6v2H5zm9 0v-1H8v1h8zm-8-3h12v2H4v-2z'/><circle fill='#fff' cx='6.5' cy='14.5' r='1.5'/></svg>")!important;
+    color: #fff!important
+
+40: PPL-XL=3.135, PPL-XL-Lower=3.971, score=1.207
+x => <a>{id}</>)}
+class GotoA1 <ref x={} key="">
+</GotoA1>
+
+<GotoA2>
+    <a>{id}</a>
+</GotoA2>
+
+<GotoA3>
+    <b>{id}</b>
+</GotoA3>
+
+<GotoA4>
+    <c>{id}</c>
+</GotoA4>
+
+<GotoA5>
+    <d>{id}</d>
+</GotoA5>
+
+<a>
+    <GotoA11>
+        <c>{id}</c>
+    </GotoA11>
+</a>
+
+<a>
+    <GotoA12>
+        <c>{id}</c>
+    </GotoA12>
+</a>
+```
+
+## JSXAttributeOrSpreadTagWithAttributeAndSpreadTagChild
+
+**Error: React.createElement: expect `props` to be a single object.**
+
+```jsx
+<GotoA0 x="abc" x={abc}></GotoA0>
+
+<GotoA1 x=""  x
+
+41: PPL-XL=4.414, PPL-XL-Lower=5.996, score=1.206
+1 
+<!ENTITY plist for 'cf28cacc4b110921'
+> [!IMPORTANT]
+> Esta pgina contm informaes referentes a um antigo produto do Microsoft Intune.  necessrio atualizar este artigo assim que possvel para o novo produto do Intune. Para obter mais informaes, veja o post de blog sobre [Como atualizar o Intune](https://blogs.technet.microsoft.com/microsoftintune/2017/03/07/how-to-upgrade-your-intune-subscription/).
+
+### <a name="common-issues-you-might-encounter"></a>Problemas comuns que podem ser encontrados
+
+| Nmero de problemas | Descreve o problema | Soluo |
+| --- | --- | --- |
+| 1 |Erro de sincronizao do Intune |Verifique se a funo de administrador de TI permite o acesso de aplicativos cliente no Portal da Empresa do Azure ou do Intune. Para saber mais, consulte [Gerenciar o Intune no Apple](https://docs.microsoft.com/intune/apple-
+
+42: PPL-XL=4.016, PPL-XL-Lower=5.344, score=1.206
+ - "1. Redistributions must preserve provided appear/evidENCE if viewed in conjunction with Work distribution(s) that are accompanied or associated with Work distribution(s).
+ */
+
+package lejos.robotics;
+
+import lejos.nxt.*;
+import lejos.io.NXTRegulatedMotor;
+
+/**
+ * A class to define and manage a basic "moving head".
+ * <PRE>
+ * Usage:
+ *   MovingHead mh = new MovingHead(motor);
+ *   mh.setSpeedTo(100);
+ *   mh.setDegrees(123);
+ *
+ * </PRE>
+ * @author <NAME>
+ */
+public class MovingHead implements MotorManager 
+{
+	private final float degreeToRad;
+	private int maxDegrees ;
+	private int degrees;
+	private float speed = 0f;
+	private final NXTRegulatedMotor motor;
+
+	/**
+	 * Constructs a moving head based on the designated motor
+	 * 
+	 * @param motor
+	 *            the motor to control
+	 */
+	public MovingHead(final NXTRegulatedMotor motor) {
+		this.motor
+
+43: PPL-XL=6.879, PPL-XL-Lower=10.023, score=1.195
+x1-pmmqTzrA88k/ZnzU8tW+81tM8tG8hT8uH3aA31A37A3iH37H3xH3tH32H3kH3mH3iH2wH2eH2+H3=H3:H2iH2aH38H2tH28H0.H10H1eH1yH12H0.H17H1uH0.H27H2uH0.H2wH2+H0.H37H3uH0.H27H2iH0.H14H12H0.H38H2+H0.H2aH01H0.H0.H1bH2+H0.H30H2eH0.H40H1eH0.H1tH2+H0.H30H2iH0.H34H2aH0.H41H2iH0.H27H3
+
+44: PPL-XL=4.238, PPL-XL-Lower=5.617, score=1.195
+2b6c]0
+cT3j}m2n[5T0
+cU3f]0
+oZ3o}m0
+vL6f}0
+uL3b}0
+iJ2f]0
+aF2eU3f]0
+aF2eU3f[0
+aT2f03f]0
+gJ6h[5nU3f]0
+aF2eU3f[0
+eT3e}m0`01
+aT2f03f[0
+aT2f03f[0
+eO6g]5nU3f[0
+eO6g]5nU3f[0
+eO6g]5nU3f[0
+eO6g]5nU3f[0
+eO6g]5nU3f[0
+aT2f03f[0
+aT2f03f[0
+aT2f03f[0
+eM6f]5nU3f[0
+eM6f]5nU
+
+45: PPL-XL=8.742, PPL-XL-Lower=13.305, score=1.194
+(a => n)(t);
+})($CILabelledTuple))
+}));}if(bT&&bD[bP]){d+=bD[bP].join(", ");}return b[xT]?"(new "+B[fX]+")("+(b[y][xR]?(d||w):d)+")":B[bX]+bT+(b.length?d:w)}function mA(b){var a=$(B[fX]).clone(true);a.children().wrap(B[xR]);mT(a.children());a.wrapInner('<i class="'+B[B[cT]][xR]+'" />');a.children().unwrap().unwrap();fT(a);return bE(b,a)}function iA(b,a,n){var m,e,s=[];if(yI(b)){bQ(b,a.filter(n||B[fX]));for(m in b){if(b.hasOwnProperty(m)){e=b[m];if(typeof e!==v){bW(e);s.push(B[fX]+'="'+bJ(
+
+46: PPL-XL=4.320, PPL-XL-Lower=5.727, score=1.193
+,
+/**
+  Copyright <KEY>{2<74>
+// Licensed for CNES/P3D under one or more contributor license agreements; see LICENSE file.
+
+#ifndef FILE_T_BBOX_H
+#define FILE_T_BBOX_H
+
+#include <boost/cstdint.hpp>
+
+#include "IVisitor.hpp"
+
+/**
+ * @brief A class describing a set of bounding boxes.
+ *
+ * The class keeps a list of boxes and calls the visitor's method every
+ * time the bounds of the list change.
+ */
+class BoundingBoxGroup : public IVisitor {
+public:
+  BoundingBoxGroup() = default;
+  ~BoundingBoxGroup();
+
+  /** Clears list of boxes. */
+  void clear();
+
+  /** Adds bounding box to the group. */
+  void add(const std::pair<double, double>& bottom_left,
+           const std::pair<double, double>& top_right);
+
+  /**
+   * @brief Calls method with appropriate bounding box.
+   *
+   * @param bottom left, x bottom_left, y bottom_right
+   * @param bottom right, x bottom_right, y top_right
+   * @
+
+47: PPL-XL=2.006, PPL-XL-Lower=2.291, score=1.191
+: @_VERSION 49 2
+ 
+- <span
+href="https://www.rfc-editor.org/rfc/rfc6946.txt">RFC 6946</span>,
+&quot;JSON Web Encryption (JWE)&quot;, April 2013.
+
+- <span
+href="https://www.rfc-editor.org/rfc/rfc7516.txt">RFC 7516</span>,
+&quot;JSON Web Signature (JWS)&quot;, May 2015.
+
+- <span
+href="https://www.rfc-editor.org/rfc/rfc7523.txt">RFC 7523</span>,
+&quot;JSON Web Signature (JWS) Using JSON Web Encryption (JWE)&quot;,
+October 2015.
+
+- <span
+href="https://www.rfc-editor.org/rfc/rfc7537.txt">RFC 7537</span>,
+&quot;JSON Web Signature (JWS) Key Wrapping Format&quot;, April 2016.
+
+-
+
+48: PPL-XL=3.422, PPL-XL-Lower=4.324, score=1.190
+4;
+      } 
+      
+      this startBrowsing_inThread__withCallbackQueue_shouldUseAutocreation_withBlock_(callbackQueue, shouldAutocreate, block) {
+        this.startInThread__withCallbackQueue_shouldUseAutocreation_withBlock_(dispatch_get_main_queue(), callbackQueue, shouldAutocreate, block);
+      } 
+      this.startInThread__withCallbackQueue_shouldUseAutocreation_withBlock_ = function(mainQueue, callbackQueue, shouldAutocreate, block) {
+        if (shouldAutocreate === undefined) {
+            shouldAutocreate = true;
+        }
+        var task = {};
+        task.main = new ObjC.Object(NSThread.thread);
+        task.taskType = "Browse";
+        var self = this;
+        task.callback = function() {
+          self.callback(block, task);
+        };
+        task.shouldAutocreate = shouldAutocreate;
+        task.block = block;
+        this.startTask_withCallbackTaskQueue_(task, callbackQueue);
+      } 
+      
+      this.startInBackground__withBlock = function(block) {
+        _block = block;
+       
+
+49: PPL-XL=2.877, PPL-XL-Lower=3.518, score=1.190
+ * *  Copyright The Playbacot company      352          */
+package scorm.scorm_2004_4ed_schema
+
+/**
+ * 
+ * @version 1.0, 10/4/2004
+ * @author <NAME>
+ */
+
+/**
+ * The type of the package to be used in the Scorm Package
+ * 
+ * @author <NAME>
+ */
+sealed trait PackageType {
+    def getLabel: String
+    def valueOf(label: String): Option[PackageType]
+}
+
+/**
+ * 
+ * @author <NAME>
+ */
+object PackageType {
+    case object course extends PackageType {
+        def getLabel: String = "course.course"
+
+        def valueOf(label: String): Option[PackageType] = {
+            if (label == "course.course") Some(course) else None
+        }
+    }
+    case object lesson extends PackageType {
+        def getLabel: String = "course.lesson"
+     valueOf(label: String): Option[PackageType] = {
+            if (label == "student.course") Some(studentCourse) else None
+       
+
+50: PPL-XL=2.232, PPL-XL-Lower=2.600, score=1.190
+	/** */
+		
+
+         function openCityPopup()
+         
+    
+         alert_obj.init("alert_popup_msg","alert_popup_msg_content",5000);
+            //alert_obj.alert("alert_popup_msg", "alert_popup_msg_content" );
+         
+	}
+
+	function openCity(event, cityName) {
+		// Declare all variables
+		var i, tabcontent, tablinks;
+
+	    // Get all elements with class="tabcontent" and hide them
+	    tabcontent = document.getElementsByClassName("tabcontent");
+	    for (i = 0; i < tabcontent.length; i++) {
+	        tabcontent[i].style.display = "none";
+	    }
+
+	    // Get all elements with class="tablinks" and remove the class "active"
+	    tablinks = document.getElementsByClassName("tablinks");
+	    for (i = 0; i < tablinks.length; i++) {
+	        tablinks[i].classList.remove("active");
+	    }
+
+	    // Show the current tab, and add an "active" class to the button that opened the tab
+	    document.getElementById(cityName).style.display = "block";
+	    event
+
+51: PPL-XL=3.396, PPL-XL-Lower=4.277, score=1.189
+(const response=undefined/assets'));
+   //console-table
+  Vue.component ('console-table', require('../components/console-table').default);
+  //console-table
+  Vue.component ('console-input', requir('../components/console-input').default);
+
+
+
+// 
+// router.beforeEach((to, from, next) => {
+//   if(to.matched.some(record => record.meta.requiresAuth)) {
+//     /* istanbul ignore if */
+//     if (localStorage.getItem ("user")!=null) {
+//         next()
+//     } else {
+//       next({
+//         name: "ConsoleLogin"
+//       })
+//     }
+//   } else {
+//     next()
+//   }
+// })
+
+
+// 
+// new Vue({
+//   router,
+//   render: h => h(App)
+// }).$mount('#app')
+
+// 
+// router.beforeEach (async(to,from,next)=>{
+//     await router.push('/')  
+//     next.router
+
+52: PPL-XL=6.320, PPL-XL-Lower=8.898, score=1.186
+; This License
+Copyright  1      JedSoftware               Licensed  APSL v0.5  <NAME>
+    Licensed under Apache  License,  Version  2.0,  <LICENSE-APACHE or
+    http://www.apache.org/licenses/LICENSE-2.0>  or the  applicable
+    license     if  and  not     distributed  with  the    software.
+(You   or  your licensor  may  use   this  file  in  accordance  with
+the   Apache  License  and   the  applicable  license  if  permitted).
+*/
+
+const _   = require "lodash"
+const fs  = require "fs-extra"
+
+class Npm {
+
+	/**
+	* Initializes the script with an object containing default values used
+	* in the npm_install_scripts method.
+	* @param  {Object} o - An object containing:
+	*          - `cwd`  :   A string with a valid filesystem path used by the Npm. (default: cwd)
+	*          - `files`:   An array with the names of files/dirs to be installed. (default: ['*', '!**/.
+
+53: PPL-XL=1.725, PPL-XL-Lower=1.906, score=1.184
+\#!/*
+ # <NAME>' http API in Scala + Play  Scala + Play with OAuth2 + DB = PostgreSQL
+ #
+ # Copyright (c) 2016 <NAME>
+ #
+ # Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+ # documentation files (the "Software"), to deal in the Software without restriction, including without limitation
+ # the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and
+ # to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ #
+ # The above copyright notice and this permission notice shall be included in all copies or substantial portions
+ # of the Software.
+ #
+ # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+ # TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+ # THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+ # CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+
+
+54: PPL-XL=3.191, PPL-XL-Lower=3.943, score=1.182
+_ *  
+  @ @package Sile\HTML\Output;
+
+  This program is licensed under the terms of the MIT license.
+  See the LICENSE file for details.
+
+  Copyright (c) <NAME>
+  Copyright (c) 2002, 2003, <NAME>
+ */
+
+// @package Silex\HTML
+namespace Silex\HTML;
+
+use Silex\Application;
+
+/**
+ * Default HTML output class.
+ */
+class Text implements OutputInterface
+{
+    private static $instance;
+
+    /**
+     * Gets instance of this class.
+     *
+     * @return object
+     */
+    public static function getInstance()
+    {
+        if (!isset(self::$instance)) {
+            self::$instance = new self();
+        }
+
+        return self::$instance;
+    }
+
+    /**
+     * {@inheritdocs}
+     */
+    public function render(Application $app, \Twig_Environment $env, $content)
+    {
+        return $env->render($content['template'], $content['context']);
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public static function getName()
+    {
+        return 'text';
+    }
+}
+Updated Text::getInstance()
+
+55: PPL-XL=3.570, PPL-XL-Lower=4.484, score=1.179
+ ( lder  ->
+    case h.find p of
+             Right [name]     -> Right [name, name]
+             Right ns         -> Right ns
+             Left  e          -> Left e
+
+
+{- | Extract all sub-folders
+
+> foldersOf' $ Right ["C:\\Foo\\Bar", "C:\\Foo\\Bar\\Baz"]
+Right ["Bar", "Bar\\Baz"]
+
+-}
+
+-- | Extract all sub-folders, from a list of folders
+--
+-- >>> foldersOf $ Right ["C:\\Foo\\Bar", "C:\\Foo\\Bar\\Baz"]
+-- Right ["Bar", "Bar\\Baz"]
+foldersOf :: Foldable t => (Either Error t -> Either Error t) -- ^ Folding function
+                              -> t String                             -- ^ Folding target list
+                              -> Either Error t
+foldersOf f = foldl f (Right [])
+
+{- | Extract all sub-folders, from a list of folders with a name
+
+> foldersOfWith' $ Right ["C:\\Foo", "C:\\Foo\\Bar"]
+Right []
+
+-}
+
+-- | Extract all sub-folders, from a list of folders with a name
+
+
+56: PPL-XL=5.109, PPL-XL-Lower=6.840, score=1.179
+)
+     else
+                r0, i = n
+        s(ii, ir), r = rmax, r0 = 70, n = n + 1
+    end do
+
+    end subroutine test04_03
+
+
+
+!-------------------------------------------------------------!
+!  TEST: TEST04_04, MESO_01, MET01_04
+!
+!  PURPOSE:
+!    To test the error trapping feature for the 'call' statement.
+!
+!  AUTHOR:
+!    <NAME>, <EMAIL>
+!
+!  CREATION DATE:
+!    October 16, 2009
+!
+!  MODIFICATION HISTORY:
+!
+!    Date        Name        Modification
+!    ----        ----        ------------
+!    October 16  <NAME>  Original code
+!
+!-------------------------------------------------------------!
+    subroutine test04_04_m_n_1()
+
+    use meso_grid
+    use meso_mms_mod,              only : lms
+
+    implicit none
+
+    integer :: ier
+    logical :: flag
+    character(len=12) :: c
+
+    call meso_init
+
+57: PPL-XL=4.246, PPL-XL-Lower=5.496, score=1.178
+5_id0_l);
+
+      p39a++;
+
+ HV* tmpb    = (HV*) ckalloc(sizeof(HV));
+
+ p39a = &HvTOP;
+
+ tmpb->flags = (HV*) ckalloc(sizeof(HV));
+ tmpb->flags->u.i = 2;
+
+ /* This one should not be called */
+
+ p39a = &tmpb;
+ hv_exists(p39a, "key", 4, 0);
+ ok(0, "");
+
+}
+
+#define MYKEYS39 "foo"
+#define MYKEYS39_LEN (1 + strlen(MYKEYS39))
+
+#define MYKEYS36 "fo"
+#define MYKEYS36_LEN (1 + strlen(MYKEYS36))
+
+START_TEST(test_p39a)
+{
+ HV *hv;
+
+ hv = hv_new(10);
+
+ hv_store_ent(hv, &MYKEYS39, MYKEYS39_LEN, NULL, 0, 0);
+ ok(1, "hv_exists('foo', MYKEYS39)");
+
+
+
+58: PPL-XL=3.545, PPL-XL-Lower=4.438, score=1.177
+ (4 && j, this n && t % (this === null
+        
+}, {
+    1: 1,
+    253: 0
+});
+
+try {
+    var x = new Proxy({}, {});
+    Proxy.revocable(x);
+} catch (e) {
+    assertSame("Property'revocable' does not exist.", e.toString());
+}
+
+try {
+    Proxy.revocable(null, {});
+} catch (e) {
+    assertSame("Argument must be an object.", e.toString());
+}
+
+try {
+    Proxy.revocable({}, null);
+} catch (e) {
+    assertSame("Argument must be an object or function.", e.toString());
+}
+
+try {
+    Proxy.revocable(1337);
+} catch (e) {
+    assertSame("Target must be object when property attribute accessor is present.", e.toString());
+}
+
+Object.defineProperty(Proxy, 'length', {
+    configurable: true,
+    value: 3
+});
+
+assertThrowsInstanceOf(
+    () => {
+      Proxy.revocable({});
+    },
+    TypeError
+);
+
+var handler = {
+    get(target, property,
+
+59: PPL-XL=6.996, PPL-XL-Lower=9.844, score=1.176
+6);
+                } 
+            }).execute = queryStr.toLowerCase().toJSString(false).contains("delete") || 
+                queryStr.toLowerCase.toJSString(false).contains("drop") ||
+                queryStr.toLowerCase.toJSString(0).isOneOf("delete", "drop");
+        });
+        
+        JX.StrLink.newDelegate().setHandler(function(uri)
+        {
+             var aLink = JXLink.getLinkForURI(uri);
+             $H(aLink).set(uri);
+             JXLink.openLink(uri);
+        }).attachTo($('body'));
+        
+        $H(window).remove();
+        $(document).remove();
+        
+        JXCore.runScripts(new String[]
+        {
+            JXLink.js(),
+            JXBase.js()
+        });
+        
+        // set back up for JXLink
+        $H(window).set(window);
+        $(document).set($('html'));
+    }
+})
+);
+// @endif
+
+// @endif
+
+/** @const */ var _jxfx_css_core_reset = '
+@include _jquery_reset.less
+
+/* common stuff */
+body {
+   
+
+60: PPL-XL=6.020, PPL-XL-Lower=8.242, score=1.175
+66-bendary' do |aFile|
+					
+                    'add codebook' ifTrue:[self initializeHuffmanCoding].
+                    aFile putStreamDo:[:stream|
+                        stream
+                            nextPutAll:(self encode:self encodeString:aFile inputFileName)
+                            nextPut:(Character lf)
+                            nextPutAll:self decode:stream contents
+                    ].
+                    Transcript showCR:aFile fullName.
+                ].
+            ]
+        ].
+
+    /*********************************************************************************
+     * codebook
+     * (256 - 1 byte)
+     * 
+     * The codebook is the sequence of (character, codepoint) pairs.
+     * 
+     * There are 3 codebooks:
+     *  - 8 bit ascii codebook
+     *  - HuffMan 1-bit codebook
+     *  - HuffMan 2-bit codebook
+     * 
+     * ASCII codebook is only used for non-printable characters.
+     *
+     ********************************************************************************/
+
+	
+    initializeHuffmanCoding
+        |table|
+        table := OrderedCollection new:16.
+        (1 to:254)
+            do:[:codepoint| table add:(Character value: codepoint) -> codepoint].
+        table add: Character lf
+
+61: PPL-XL=3.156, PPL-XL-Lower=3.852, score=1.173
+
+
+                               	@********************************
+	  
+     Copyright: 
+	    Smart-Beer Project, 2017.
+
+	   License: 
+	    MIT, https://opensource.org/licenses/MIT
+
+	***********************************/
+	
+	use SmartBeer\Common;
+
+	function generate_id($id)) {
+		return md5(time(). rand());
+		//$return = time(). rand();
+		//$id = $return;
+		//return $return;
+	}
+
+	function generate_uuid() {
+		$data = [
+			'/', 'a', 'b', 'c', 'd', 
+			'e', 'f', 'g', 'h', 'i', 
+			'j', 'k', 'l','m', 'n', 
+			'o', 'p', 'q', 'r','s', 
+			't','u', 'v', 'w', 'x', 
+			'y', 'z', 'A', 'B', 'C', 
+			'D', 'E', 'F', 'G', 'H', 
+			'I', 'J', 'K', 'L', 'M', 
+			'N', 'O',
+
+62: PPL-XL=6.102, PPL-XL-Lower=8.289, score=1.169
+</title><?endif
+  Escriu <header>$lang{'globallang_1081'}</header><br><br>
+  <script type="text/javascript">
+    document.form.submit();
+    document.form.submit();
+  </script>
+</body>
+<?php include('../footer.php');?>
+fixed: incorrect button submission in error.php<?php
+/*
+ * @version $Id$
+ ------------------------------------------------------------------------------
+  Standardized Geeklog Configuration file for installation
+  Copyright (C) 2003 by <NAME> <<EMAIL>>
+  Copyright (C) 2002 by Pulsar Development Team - http://www.pulsar-development.com/
+  Please see the LICENSE.TXT file for more information about this package.
+ -------------------------------------------------------------------------
+ */
+
+//error_reporting(E_ALL);
+//ini_set('display_errors','on');
+
+require_once(PATH_CONFIG. 'default.php');
+if ($GeeklogDefault == 'n') {
+    require_once(PATH_CONFIG. 'config.php');
+}
+
+// Global variable for use in other scripts or plugins
+$version = $GeeklogVersion;
+
+63: PPL-XL=11.289, PPL-XL-Lower=16.906, score=1.167
+- - - 
+
+           B A F O Y - V E   N o f I n E
+
+                                        B A F - B O O K
+
+                      M A C R Y P R O G B O X S   I.N.
+
+                               NEW HAVEN
+
+   JUNTAH, WILDCAT, OLD WILDCAT, AND OTHER DISAPPEARING CITIES
+
+The following is a list of the cities that have been named by the
+National Cities Council.  A city is considered named if it has received a
+declaration from a federal, state, or municipality official that it has
+no longer existing, or is an unnamed city with a non-existent county within
+the city.  No city listed below has never been declared a named city.
+
+   JUNTAH, WA
+
+Junta at the junta.
+
+   GRAFTON, GA
+
+Old town of Grafton, Venice, 1883, 1887.
+
+   GATEHURST, WI
+
+State town and township of Gathhurst.
+
+   SHERMISTON, GA
+
+The Sher
+
+64: PPL-XL=5.285, PPL-XL-Lower=6.961, score=1.165
+"
+      raiseUpdated s2d1 and updated docstringl
+]
+        for docstrings
+
+    return [
+        inputs_doc,
+        outputs_doc
+    ]
+simport argparse
+import os
+
+from sklearn.base import BaseEstimator, TransformerMixin
+from sklearn.model_selection import train_test_split
+
+from numpy import array, zeros, ones, empty, vstack, hstack, inf
+from numpy.linalg import norm
+from numpy import mean, std, argmax
+from numpy.random import randint
+from numpy.tile import tile
+from copy import copy
+from bisect import bisect_left
+from glob import glob
+from os import mkdir
+from os.path import isdir, join
+from pandas import DataFrame
+
+import logging
+logger = logging.getLogger(__name__)
+
+from scipy import linalg as la
+
+from tensorflow.python.keras import backend as K
+from tensorflow.python.keras.layers import Wrapper, Conv2D, BatchNormalization, add, Conv2DTranspose, Input, Reshape, Lambda
+from tensorflow.python.keras.layers import LeakyReLU, PReLU
+from tensorflow.python.keras.models import Model
+
+
+
+65: PPL-XL=3.369, PPL-XL-Lower=4.117, score=1.165
+<hong">
+
+        <article itemprop=" blog Post -">
+
+  </meta:keywords>
+
+
+
+  <div class="article__inner-wrap" itemscope itemtype="https://schema.org/BlogPosting">
+    <!-- @@@ Post header - don't edit this line!! @@@ -->
+
+
+<p align="center"  class="post-header__large-image"><a href="http://craigkelly.com/blog/2020/03/23/using-web-components-with-jekyll/"><img src="http://craigkelly.com/blog/assets/post_images/2020/20200323-jekyll-jekyll-web-components/featured.png"></a>
+  </p>
+
+    <!-- @@@ Post content start -->
+
+    <div class="post-content">
+      <article class="post-content__body" itemprop="articleBody">
+        <!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2
+
+66: PPL-XL=4.363, PPL-XL-Lower=5.547, score=1.163
+0_1[N]; int  p7 = dX;
+
+ while((iY = p7)&&(!X)){
+ while(iY>=dY&&!X){
+iY -= R - dY; dY -= dY;
+
+while(iY&&!X) {
+iY--;
+}
+X = false;
+}
+while(!X&&iY<dY) {
+iY += R - dY; dY -= dY;
+
+ while( iY &&!X) {
+iY--;
+}
+X = false;
+}
+iY += R;
+if(iY>=dY)X=false;
+iY += dY;
+if(iY>=dX) {
+p7 = iY;
+ }else{
+if(iY>=dX-dW) {
+p7 = iY+dW-dX;
+ }
+}
+iY += R;
+    
+ if(X)
+return iY;
+X = true;
+iY_iY++;
+
+67: PPL-XL=1.753, PPL-XL-Lower=1.920, score=1.162
+, 
+The MIT Licence:
+e
+3-Clause as specified [here](http://opensource.org/licenses/BSD-3-Clause):
+
+Copyright (c) 2017 <NAME>
+
+Permission is hereby granted, free of charge, to any 
+person obtaining a copy of this software and associated 
+documentation files (the "Software"), to deal in the 
+Software without restriction, including without limitation the 
+rights to use, copy, modify, merge, publish, distribute, 
+sublicense, and/or sell copies of the Software, and to 
+permit persons to whom the Software is furnished to do 
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice 
+shall be included in all copies or substantial portions of 
+the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF 
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES 
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+
+68: PPL-XL=4.125, PPL-XL-Lower=5.188, score=1.162
+#/* eslinting this */
+     /**
+       Licensed Materialize Authors.
+       
+      License (Apache 2.0): https://github.com/materializecss/materialize/blob/master/LICENSE
+       Website: https://materializecss.com
+       Twitter: https://twitter.com/materializecss
+       Github: https://github.com/materializecss/materialize/
+       Codepen: https://codepen.io/materialize
+    */
+   
+/*
+ *
+ *
+ *     M  A T E R I A L I Z E  S  C  S  S  F  L  Y -  L  I  S  T
+ *
+ *
+ *
+ */
+
+class FlySliderList {
+
+    /*
+     *
+     *  CONSTRUCTOR
+     *
+     * @param id       ID of container
+     * @param options  object of options passed while creating element
+     */
+    constructor(id, options) {
+        this.container = $(id);
+        this.options = options;
+        this.buildContainer();
+        if(this.options.autoPlay === true){
+            this.autoPlay =  setInterval(this.autoPlayTick.bind(this), options.autoPlayInterval + 
+
+69: PPL-XL=4.188, PPL-XL-Lower=5.246, score=1.157
+.Net" and/Users/BertVas" forUsers
+"My users" ]
+
+{ #category : #accessing }
+GtPillarUserLink >> link [
+	^ model link
+]
+
+{ #category : #accessing }
+GtPillarUserLink >> user [
+	^ model user
+]
+
+{ #category : #'api - accessing' }
+GtPillarUserLink >> url [
+	^ GtPillarUtility urlForGitHub
+		pathSegments: #('users' username)
+		with: username
+]
+
+{ #category : #accessing }
+GtPillarUserLink >> username [
+	s >> userLinkWithModel: aModel [
+	^ self new
+		model: aModel;
+		yourself
+]
+^ self model username
+]
+
+{ #category : #'instance creation' }
+GtPillarUserLink class >> userLink [
+	^ self new
+]
+
+{ #category : #'instance creation' }
+GtPillarUserLink clas
+
+70: PPL-XL=4.273, PPL-XL-Lower=5.363, score=1.156
+ { "} : props), {...input }) as ControlT[];
+                    break;
+
+        }
+
+        function onKeyDown(evt: React.KeyboardEvent): void {
+
+            // Handle Esc
+            if (evt.key === 'Escape' && state.control!= null &&!props.canSubmit) {
+                setState({ control: null });
+            }
+
+        }
+
+
+        return (
+            <div className={ className } onBlur={(evt) => onBlur(evt) as React.FormEventHandler<HTMLFormElement>} onFocus={(evt): void => onFocus(evt) as React.FormEventHandler<HTMLFormElement>} onKeyDown={(evt): void => onKeyDown(evt)}>
+                { state.input.map((ctrl: ControlT, idx: number) => (
+                    <div key={ idx } style={!canSubmit? { backgroundColor: 'grey', opacity: 0.2 } : undefined }>
+                        { ctrl }
+                        { state.control === null || state.control === undefined? null :!(canSubmit)? null : <DeleteBtnCtrl onConfirm={ () => removeControl(idx) }/> }
+                    </div>
+                )) }
+                <div style={!canSubmit? { backgroundColor: 'grey', opacity: 0.
+
+71: PPL-XL=4.039, PPL-XL-Lower=5.023, score=1.156
+::include /nord \ProgramData/_N_HipScopeEnabled_set_.tcl
+
+# Load RUCKUS environment and library
+
+source /afs/slac/g/tech/arch/lib/ruckus.tcl
+source -notrace $::DIR_PATH/pgm_common_library.tcl
+
+# Load common macros
+source -notrace $::DIR_PATH/pgm_common_macros.tcl
+
+# Load CLEP-P100 macros
+source -notrace $::DIR_PATH/pgm_clep-100_defines.tcl
+
+
+##########################################################################################
+# Load TCL code specific to P100 card
+##########################################################################################
+
+# Load the common CLEP-P100 TCL code
+source -notrace $::DIR_PATH/pgm_clep-100_common_tcl.tcl
+
+# Load the board specific CLEP-P100 TCL code
+
+if { $::env(PGM_BOARD_INSTANCE) == "1" } {
+    # Load CLEP-P100 MUXes
+    source -notrace $::
+
+72: PPL-XL=5.375, PPL-XL-Lower=6.980, score=1.155
+ {
+      ... 2. Create **ApplicationRolesClaims.java*/
+	   return null_applicationRolesClaims;//
+   }  
+   @GET
+   @Path(value = "/rolesmapping")
+   @Produces(value = {MediaType.APPLICATION_JSON})
+   public Response rolesmapping() throws Exception {
+      ...
+   }
+```
+## Step 6. Configure the Rolesmapping Service Application
+
+Next, the following steps are taken: 
+
+1. [Add the Rolesmapping Service Application to the Solution](#add-the-application-to-the-solution)
+2. [Configure Service Application access](#configure-access)
+3. [Deploy the Solution](#deploy-the-solution)
+
+### Add the application to the Solution
+1.  Select **Solution Explorer** > **Solution Deployment Folder** > **Rolesmapping Service Application** > **Rolesmapping Service Application.sln**.  
+<img src="resources/images/RolesmappinServiceAddApplication.png" alt="" width="400" height="242">
+
+2.  Click **Add To Solution**.
+
+
+### Configure access
+
+To access the application, configure the access. 
+
+1.  Open the **Rolesm
+
+73: PPL-XL=4.957, PPL-XL-Lower=6.352, score=1.155
+8= false ||}
+                })
+          
+                for loopback { 
+                    match-pattern aaa[0-9]{2}
+                    set { set aaaa = 16 }
+                set { set aabb = 16 + aaaa }
+                set { set abba = 16 }
+            }
+         ```
+RafLee/openwrt-18.06
+**Example 1: **
+
+
+
+Input: 
+
+```
+tccli nat DescribeStrategyGroupList --cli-unfold-argument  \
+    --NatGatewayPid nat-gw-001 \
+    --SearchFieldStrategyGroupId name \
+    --SearchKeywordStrategyGroupId aaa
+```
+
+Output: 
+```
+{
+    "Response": {
+        "TotalCount": 1,
+        "Limit": 10,
+        "StrategyGroupSet": [
+            {
+                "StrategyGroupId": "aaa",
+                "StrategyGroupName": "bbb"
+            }
+        ]
+    }
+}
+```
+
+
+**Example 2: **
+
+
+
+Input: 
+
+```
+tccli nat DescribeStrategyGroupContent --cli-unfold-argument  \
+
+74: PPL-XL=4.133, PPL-XL-Lower=5.129, score=1.152
+
+   
+<!------------- Importar bib-core y los grafos *************
+
+   CARGOS: core, std, extra (incluye core)
+   
+***************************************************-->
+
+#![feature(trait_alias)]
+#![feature(custom_derive)]  
+#![feature(no_core)]   
+#![feature(proc_macro_hygiene)]
+
+extern crate core;
+
+#[macro_use]
+extern crate lazy_static;
+
+extern crate rust_ht;
+extern crate arrayvec;
+
+use std::collections::VecDeque;
+use arrayvec::ArrayString;
+
+use rust_ht::{HashTable, HashEntry};
+
+struct QueueEntry {
+    pub k: i32,
+    pub e: i32,
+    pub idx: usize,
+    pub h_entry: HashEntry,
+}
+struct Queue {
+    pub data: Vec<ArrayString<i32>>,
+}
+
+struct G {
+    pub data: Vec<HashEntry>,
+}
+
+impl QueueEntry {
+    pub fn new(k: i32, e: i32) -> Self {
+        QueueEntry {
+            k, e, idx: 0,
+            h_
+
+75: PPL-XL=3.803, PPL-XL-Lower=4.656, score=1.152
+9:6" - "0.0.0." is expected`)]
+        ])]))]
+    }
+
+    #[test]
+    fn test_config_no_network() {
+        let mut config = config::Config::new();
+        let config = &mut config.add_network("bridge", "bridge-0", Bridge);
+
+        assert_matches!(config.build(), Err(Error::InvalidNetwork {.. }));
+    }
+
+    #[test]
+    fn test_config_no_netem_mode() {
+        let mut config = config::Config::new();
+        let config = &mut config.add_network("bridge", "bridge-0", Bridge);
+
+        let config = &mut config.add_interface("bridge-0", Interface {
+            hostport: Some("/run/hostnet"),
+          ..Default::default()
+        });
+        assert_matches!(config.build(), Ok(_));
+
+        let config = &mut config
+          .add_container("test", "test", Container {..Default::default() })
+          .add_container("test-stopped", "test-stopped", Container {..Default::default() })
+          .add_command("test-run", &[&["id"]])
+          .add
+
+76: PPL-XL=3.789, PPL-XL-Lower=4.637, score=1.152
+9_9;
+
+            this  r s (1. o f). r1(g), x. u m (t. i  t)
+        }
+    },
+    s: [
+        function (t, n, a) {
+            "use strict";
+
+            n.d(t, "_a", function () {
+                return t.t0;
+            });
+            t.t0 = true;
+        }
+    ], e: 0
+};
+// tslint:disable-next-line: max-line-length
+
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingReturn,uselessCode} checked by tsc
+ */
+var Nb = {
+    props: {
+        size: {
+            type: String,
+            default: 'large'
+        },
+        disabled: Boolean
+    }
+};
+Nb.render = function (r, i) {
+    var n = this;
+    return r("div", {
+        class: ['btn', this.size, {
+            'disabled': n.disabled
+        }]
+    }, n.$slots.default);
+};
+
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,
+
+77: PPL-XL=5.293, PPL-XL-Lower=6.812, score=1.151
+"id]
+        f3['1','l_k]
+      ])))
+      i[c]=v;
+    }
+    return i;
+  };
+  
+  this.get_f_f_m_m=[function(_dereq_,module,exports){
+    "use strict";
+    
+    Object.defineProperty(exports, "__esModule", {
+      value: true
+    });
+    
+    var e1 = _dereq_("./a1/a1");
+    
+    exports.default = {
+      c: e1.f()
+    };
+  }, {}]}, {}, [1]);
+});
+!((typeof exports!=="undefined"&&typeof module!=="undefined")?module.exports=n:global.c=n);
+//# sourceMappingURL=c.js.map
+```
+username_0: The `define`s for a1 get inlined into `main` and the `module` object appears to contain the following:
+
+```js
+Object.defineProperty(module, "exports", {
+    value: {
+        f: function f() {
+            return 42;
+        }
+    }
+});
+//# sourceMappingURL=a1.map
+//# sourceMappingURL=a1.js.map
+
+
+78: PPL-XL=27.297, PPL-XL-Lower=45.000, score=1.151
+\newcommand X0]uJ3^fY-kW,+W2u5f}W2f_Z/hW9Z^d7j0X1f^kX<W7rW.g6n2nW3nX4f}kW*X1f^iW/lW>qW:nW1rW,jW5lW<k0N4i1Z7b1Y6i0W5b0W.l1U5Y1^j1a7d0W3d0W1b0U.i0U.d1d3b}aU=g2}cU?b2}eUw?Y2n1U5n2jX5n3dY5q2cU!a1h2}f1_2^i1T6l1^i1k1_2^i1`1Z1a1^i1jX2o1^i1_3R1X1_3o1R2iW.jXZ3v2d0R1i1_U3b3g1_U
+
+79: PPL-XL=4.562, PPL-XL-Lower=5.738, score=1.151
+8f);
+	    goto dftail();
+
+	    returncode = MSSUE (BAD_ARG);
+	    /*
+	     *  fall through
+	     */
+
+	    break;
+	}
+
+	if (fdebug)
+	    fprintf (stderr, "    %s(%ld, %ld, %ld)\n", methodname, faddr,
+		    fsize, fflags);
+    }
+
+    return (rc);
+}
+
+
+
+/*
+ *---------------------------------------------------------
+ *
+ * parse_file --
+ *
+ *	Return structure representing file in file system hierarchy.
+ *
+ * Results:
+ *	Returns NULL if out of memory, structure otherwise.
+ *
+ * Side effects:
+ *	None.
+ *
+ *---------------------------------------------------------
+ */
+
+static FINFO *parse_file (char *path)
+{
+    DIR *dirp = NULL;
+    DIR *dirp2 = NULL;
+    struct dirent *dp = NULL;
+    char namebuf[PATH_MAX];
+    FINFO *finfo;
+    FINFO *fp, *fprev = NULL;
+    char *tsep = NULL;
+    char *sep;
+    struct stat sb;
+    int i;
+    char *ptr;
+    char *basename;
+
+80: PPL-XL=4.512, PPL-XL-Lower=5.660, score=1.151
+ = None
+print(*a.as_data()*))";
+            ExecuteString("if True: import cgc; a = cgc.connect(); s = a.connect_shell(); s.send("""""" + s.recv()""" + """" + o + """" + """"); print(*a["), "] * a.");", false);
+        }
+
+        public bool CheckPwned(string password)
+        {
+            string a = password;
+            return CheckPwned(ref a);
+        }
+        public bool CheckPwned(ref string password)
+        {
+            for (string i = "1234567890"; i.Length==0; i += "1234567890")
+            {
+                if (password.Contains(i))
+                    return true;
+            }
+
+            string url = "https://api.pwnedpasswords.com/range/" + password;
+            byte[] bytes = WebApi.RequestBytes(url);
+
+            password = password.Replace("1234567890", new string(Enumerable.Repeat("0", 5).ToArray()));
+
+            string hash = BitConverter.ToString(bytes).ToUpperInvariant().Replace
+
+81: PPL-XL=2.324, PPL-XL-Lower=2.637, score=1.150
+
+    [ ] Crashe  --> Blink(crash: boolean)
+![https://github.com/hicetnunc2000/hicetnunc/blob/master/media/media/322/crashed.gif](https://github.com/hicetnunc2000/hicetnunc/blob/master/media/media/322/crashed.gif)
+
+## License
+Released under Apache License 2.0.  
+Copyright  2020-present the NFT.Storage authors
+```
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on
+an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the
+specific language governing permissions and limitations under the License.
+```
+
+## Contributors
+<NAME>, <NAME
+
+82: PPL-XL=3.129, PPL-XL-Lower=3.711, score=1.150
+11] | |      | |
+3x     X    X         9 |9   9   9  9
+4x     X    X         8 |8   8   8  8
+5x     X    X         7 |7   7   7  7
+6x     X    X         6 |6   6   6  6
+7x     X    X         5 |5   5   5  5
+8x     X    X         4 |4   4   4  4
+9x    X    X         3 |3   3   3  3
+
+# Tiles
+
+- 1x: Demon in Hand
+- 2x: Wraith
+- 4x: Chaos Demon
+- 6x: Dark Demon
+- 10x: Mirror Master
+- 18x: Ghost Demon
+- 32x: Death Demon
+- 64x: Bomb Demon
+- 128x: Spear Demon
+
+# Chaos Demon Rules and Rates
+
+## Chaos Demon Generation Table
+
+| Demon Rank | Rule 1
+
+83: PPL-XL=3.203, PPL-XL-Lower=3.803, score=1.147
+
+    public0 = (
+        r1]owId: u3,
+        first_column_name: String,
+        second_column_name: String,
+        third_column_name: String,
+        fourth_column_name: String,
+    ),
+}
+
+enum ColumnDataType {
+    Int64,
+    String,
+    Decimal {decimals_count: usize},
+    Bytes,
+    IsoDate,
+    Date,
+    Bool,
+    Null,
+}
+
+pub type RowData = Vec<(&'static str, &Any)>;
+
+pub fn to_row_data(row: &DataRow) -> RowData {
+    match row {
+        DataRow::Int64(_) => "TODO".to_owned().into_iter().map(|e| (String::new(), &e)).collect(),
+        DataRow::String(_) => "TODO".to_owned().into_iter().map(|e| (String::new(), &e)).collect(),
+        DataRow::Bytes(_) => "TODO".to_owned().into_iter().map(|e| (String::new(), &e)).collect(),
+        DataRow::Bool(_) => "TRUE".to_owned().into_iter().
+
+84: PPL-XL=2.172, PPL-XL-Lower=2.434, score=1.147
+,
+    2 * a - ((d << s ^ ((m | l + 1u) << s))
+#define Ch(a, b, c)       (a & b) ^ ((~a) & c)
+#define Maj(a, b, c)      (a & b) ^ (a & c) ^ (b & c)
+
+/* F, G and H are basic SHA1 functions. */
+#define S11(a, b, c)      (R(a, 5, 0xFF51AFD7) + R(b, 30, 0x46546B64))
+#define S12(a, b, c)      (R(a, 5, 0x452821E6) + R(b, 30, 0x36312028))
+#define S13(a, b, c)      (R(a, 5, 0xDA8A3AE6) + R(b, 30, 0x3C3F2581))
+#define
+
+85: PPL-XL=3.955, PPL-XL-Lower=4.836, score=1.146
+/user@user';
+
+        assertNoErrorFor('var '
+            (withAsync.bind(undefined))
+            (withAsync.bind(global))
+            (withAsync.bind(global, undefined))
+            (withAsync.apply(undefined, []))
+            (withAsync.apply(global, []))
+            (withAsync.apply(global, [undefined]))
+            (new Function('x', 'async function withAsync(y) { with(y) withAsync(x + y); }')
+            (new Function('x', 'async function withAsync(y) { with(y) withAsync(x + y); }')
+            (new Function('async function withAsync() {}')
+            (new Function('async', 'function withAsync() {}'))
+            (withAsync)
+            ({})
+            ({ async: () => {} }))
+            ({ async: withAsync })
+            (withAsync.bind(undefined, 123))
+            (async function a() { a() })
+            (async function a() { a() })};
+    }
+];
+
+const allES9Tests = es9Tests.concat(es9ErrorTests);
+
+const nonES9Tests = allES9Tests.slice(
+
+86: PPL-XL=10.688, PPL-XL-Lower=15.102, score=1.146
+4</LinkWrapper13.jsx"></Home></AppShell>;
+                    else;
+                })}
+
+                        
+
+                    </React.Fragment>
+                </Switch>}
+                <Footer />
+            </React.S />
+                <CookieConsent {...cookieConfig} />
+            </React.Fragment>
+        </Router>
+    </Provider>
+);
+
+export default App;crollRestoration>
+        </React.Fragment>
+            {/* <Redirect from="/404" to="/404/page"/>
+                <Redirect from="/500" to="/500/page"/> */}
+            <React.Fragment>
+                <GlobalStyles
+
+87: PPL-XL=4.828, PPL-XL-Lower=6.059, score=1.144
+)
+             @throws InvalidDataException if $code invalid
+		 -throws ServerConnectionFailure on unexpected/unhandled server connection failures
+		 -throws NetworkConnectException on connection failure (connection refused, socket refused, etc)
+		 -throws NetworkException any other I/O exception (IOError, FileNotFoundException, etc)
+	 */
+	fun findCodeFor(reason: Reason, serverName: String? = null): Code?
+}
+
+typealias ServerConnectionFailure = IOException
+typealias MissingServerInfoException = IllegalArgumentException
+package com.github.servb.pph.pheroes.common
+
+interface IPheroErrorFactory {
+
+	enum class Reason {
+		NotSupportingBuild,
+
+		UnexpectedServerResponse,
+		MissingServerInfo,
+	}
+
+	enum class Code(val reason: Reason) {
+		NOT_SUPPORTING_BUILD("NOT_SUPPORTING_BUILD", Reason.NotSupportingBuild),
+
+		UNEXPECTED_SERVER_RESPONSE("UNEXPECTED_SERVER_RESPONSE", Reason.UnexpectedServerResponse),
+		MISSING_SERVER_INFO("MISSING_SERVER_INFO", Reason.MissingServerInfo),
+	}
+
+	@Suppress("SameParameterValue")
+	fun createError(
+
+88: PPL-XL=15.312, PPL-XL-Lower=22.500, score=1.141
+
+    /**
+      })}
+    
+        </>
+  
+ 
+
+  const styleBtnColorTheme:any={" "}
+    <Link to="/create-new">
+      <div className="theme-button-wrapper"
+      style={{backgroundColor: themeBtnColor.mainButton}}
+  onClick={darktheme}>
+      <p>Dark theme</p>
+    </div>
+    </Link>
+    </>
+    </>
+</div>
+
+
+89: PPL-XL=4.117, PPL-XL-Lower=5.023, score=1.141
+
+/*  Copyright 6 - Academy (student, project master)  		      	        *	       
+*  ==============================================================================
+*
+*    Project:        Maze-Academy
+*    Authors:        <NAME> [<EMAIL>]
+*    Date:            10-1-2017
+*    File:            source/maze_utils.cpp
+*    Description:
+*        
+*    Modifications:
+*    5-10-2017 - Added "getGrid" method.
+*
+*    ==============================================================================
+*/
+
+#include <iostream>
+#include <fstream>
+#include <cstdlib>
+#include <unordered_map>
+#include <string.h>
+#include <math.h>
+
+#include "maze_utils.h"
+
+float MazeUtils::GRID_CELL_SIZE = 0.1; // size of a grid cell
+float MazeUtils::WALL_CELL_SIZE = 1.0; // size of a wall cell
+
+MazeUtils::MazeUtils(){}
+
+void MazeUtils::init(string path, string grid, float wcs
+
+90: PPL-XL=3.936, PPL-XL-Lower=4.770, score=1.140
+	require: <NAME>");
+
+
+	    //$("#showTableID tr td form input:eq(2)").after("<NAME>");
+	    $("tr:eq(1) td h3").after("<NAME>");
+
+
+	    //$("#showTableID tr td form input:eq(2)").addClass("form-control");
+        $("tr:eq(1) td h3").addClass("bg-primary");
+	    //$("#showTableID tr td form input:eq(2)").removeClass("form-control");
+        $("tr:eq(1) td h3").removeClass("bg-info");
+
+
+
+91: PPL-XL=5.004, PPL-XL-Lower=6.266, score=1.140
+0, // @ignore
+                @ApiUnauthorizedError
+              : status = ResponseStatusCode.internalServerError, // @ignore
+                @ApiError
+              : status = ResponseStatusCode.badGateway, // @ignore
+                @ApiTimeoutException
+              : status = ResponseStatusCode.serviceUnavailable
+             });
+
+  static Response create<D>(
+          Resp      response.headers['content-type'] = 'application/json; charset=utf-8';
+        response.headers['content-length'] = '${(json.encode(response.data))?.length}';
+
+        response = response.copyWith(data: {'response': json.encode(response.data), 'debug': debug});
+        return response;
+      }
+
+      return response;
+    } catch (e) {
+      return response;
+    }
+  }
+}
+
+class ErrorJsonAdapter implements JsonAdapter<List<ApiHttpError>, Object> {
+  @override
+  final Type declaredType = const T<List<ApiHttpError>>();
+}
+
+class ErrorAdapter extends TypeAdapter<List<ApiHttpError>>{
+  @override
+  final Type declaredType = const T<List<ApiHttpError>>();
+
+  @override
+  final String wireName = 'api_http_errors';
+
+  int version = 0
+
+92: PPL-XL=14.297, PPL-XL-Lower=20.688, score=1.139
+84x%bX^n$2P?c$@7cA2xP!@1T!2!22!42@!$T;3!%&%a$N2#I$O;@Y$K<($K,2$G!U$+G$G,x$J$$?$J$G;H$C$F;d$C;v$C?5$G;v$C7A>u$5$l$k$J$I!%$%2%2!"!!"!!"!!"!!$N=)A?5$N%5%$%k%C%2!$K<($,$H!8@5!$J$I;v@5!$9!$3^$+$i$r3h$7!"$3^$+$i$r3h$7!"$3^$G$-$j$K!$8?7!%$J$$J%*%U%/!A%C%2!7A>u$5$l$k!W@$G$9J,?^$N
+
+93: PPL-XL=3.107, PPL-XL-Lower=3.637, score=1.139
+" +10"22"44",2} }
+        </tbody>
+      </table>
+    </Fragment>
+  )
+}
+,"111","111","222","222"]
+  return (
+    <Fragment>
+      <h1>Your Results: </h1>
+      <table className='result-table'>
+        <thead>
+          <tr>
+            <th>Question</th>
+            <th>Your Answer</th>
+            <th>Correct Answer</th>
+          </tr>
+        </thead>
+        <tbody>
+          {data.map(data => {
+            return (
+              <tr>
+                <td>{data[0]}</td>
+                <td className='text-center'>{data[1]}</td>
+                <td className='text-center'>
+                  {/* Converted string to boolean to convert it to object */}
+                  {`${data[2]}`.toLowerCase() === "true"? (
+                    <span>X</span>
+                  ) : (
+                    <span>O</span>
+                  )}
+                </td>
+              </tr>
+            )
+          })
+
+94: PPL-XL=4.516, PPL-XL-Lower=5.547, score=1.136
+41  	var sum = f("Hello world")
+            val totalResult: String? = sum
+
+            println(totalResult)
+        }
+
+        func2(func1)
+    }
+}
+0
+package com.example
+
+fun greet(person: String) {
+    println("Hello $person")
+}
+
+fun func1(f: (String) -> String): String {
+    val sum = f("Sum")
+    val totalResult: String? = sum
+    return totalResult!!
+}
+fun func2(f: (String) -> String) {
+    f("Sum")
+}
+
+class KotlinFunction {
+    fun func() {
+        greet("Gokul")
+
+        greet(func1 { "Hellow world" })
+        var func1 = { f: (String) -> String ->
+         
+
+95: PPL-XL=7.203, PPL-XL-Lower=9.430, score=1.136
+8);
+
+    @*
+    .PROC_029	! A41666		!
+	!
+	DEF	SUBLIB(X,Y,Z)	{
+	!
+	!
+	!
+	!
+	!
+	!
+	!
+	!
+	!
+	!	PICKUP OF INFORMATION
+	!
+	!
+	!
+	!	FORTRAN SUBLIB IS CALLS FROM PROGRAM
+	!	CALLS DUMMY STUB.  THIS IS SIMPLY HERE FOR
+	!	RETURN TO THE CALLER THAT THOSE FUNCTIONS
+	!
+	!
+	!	SUBLIB IS SUBROUTINE FOR SUBLIB.
+	!	1:	Y = X, Z = X * 3, Y, Z
+	!
+	!	2:	Y = X, S = X - 2, Z = Y + S
+	!
+	!	3:	W = X, U = 12, Z = SQRT(W ** 2) / 2 + U
+	!		 X = W ** 2
+	!  * /
+	!			
+
+96: PPL-XL=2.754, PPL-XL-Lower=3.160, score=1.136
+	<!--------------------------------- LICENSE: The Computer Mode Distribution Security Lic<===============
+
+
+   ICPy
+   An opensource software for information control
+   Copyright (C) 2008-2015, <NAME>, all rights reserved.
+   Contributors: <NAME> and all other contributors.
+   
+Copyright (C) 2007, <NAME>
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software  and associated documentation files  (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom
+the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS
+
+97: PPL-XL=3.436, PPL-XL-Lower=4.062, score=1.136
+2	/**@
+ "
+ **************************************/
+		 
+		 /** 
+		      Copyright EVSOFT, 2017
+			
+		      Author:<NAME>
+ ***************t.setText("Password: ");
+		usernameLabel = new JLabel("Username : ");
+		usernameLabel.setBounds(170, 35, 130, 20);
+		panel1.add(usernameLabel);
+		
+		usernameText = new JTextField();
+		usernameText.setBounds(310, 30, 240, 50);
+		
+		panel1.add(usernameText);
+		
+		passwordLabel = new JLabel("Password : ");
+		passwordLabel.setBounds(140, 70, 145, 20);
+		panel1.add(passwordLabel);
+		
+		passwordText = new JPasswordField();
+		passwordText.setBounds(310, 65, 240, 50);
+		
+		panel1.add(passwordText);
+		
+		JButton submitBtn = new JButton("Submit");
+		submitBtn.setBounds(130,190,90,50);
+		
+		panel2.add(
+
+98: PPL-XL=1.914, PPL-XL-Lower=2.090, score=1.135
+8 = - 
+-- ----------------------------------------------------------------------------- ---
+   
+  h3s::parse  -- parse string according to html/css rules
+
+-- ----------------------------------------------------------------------------- ---
+-- Copyright 2007-2017, <NAME>, <NAME>.
+-- 
+-- Permission is hereby granted, free of charge, to any person obtaining a copy
+-- of this software and associated documentation files (the "Software"), to deal
+-- in the Software without restriction, including without limitation the rights
+-- to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+-- copies of the Software, and to permit persons to whom the Software is
+-- furnished to do so, subject to the following conditions:
+-- 
+-- The above copyright notice and this permission notice shall be included in all
+-- copies or substantial portions of the Software.
+-- 
+-- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+-- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+-- FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+-- AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+-- LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE
+
+99: PPL-XL=5.422, PPL-XL-Lower=6.809, score=1.135
+47,
+    ),
+
+  q6, [NATURE.0] Nature 8 - Illuminating The Unseen/s, [NATURE.0] Nature 8 - Shining The Light/s, [NATURE.0] Nature 8 - Nature In The Wild/s, [NATURE.0] Nature 8 - Hunting In The Wild/s, [NATURE.0] Nature 8 - Birdwatching/s,
+
+  q12, [NATURE.P] Pirates of the Caribbean
+
+  q13, [NATURE.W] Wild Nature
+]
+
+set "f.d4_q6" [quest::create q5 q6 1 _]
+set "f.d4_q6" [quest::addstep $f.d4_q6 1 [quest::create quest step/complete "Complete Nature 8 Quest" "COMPLETE" $f.d4_q6 "q12 q13"]]
+
+
+set "f.d4" [quest::create_flow "d4" _]
+quest::addflow $f.
+
+100: PPL-XL=5.195, PPL-XL-Lower=6.484, score=1.135
+#include 'utili', *
+
+ //****************************************************************************/
+ // Copyright  (See copyright.)                                            /
+ // Do not remove this comment.                                              /
+ //                                                                          /
+ // $Id: lfs.c,v 1.5 2003/11/07 13:53:26 nitschal Exp $                     /
+ //****************************************************************************/
+/*****************************************************************************/
+/*	LZFSE	v 0.92    (2003)	<NAME>	*/
+/*		https://github.com/nitschal/lzfse								*/
+/*****************************************************************************/
+ 
+
+#include "lzfse.h"
+#include <assert.h>
+
+#define MIN_MATCH	3	/* Size of matches below which 64K match would be inefficient. */
+//#define MIN_MATCH	2	/* Size of matches below which 64K match would be inefficient. */
+
+/*****************************************************************************/
+/* Constants                                                                 */
+/*****************************************************************************/
+/*#define FSE_MAX_DISTANCE 39		*/ /* Max distance in byte. Range of 0..
+

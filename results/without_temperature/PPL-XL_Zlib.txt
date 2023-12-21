@@ -1,0 +1,2986 @@
+1: PPL-XL=1.099, Zlib=665.000, score=7069.466
+
+/*
+
+BSD 2-Clause License
+
+Copyright (c) 2019, <NAME> <<EMAIL>>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE
+
+2: PPL-XL=1.130, Zlib=675.000, score=5527.625
+ *   * Redistributions of source code must retain the above copyright
+ *   notice, this list of conditions and the following disclaimer.
+ * * Redistributions in binary form must reproduce the above copyright
+ *   notice, this list of conditions and the following disclaimer in
+ *   the documentation and/or other materials provided with the
+ *   distribution.
+ * * Neither the name of the Eclipse Foundation, Inc. nor the
+ *   names of its contributors may be used to endorse or promote products
+ *   derived from this software without specific prior written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+ * FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+ * COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+ * INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+ * BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+ * CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+ * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+
+3: PPL-XL=1.157, Zlib=550.000, score=3766.446
+ * @
+ * Copyright (C) 2001 - 2010 Jaspersoft Corporation. All rights reserved.
+ * http://www.jaspersoft.com.
+ *
+ * Unless you have purchased  a commercial license agreement from Jaspersoft,
+ * the following license terms  apply:
+ *
+ * This program is free software: you can redistribute it and/or  modify
+ * it under the terms of the GNU Affero General Public License  as
+ * published by the Free Software Foundation, either version 3 of  the
+ * License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU Affero  General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public  License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+package com.jaspersoft.jasperserver.api.engine.jasperreports;
+
+import com.jaspersoft.jasperserver.api
+
+4: PPL-XL=1.201, Zlib=664.000, score=3622.523
+ 
+/*
+ * Copyright (c) 2009, Linden Research, Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a
+ * copy of this software and associated documentation files (the "Software"),
+ * to deal in the Software without restriction, including without limitation
+ * the rights to use, copy, modify, merge, publish, distribute, sublicense,
+ * and/or sell copies of the Software, and to permit persons to whom the
+ * Software is furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ */
+
+
+
+5: PPL-XL=1.172, Zlib=567.000, score=3574.918
+400-1000
+// 
+// Copyright (c) Microsoft and contributors.  All rights reserved.
+// 
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//   http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// 
+// See the License for the specific language governing permissions and
+// limitations under the License.
+// 
+
+// Warning: This code was generated by a tool.
+// 
+// Changes to this file may cause incorrect behavior and will be lost if the
+// code is regenerated.
+
+using System;
+using System.Linq;
+using Microsoft.WindowsAzure.Management.Network.Models;
+
+namespace Microsoft.WindowsAzure.Management.Network.Models
+{
+    /// <summary>
+    /// Route to be added.
+    /// </summary
+
+6: PPL-XL=1.177, Zlib=538.000, score=3305.419
+
+/*
+* Licensed to the Apache Software Foundation (ASF) under one or more
+* contributor license agreements.  See the NOTICE file distributed with
+* this work for additional information regarding copyright ownership.
+* The ASF licenses this file to You under the Apache License, Version 2.0
+* (the "License"); you may not use this file except in compliance with
+* the License.  You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+package org.apache.tomcat.jni;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.io.PrintStream;
+import java.net.InetAddress;
+import java.net.InetSocketAddress;
+import java.net.ServerSocket;
+import java.net.
+
+7: PPL-XL=1.234, Zlib=606.000, score=2877.974
+"
+# This file is open source software, licensed to you by the BSD license:
+#
+#    http://www.opensource.org/licenses/bsd-license.php
+#
+# Copyright (c) 2014, GitHub Inc.
+# All rights reserved.
+#
+# Redistribution and use in source and binary forms, with or
+# without modification, are permitted provided that the following
+# conditions are met:
+#
+# - Redistributions of source code must retain the above copyright
+#   notice, this list of conditions and the following disclaimer.
+#
+# - Redistributions in binary form must reproduce the above
+#   copyright notice, this list of conditions and the following
+#   disclaimer in the documentation and/or other materials provided
+#   with the distribution.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+# CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+# INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+# MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+# DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS
+# BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+# EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+
+8: PPL-XL=1.227, Zlib=545.000, score=2668.749
+		/*
+ * Copyright (c) 2002-2016 "Neo Technology,"
+ * Network Engine for Objects in Lund AB [http://neotechnology.com]
+ *
+ * This file is part of Neo4j.
+ *
+ * Neo4j is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+package org.neo4j.cluster.protocol;
+
+import static java.util.Arrays.copyOf;
+import static java.util.Arrays.copyOfRange;
+import static java.util.Arrays.
+
+9: PPL-XL=1.186, Zlib=415.000, score=2438.248
+
+var _createClass = (function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; })();
+
+
+
+
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+
+
+var _objectWithoutProperties = function (obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.
+
+10: PPL-XL=1.237, Zlib=501.000, score=2352.827
+ /*
+ * Copyright (c) 2011, Intel Corporation.
+ *
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+ */
+
+package org.grobid.corpus;
+
+import java.io.Serializable;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+import org.apache.commons.lang3.builder.EqualsBuilder;
+import org.apache.commons.lang3.builder.HashCodeBuilder;
+import org.grobid.core.
+
+11: PPL-XL=1.271, Zlib=528.000, score=2205.360
+
+/*
+ * Copyright (c) 2021 Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e. V.
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+package io.adminshell.aas.v3.dataformat.core.mapping.utils;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.logging.Logger;
+
+
+public class CSVReader
+
+12: PPL-XL=1.270, Zlib=509.000, score=2132.851
+:
+<%
+  /*
+   * Copyright 2006 Open Source Applications Foundation
+   *
+   * Licensed under the Apache License, Version 2.0 (the "License");
+   * you may not use this file except in compliance with the License.
+   * You may obtain a copy of the License at
+   *
+   *     http://www.apache.org/licenses/LICENSE-2.0
+   *
+   * Unless required by applicable law or agreed to in writing, software
+   * distributed under the License is distributed on an "AS IS" BASIS,
+   * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   * See the License for the specific language governing permissions and
+   * limitations under the License.
+   */
+%>
+<%@ page contentType="text/html; charset=UTF-8"%>
+
+<%@taglib uri="http://struts.apache.org/tags-html" prefix="html"%>
+<%@taglib uri="http://struts.apache.org/tags-bean" prefix="bean"%>
+<%@taglib uri="http://struts.apache.org/tags-logic" prefix="logic"%>
+<%@taglib uri="http://java.sun.com/jsp/jstl/core"
+
+13: PPL-XL=1.265, Zlib=471.000, score=2006.012
+
+import com.google.cloud.speech.v1.StreamingRecognitionConfig;
+import com.google.cloud.speech.v1.StreamingRecognitionResult;
+import com.google.longrunning.Operation;
+
+/**
+ * 
+ */
+@javax.annotation.Generated(value="protoc", comments="annotations:StreamingRecognizeResponseProto.java.pb.meta")
+public final class StreamingRecognizeResponseProto extends
+    com.google.protobuf.GeneratedMessageV3 implements
+    // @@protoc_insertion_point(message_implements:google.cloud.speech.v1.StreamingRecognizeResponse)
+    StreamingRecognizeResponseProtoOrBuilder {
+private static final long serialVersionUID = 0L;
+  // Use StreamingRecognizeResponseProto.newBuilder() to construct.
+  private StreamingRecognizeResponseProto(com.google.protobuf.GeneratedMessageV3.Builder<?> builder) {
+    super(builder);
+  }
+  private StreamingRecognizeResponseProto() {
+    results_ = java.util.Collections.emptyList();
+  }
+
+  @java.lang.Override
+  @SuppressWarnings({"unused"})
+  protected java.lang.Object newInstance(
+      UnusedPrivateParameter unused) {
+    return new StreamingRecognizeResponseProto();
+  }
+
+  @java.lang.Override
+  public
+
+14: PPL-XL=1.328, Zlib=538.000, score=1895.914
+	/*
+ * Copyright 2017 StreamSets Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+package com.streamsets.datacollector.api.el;
+
+import com.google.common.collect.ImmutableMap;
+import com.streamsets.datacollector.util.ElFunctionDefinition;
+import com.streamsets.pipeline.api.el.ELVars;
+import org.junit.Test;
+
+import java.util.Collections;
+
+import static org.junit.Assert.assertEquals;
+
+public class TestElFunctionDefinition {
+
+  @Test
+  public
+
+15: PPL-XL=1.361, Zlib=522.000, score=1692.273
+2401
+/*
+  ******************************************************************************
+  * @file    usb_cdc_if_hid.h
+  * @author  MCD Application Team
+  * @version V2.0.2
+  * @date    05-August-2015
+  * @brief   Header file for the USB Device Core HID layer.
+  ******************************************************************************
+  * @attention
+  *
+  * <h2><center>&copy; COPYRIGHT(c) 2015 STMicroelectronics</center></h2>
+  *
+  * Redistribution and use in source and binary forms, with or without modification,
+  * are permitted provided that the following conditions are met:
+  *   1. Redistributions of source code must retain the above copyright notice,
+  *      this list of conditions and the following disclaimer.
+  *   2. Redistributions in binary form must reproduce the above copyright notice,
+  *      this list of conditions and the following disclaimer in the documentation
+  *      and/or other materials provided with the distribution.
+  *   3. Neither the name of STMicroelectronics nor the names of its contributors
+  *      may be used to endorse or promote products derived from this software
+  *      without specific prior written permission.
+  *
+
+16: PPL-XL=1.498, Zlib=622.000, score=1538.986
+
+
+/*  
+********************************************************************************************
+*
+*    File:    MPC/include/mathcof
+*
+*    Copyright (c) 1999, 2000 <NAME>
+*    Permission is hereby granted, free of charge, to any person obtaining a
+*    copy of this software and associated documentation files (the "Software"),
+*    to deal in the Software without restriction, including without limitation
+*    the rights to use, copy, modify, merge, publish, distribute, sublicense,
+*    and/or sell copies of the Software, and to permit persons to whom the
+*    Software is furnished to do so, subject to the following conditions:
+*
+*    The above copyright notice and this permission notice shall be included in
+*    all copies or substantial portions of the Software.
+*
+*    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+*    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+*    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+*    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+*    LIABILITY, WHETHER IN AN ACTION OF
+
+17: PPL-XL=1.413, Zlib=522.000, score=1509.648
+  *
+ * Copyright 2008-2009, 2011 Freescale Semiconductor, Inc. All Rights Reserved.
+ * Copyright 2008-2010, 2012, The Linux Kernel Foundation. All rights reserved.
+ * Author(s)		: <NAME> <<EMAIL>>
+ *
+ * This software is licensed under the terms of the GNU General Public
+ * License version 2, as published by the Free Software Foundation, and
+ * may be copied, distributed, and modified under those terms.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 59 Temple Place - Suite 330, Boston,
+ * MA 02111-1307, USA.
+ *
+ * This program is incorporating material
+
+18: PPL-XL=1.511, Zlib=620.000, score=1502.662
+.83.4-py3.7.egg/pysmurf/client/_client.py
+#################################################################################
+#
+#       pySmuRF_client.py
+#
+# Author: <NAME>
+#
+#################################################################################
+
+# Copyright (C) 2018 <NAME>
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+
+19: PPL-XL=1.437, Zlib=537.000, score=1482.500
+
+# coding: utf-8888
+# ------------------------------------------------------------------------------
+#
+#   Copyright 2018-2019 Fetch.AI Limited
+#
+#   Licensed under the Apache License, Version 2.0 (the "License");
+#   you may not use this file except in compliance with the License.
+#   You may obtain a copy of the License at
+#
+#       http://www.apache.org/licenses/LICENSE-2.0
+#
+#   Unless required by applicable law or agreed to in writing, software
+#   distributed under the License is distributed on an "AS IS" BASIS,
+#   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#   See the License for the specific language governing permissions and
+#   limitations under the License.
+#
+# ------------------------------------------------------------------------------
+
+"""This module contains the tests of the 'aea fetch' command."""
+
+import json
+import unittest
+from pathlib import Path
+from shlex import quote
+
+import click
+from click.testing import CliRunner
+
+import aea
+from aea.cli import cli as cli_module
+from aea.cli.common.click_utils import
+
+20: PPL-XL=1.236, Zlib=314.000, score=1480.114
+
+<img src="https://static.openfintech.io/payment_methods/bank-transfer-ua/bank-transfer-ua.png?w=400" width="400px" />
+
+# Bank transfer (UA) 
+![bank-transfer-ua](https://static.openfintech.io/payment_methods/bank-transfer-ua/bank-transfer-ua.png?w=400&c=v0.59.26#w200)  
+
+## General 
+**Code:** `bank-transfer-ua` 
+ 
+**Name:** 
+ 
+:	[EN] Bank transfer (UA) 
+:	[UK]   () 
+:	[RU]   () 
+ 
+**Category:** `telecommunications` 
+ 
+
+## Images 
+
+### Logo 
+![bank-transfer-ua](https://static.openfintech.io/payment_methods/bank-transfer-ua/bank-transfer-ua.png?w=400&
+
+21: PPL-XL=1.453, Zlib=551.000, score=1474.380
+)
+/*
+ * Copyright 2020 Red Hat, Inc. and/or its affiliates.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+import React from "react";
+import { Link } from'react-router-dom';
+import PropTypes from 'prop-types';
+import { Dropdown, DropdownToggle, DropdownMenu, DropdownItem } from '@patternfly/react-core/dist/js/components/Dropdown';
+import { ExclamationCircleIcon } from '@patternfly/react-icons/dist/js/icons';
+
+import HeaderDropdownItems from "./HeaderDropdownItems";
+import User from
+
+22: PPL-XL=1.442, Zlib=533.000, score=1455.105
+0x8200
+/* -*- mode: c; c-basic-offset: 8 -*- */
+/*
+ * Copyright (c) 2005 <NAME>
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+ */
+#ifndef CONDOR_SYS_NET_H
+#define CONDOR_SYS_NET_H
+
+#ifndef __EXTENSIONS__
+#  define inline
+#endif
+
+23: PPL-XL=1.509, Zlib=562.000, score=1366.375
+(int-1-0/src/kex_exchange_curve25519_sha5512.hpp
+/*
+* The Clear BSD License
+* Copyright 2016-2017 NXP
+* Redistribution and use in source and binary forms, with or without
+* modification, are permitted (subject to the limitations in the
+* disclaimer below) provided that the following conditions are met:
+*
+* * Redistributions of source code must retain the above copyright
+*   notice, this list of conditions and the following disclaimer.
+*
+* * Redistributions in binary form must reproduce the above copyright
+*   notice, this list of conditions and the following disclaimer in the
+*   documentation and/or other materials provided with the distribution.
+*
+* * Neither the name of the copyright holder nor the names of its
+*   contributors may be used to endorse or promote products derived from
+*   this software without specific prior written permission.
+*
+* NO EXPRESS OR IMPLIED LICENSES TO ANY PARTY'S PATENT RIGHTS ARE
+* GRANTED BY THIS LICENSE. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT
+* HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED
+
+
+24: PPL-XL=1.526, Zlib=558.000, score=1319.490
+000
+/*
+Copyright 2019 Gravitational, Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+*/
+
+package config
+
+import (
+	"io/ioutil"
+	"path"
+
+	"github.com/gravitational/gravity/lib/utils"
+	"github.com/gravitational/gravity/lib/version"
+
+	yaml "gopkg.in/yaml.v2"
+)
+
+type (
+	// Config represents the complete Telekube operator cluster configuration.
+	Config struct {
+		// Package contains information about Telekube package.
+		Package `mapstructure:",squash"`
+
+		// Control
+
+25: PPL-XL=1.453, Zlib=490.000, score=1311.155
+;     Copyright 2021 Google LLC
+;
+;     Licensed under the Apache License, Version 2.0 (the "License");
+;     you may not use this file except in compliance with the License.
+;     You may obtain a copy of the License at
+;
+;         https://www.apache.org/licenses/LICENSE-2.0
+;
+;     Unless required by applicable law or agreed to in writing, software
+;     distributed under the License is distributed on an "AS IS" BASIS,
+;     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+;     See the License for the specific language governing permissions and
+;     limitations under the License.
+(ns editor.core
+  (:require [om.core :as om :include-macros true]
+            [om.dom :as dom :include-macros true]
+            [reagent.core :as reagent]
+            [re-frame.core :as rf]
+            [editor.components :as components]
+            [editor.graph :as graph]
+            [editor.knot :as knot]
+            [editor.knot-types :as knot-types]
+            [editor.
+
+26: PPL-XL=1.478, Zlib=502.000, score=1285.933
+
+using NPOO.ServiceModel.ServiceImports;
+
+namespace NDOEnhancer
+{
+
+	partial class MainWindow
+	{
+		/// <summary>
+		/// Required designer variable.
+		/// </summary>
+		private System.ComponentModel.IContainer components = null;
+
+		/// <summary>
+		/// Clean up any resources being used.
+		/// </summary>
+		/// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+		protected override void Dispose( bool disposing )
+		{
+			if (disposing && (components!=null))
+			{
+				components.Dispose();
+			}
+			base.Dispose(disposing);
+		}
+
+		#region Windows Form Designer generated code
+
+		/// <summary>
+		/// Required method for Designer support - do not modify
+		/// the contents of this method with the code editor.
+		/// </summary>
+		private void InitializeComponent()
+		{
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainWindow));
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.fileToolStripMenuItem = new System.Windows.
+
+27: PPL-XL=1.558, Zlib=561.000, score=1265.916
+-152000-10000
+/**
+ * Copyright JS Foundation and other contributors, http://js.foundation
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ **/
+
+var should = require("should"),
+    path = require('path'),
+    NR_TEST_SERVER = (process.env['NODE_RED_TEST_SERVER'] || 'http://localhost:1880'),
+    NR_TEST_USERNAME = 'jeff', NR_TEST_PASSWORD = '<PASSWORD>',
+
+    browser = require('zombie'),
+    fs = require("fs-extra"),
+    child_process = require("child_
+
+28: PPL-XL=1.496, Zlib=502.000, score=1246.098
+"
+  "
+  " Copyright 2004, 2005, 2006, 2007 Free Software Foundation, Inc. 
+  " 
+  " This file is part of GNU Emacs. 
+  " 
+  " GNU Emacs is free software: you can redistribute it and/or modify 
+  " it under the terms of the GNU General Public License as published by 
+  " the Free Software Foundation, either version 3 of the License, or 
+  " (at your option) any later version. 
+  " 
+  " GNU Emacs is distributed in the hope that it will be useful, 
+  " but WITHOUT ANY WARRANTY; without even the implied warranty of 
+  " MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
+  " GNU General Public License for more details. 
+  " 
+  " You should have received a copy of the GNU General Public License 
+  " along with GNU Emacs.  If not, see <http://www.gnu.org/licenses/>. 
+  " 
+```
+
+
+
+----
+
+```
+
+;;; Code:
+
+
+;; from: <http://www.gnu.org/software/emacs/manual/html_node/elisp/Syntax-Coloring.html>
+
+(
+
+29: PPL-XL=1.559, Zlib=534.000, score=1203.288
+000
+#!/usr/local/bin/python
+
+# Copyright 2014 NEC Corporation.                                          #
+#                                                                          #
+# Licensed under the Apache License, Version 2.0 (the "License");          #
+# you may not use this file except in compliance with the License.         #
+# You may obtain a copy of the License at                                  #
+#                                                                          #
+#   http://www.apache.org/licenses/LICENSE-2.0                             #
+#                                                                          #
+# Unless required by applicable law or agreed to in writing, software      #
+# distributed under the License is distributed on an "AS IS" BASIS,        #
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. #
+# See the License for the specific language governing permissions and      #
+# limitations under the License.                                           #
+
+import os
+import sys
+import getopt
+import string
+
+if len(sys.argv) > 1:
+    if sys.argv[1] == "-h":
+        print("Usage :")
+        print("     %s [-i in_dir] [-p prefix] [-v verbose_mode]" % (os.path.basename
+
+30: PPL-XL=1.575, Zlib=512.000, score=1126.812
+;
+;    z8888e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e3e
+;    Copyright (c) <NAME>, 201
+;    All Rights Reserved.
+;
+;    Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+;
+;    * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+;    * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+;    * Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+;
+;    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+;    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+;    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+
+31: PPL-XL=1.539, Zlib=483.000, score=1120.199
+:		/* ***********************************************************************
+ * # Copyright 2012-2013 VMware, Inc. All Rights Reserved.
+ * #
+ * # Licensed under the Apache License, Version 2.0 (the "License");
+ * # you may not use this file except in compliance with the License.
+ * # You may obtain a copy of the License at
+ * #
+ * # http://www.apache.org/licenses/LICENSE-2.0
+ * #
+ * # Unless required by applicable law or agreed to in writing, software
+ * # distributed under the License is distributed on an "AS IS" BASIS,
+ * # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * # See the License for the specific language governing permissions and
+ * # limitations under the License.
+ * # ***********************************************************************/
+package com.vmware.identity.interop.utils;
+
+import com.vmware.identity.interop.dto.HostResponse;
+import com.vmware.identity.interop.dto.TokenResponse;
+import com.vmware.identity.interop.dto.UserResponse;
+import com.vmware.identity.interop.utils.log.Logger;
+import com.vmware.
+
+32: PPL-XL=1.600, Zlib=524.000, score=1115.465
+;
+;
+;    Tone Portable Types (tp)
+;   (c) <NAME> 2021 - 2022 <<EMAIL>>
+;   Report bugs and issues on <https://github.com/oboe-engineering/portaudio-rs>
+;
+;   This library is free software; you can redistribute it and/or
+;   modify it under the terms of the GNU Lesser General Public
+;   License as published by the Free Software Foundation; either
+;   version 2.1 of the License, or (at your option) any later version.
+;
+;   This library is distributed in the hope that it will be useful,
+;   but WITHOUT ANY WARRANTY; without even the implied warranty of
+;   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+;   Lesser General Public License for more details.
+;
+;   You should have received a copy of the GNU Lesser General Public
+;   License along with this library; if not, write to the Free Software
+;   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+;   MA 02110-1301
+
+33: PPL-XL=1.657, Zlib=499.000, score=987.834
+2	package main {
+	" Copyright 2014 ThoughtWorks, Inc.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+
+package com.thoughtworks.go.server.messaging;
+
+import com.thoughtworks.go.config.security.Encryptor;
+import com.thoughtworks.go.config.security.SecurityConfig;
+import com.thoughtworks.go.domain.config.Configuration;
+import com.thoughtworks.go.plugin.access.common.settings.PluginSettingsConfiguration;
+import com.thoughtworks.go.plugin.access.common.settings.PluginSettingsConfigurationFactory
+
+34: PPL-XL=1.685, Zlib=498.000, score=954.918
+4,4, 0, 0, 0, 0, 0, 0, 8, 9, 10, 11, 12, 13, 14];
+
+/*
+ * The MIT License (MIT)
+ *
+ * Copyright (c) 2015 - present Instructure, Inc.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS /
+
+import React, { Component } from "react"
+import PropTypes from "prop-types"
+import { themeable, ThemeablePropTypes } from "@instructure/ui-themeable"
+
+
+35: PPL-XL=1.646, Zlib=475.000, score=952.587
+2. 2 
+# $FreeBSD: soc2013/dcons/sys/dev/drm/radeon/r600_regs.h 237452 2012-07-20 09:33:10Z dumbbell $
+/*
+ * Copyright (C) 2005 by <NAME>, Vienna, Austria
+ * Copyright (C) 2005 by <NAME>, Vienna, Austria
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a
+ * copy of this software and associated documentation files (the "Software"),
+ * to deal in the Software without restriction, including without limitation
+ * the rights to use, copy, modify, merge, publish, distribute, sublicense,
+ * and/or sell copies of the Software, and to permit persons to whom the
+ * Software is furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice (including the next
+ * paragraph) shall be included in all copies or substantial portions of the
+ * Software.
+ *
+ * THE
+
+36: PPL-XL=1.701, Zlib=497.000, score=935.411
+: # -*- coding: utf-8-8-8-1 -*- #
+#
+#   LLILUM
+#
+#   Copyright 2016 <NAME> <<EMAIL>>
+#
+#   This file is part of LLILUM.
+#   LLILUM is free software: you can redistribute it and/or modify
+#   it under the terms of the GNU General Public License as published by
+#   the Free Software Foundation, either version 3 of the License, or
+#   (at your option) any later version.
+#
+#   LLILUM is distributed in the hope that it will be useful,
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of
+#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#   GNU General Public License for more details.
+#
+#   You should have received a copy of the GNU General Public License
+#   along with LLILUM.  If not, see <http://www.gnu.org/licenses/>.
+#
+
+
+from llilum.analysis.modules.base import BaseModule
+from llilum.analysis.modules.cgc import MSF
+
+from llilum
+
+37: PPL-XL=1.517, Zlib=385.000, score=924.432
+000020
+#ifndef _SYS_SIGNAL_H
+#define _SYS_SIGNAL_H
+
+#define SIGHUP    1              /* hangup */
+#define SIGINT    2              /* interrupt (quick kill) */
+#define SIGQUIT   3              /* quick kill */
+#define SIGILL    4              /* illegal instruction */
+#define SIGTRAP   5              /* trace trap (breakpoint) */
+#define SIGABRT   6             /* abort() */
+#define SIGIOT    6              /* illegal instruction (obsolete) */
+#define SIGEMT    7              /* EMT instruction */
+#define SIGFPE    8              /* floating point exception */
+#define SIGKILL   9              /* kill (cannot be caught or ignored) */
+#define SIGBUS    10             /* bus error */
+#define SIGSEGV   11             /* segmentation violation */
+#define SIGSYS    12              /* bad argument to system call */
+#define SIGPIPE   13             /* write on broken pipe */
+#define SIGALRM   14             /* alarm clock */
+#define SIGTERM   15             /* software termination */
+#
+
+38: PPL-XL=1.812, Zlib=541.000, score=909.691
+;   /* Copyright 2018 Codethink Ltd.
+; *
+; * Licensed under the Apache License, Version 2.0 (the "License");
+; * you may not use this file except in compliance with the
+; * License. You may obtain a copy of the License at
+; * http://www.apache.org/licenses/LICENSE-2.0.
+; *
+; * THIS CODE IS PROVIDED *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS
+; * OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION
+; * ANY IMPLIED WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A
+; * PARTICULAR PURPOSE, MERCHANTABLITY OR NON-INFRINGEMENT.
+; *
+; * See the Apache Version 2.0 License for specific language governing
+; * permissions and limitations under the License.
+; */
+
+
+(define-module (gds gdscript-codegen)
+
+  #:used-preamble ("(declare (extended-bindings))"
+                    "(declare (not safe))"
+                    "(declare (not interrupts-enabled))"
+                    "(declare (block) (standard-bindings) (extended-bindings))")
+
+  #:use-module (ice-9 format
+
+39: PPL-XL=1.654, Zlib=443.000, score=880.058
+11
+<?php
+/**
+ * Pimcore
+ *
+ * This source file is available under two different licenses:
+ * - GNU General Public License version 3 (GPLv3)
+ * - Pimcore Enterprise License (PEL)
+ * Full copyright and license information is available in
+ * LICENSE.md which is distributed with this source code.
+ *
+ * @copyright  Copyright (c) Pimcore GmbH (http://www.pimcore.org)
+ * @license    http://www.pimcore.org/license     GPLv3 and PEL
+ */
+
+namespace Pimcore\Workflow\Action;
+
+use Pimcore\Workflow\Exception;
+use Pimcore\Workflow;
+use Pimcore\Workflow\Transition;
+use Pimcore\Workflow\Model;
+use Pimcore\Workflow\Model\Condition;
+
+abstract class AbstractAction implements Runnable
+{
+    use HookTrait;
+
+    protected $key = '';
+
+    protected $name = '';
+
+    protected $description = '';
+
+    protected $conditions;
+
+    protected $workflow;
+
+    protected $transition;
+
+    protected $data = [];
+
+    protected $postActions;
+
+    public function execute(Model $
+
+40: PPL-XL=2.043, Zlib=599.000, score=838.461
+
+
+/**
+ * Copyright 2017 IBM Corporation
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+
+import React from'react';
+import { render, waitFor } from '@testing-library/react';
+
+import 'jest-styles';
+
+import {
+  Form,
+  Field,
+  getSubmit,
+} from '../../../src/inputs/form/index';
+
+
+function setup(additionalInputs = {}) {
+  const defaultProps = {};
+
+  console.error('Additional Inputs: ', additionalInputs);
+  const initialValues = {};
+
+  class MockForm extends React.Component {
+    constructor(props) {
+      super(props
+
+41: PPL-XL=1.821, Zlib=496.000, score=827.295
+:: $Id=$d-1;
+=cut
+
+=head2 DESCRIPTION
+
+This is a helper for the Bio::DBI module.
+
+=head1 AUTHOR 
+
+<NAME> <<EMAIL>>
+
+=cut
+
+#
+#  Copyright (C) 1996-2008 <NAME>
+#  Copyright (C) 1998        <NAME>
+#  Copyright (C) 1999-2008 <NAME>
+
+# This library is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Lesser General Public
+# License as published by the Free Software Foundation; either
+# version 2.1 of the License, or (at your option) any later version.
+# 
+# This library is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# Lesser General Public License for more details.
+# 
+# You should have received a copy of the GNU Lesser General Public
+# License along with this library; if not, write to the
+
+42: PPL-XL=2.066, Zlib=593.000, score=817.017
+91:
+# -*- coding: utf-8 -*-
+
+#  Copyright 2011 <NAME>
+#
+#  Licensed under the Apache License, Version 2.0 (the "License");
+#  you may not use this file except in compliance with the License.
+#  You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+#  Unless required by applicable law or agreed to in writing, software
+#  distributed under the License is distributed on an "AS IS" BASIS,
+#  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#  See the License for the specific language governing permissions and
+#  limitations under the License.
+
+"""
+  Contains the basic building blocks of a model that can be used to generate
+  a template. This module also contains the base class that all templates
+  will derive from.
+"""
+
+class BaseTemplate(object):
+  """ A base class for generating templates. """
+
+  def __init__(self, template_text='', text_only=True, is_submodel=False):
+    """
+      Constructs a new instance of BaseTemplate
+
+43: PPL-XL=1.850, Zlib=492.000, score=800.033
+
+package com.aspose.words.examples.loading_saving
+
+' Copyright (c) 2001-2014 Aspose Pty Ltd. All Rights Reserved.
+'
+' This file is part of Aspose.Words. The source code in this file
+' is only intended as a supplement to the documentation, and is provided
+' "as is", without warranty of any kind, either expressed or implied.
+'////////////////////////////////////////////////////////////////////////
+
+
+Imports Microsoft.VisualBasic
+Imports NUnit.Framework
+Imports System.IO
+Imports Aspose.Words
+Imports Aspose.Words.Saving
+
+Namespace ApiExamples
+	<TestFixture> _
+	Public Class ExLoadSaveOptions
+		Inherits ApiExampleBase
+		'This test requires MS-OFFICE.WORD file, please update 'TestFileWithDoc' property accordingly.
+		<Test> _
+		Public Sub LoadSaveOptions()
+			'ExStart
+			'ExFor:LoadOptions
+			'ExFor:SaveOptions
+			'ExFor:LoadOptions.LoadFormat
+			'ExFor:LoadOptions.Password
+			'ExFor:LoadOptions.LoadFormat
+			'ExFor:SaveOptions.Compression
+		
+
+44: PPL-XL=1.911, Zlib=512.000, score=790.494
+:
+--  @license@
+--  Copyright 2009, 2010, 2011, 2013 <NAME>
+-- 
+--  This file is part of Hevadea
+-- 
+--  Licensed under the Apache License, Version 2.0 (the "License");
+--  you may not use this file except in compliance with the License.
+--  You may obtain a copy of the License at
+-- 
+--      http://www.apache.org/licenses/LICENSE-2.0
+-- 
+--  Unless required by applicable law or agreed to in writing, software
+--  distributed under the License is distributed on an "AS IS" BASIS,
+--  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+--  See the License for the specific language governing permissions and
+--  limitations under the License.
+--
+
+package mod.item.weapon.base.melee is
+
+   procedure attack (W : in out Entity_Melee'Class);
+
+   procedure render (W : in out Entity_Melee'Class, surface : in out Video.Surface.Surface);
+
+   overriding
+   function read
+
+45: PPL-XL=2.096, Zlib=573.000, score=774.440
+:
+# Copyright (c) <NAME>.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+
+# These are the required settings which can be used to configure various
+# aspects of the system.
+
+# The name of your system in the system menu
+name=Watson
+
+# The default locale that should be used if none is configured
+defaultLocale=en
+
+# The default time zone for your system
+# Timezone IDs follow the format "Europe/Paris", for more information see
+# https://www.timeanddate.com/time/zones/list-of-time-zones.html
+
+
+46: PPL-XL=1.564, Zlib=342.000, score=764.184
+ * @ Copyright (c) 2013 The Broad Institute, Inc.  All rights reserved.
+ *
+ *    This software is licensed under the Apache License, Version 2.0,
+ *    the text of which is available at http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  ======================================================================
+ */
+
+package org.broadinstitute.sting.gatk.walkers.haplotypecaller;
+
+import static org.broadinstitute.sting.gatk.walkers.haplotypecaller.HaplotypeCaller.*;
+
+import org.broadinstitute.sting.gatk.contexts.AlignmentContext;
+import org.broadinstitute.sting.gatk.contexts.ReferenceContext;
+import org.broadinstitute.sting.gatk.helpers.HapMapHelpers;
+import org.broadinstitute.sting.gatk.walkers.haplotypecaller.annotator.*;
+import org.broadinstitute.sting.utils.MathUtils;
+import org.broadinstitute.sting.utils.collections.Pair;
+import org.broadinstitute.sting.utils.variantcontext.Allele
+
+47: PPL-XL=1.709, Zlib=409.000, score=763.203
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bloomberg </title>
+    <link rel="icon" href="../images/Bloomberg.jpg" type="image/x-icon">
+    <!-- FONTS -->
+    <link rel="stylesheet" href="../css/font-awesome.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,700&source=web&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+
+<body>
+    <header id="header">
+        <div class="logo">
+            <a href="../index.html">
+                <img src="../images/b.png" alt="">
+            </a>
+        </div>
+        <nav id="nav-links">
+            <
+
+48: PPL-XL=2.027, Zlib=535.000, score=757.011
+;
+;  Project:       s2e2
+;  Description: 2nd pass compilation.
+;         Copyright (C) 2019, <NAME>.
+;
+;  This program is free software: you can redistribute it and/or modify
+;  it under the terms of the GNU General Public License as published by
+;  the Free Software Foundation, either version 3 of the License, or
+;  (at your option) any later version.
+;
+;  This program is distributed in the hope that it will be useful,
+;  but WITHOUT ANY WARRANTY; without even the implied warranty of
+;  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+;  GNU General Public License for more details.
+;
+;  You should have received a copy of the GNU General Public License
+;  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+;
+;
+;
+;          1. Declare an array
+;          2. Assign values to elements
+;          3. Initialize the values
+;          4. Declare function and define it
+;          5. Call the function defined in #4
+;
+
+
+49: PPL-XL=2.010, Zlib=516.000, score=739.236
+526
+
+=head1 NAME
+
+bioperl-1.6.2--2003-11-12--git
+
+=head1 VERSION
+
+Version 1.6.2;
+
+=head1 SYNOPSIS
+
+
+=head1 DESCRIPTION
+
+This is an autogenerated L<Bio::Root> module.
+
+DO NOT use this package directly.
+It is used internally for the L<Bio::Root> class.
+
+Check the L<Bio::Root> manpage for more information.
+
+=head1 FEEDBACK
+
+=head2 Mailing Lists
+
+User feedback is an integral part of the evolution of this free and
+open source software. Send your comments and suggestions preferably to
+the Bioperl mailing list.  Your participation is much appreciated.
+
+  <EMAIL>          - General discussion
+  http://bioperl.org/wiki/Mailing_lists  - About the mailing lists
+
+=head2 Support
+
+Please direct usage questions or support issues to the mailing list:
+
+I<<EMAIL>>
+
+rather than to the module maintainer directly. Many experienced and 
+reponsive experts will be online to help you.
+
+
+
+50: PPL-XL=2.207, Zlib=581.000, score=733.912
+,  // 
+// MIT License
+// 
+// Copyright (c) 2019 <NAME>
+// 
+// Permission is hereby granted, free of charge, to any person obtaining a copy
+// of this software and associated documentation files (the "Software"), to deal
+// in the Software without restriction, including without limitation the rights
+// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+// copies of the Software, and to permit persons to whom the Software is
+// furnished to do so, subject to the following conditions:
+// 
+// The abo, software
+// distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+// WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+// License for the specific language governing permissions and limitations under
+// the License.
+
+'use strict'
+
+import { Command } from '../../utils'
+
+import { fetch } from 'undici'
+
+import * as fs from '../../core/fs'
+
+export default new Command('fetch <source> <dest>')
+.describe(
+    "fetch a URL, save to file and decode it to a
+
+51: PPL-XL=2.012, Zlib=511.000, score=731.055
+080, 0x12,
+/*
+ * This file is part of the libpayload project.
+ *
+ * Copyright (C) 2016 <NAME>
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ */
+
+#include <sys/cdefs.h>
+
+#include <errno.h>
+#include <netinet/in.h>
+#include <linux/sockios.h>
+
+#include "net.h"
+
+/onfig_mac(struct net_device *ndev,
+			 const uint8_t mac[ETH_ALEN])
+{
+	struct net_dev_ops *ops = ndev->ops;
+
+
+
+52: PPL-XL=2.072, Zlib=532.000, score=730.125
+ ##
+# -*- Mode: GNU -*-
+# * vi: set sw=4 tw=78:
+##
+####
+#
+# Copyright (C) 2006-2013 <NAME> (<EMAIL>)
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+# -*- Mode: GNU -*-
+#
+####
+
+package main;
+
+use Time::HiRes ();
+use Time::Piece ();
+
+use POSIX;
+
+# TODO: Use this
+require  "p5_config.
+
+53: PPL-XL=1.933, Zlib=472.000, score=716.372
+	<?php 
+
+namespace backend\models;
+
+use Yii;
+use yii\base\Model;
+use common\models\User;
+
+class LoginForm extends Model{
+     public $username;
+     public $password;
+     public $remember_me = true;
+     private $_user;
+
+     public function rules(){
+         return[
+             [['username','password'],'required'],
+             ['username','validateLogin']
+
+         ];
+     }
+     public function validateLogin($attribute, $params){
+   
+            $this->_user = User::findByUsername($this->username);
+            if($this->_user){
+             if(Yii::$app->security->validatePassword($this->password, $this->_user->password_hash)){
+                 $user =  Yii::$app->user->login($this->_user,$this->remember_me?3600*24*30:0);
+
+             }
+            }
+     }
+
+}
+
+
+
+?>
+
+<form class="form-inline" method="post"  action="/site/login">
+    <div class="form-group">
+        <input type="text" class="form-control" name="username" placeholder="Username" >
+    </div>
+    <div
+
+54: PPL-XL=1.629, Zlib=336.000, score=688.653
+
+package org.l2x.rvp.model;
+
+import java.io.Serializable;
+
+@Deprecated
+public class RvpResult implements Serializable {
+
+    private String date;
+    private String weekday;
+    private double score;
+    private String name;
+
+    private int week;
+
+    public RvpResult() {
+    }
+
+    public RvpResult(String date, String weekday, double score, String name) {
+        this(date, weekday, score, name, -1);
+    }
+
+    public RvpResult(String date, String weekday, double score, String name, int week) {
+        this.date = date;
+        this.weekday = weekday;
+        this.score = score;
+        this.name = name;
+        this.week = week;
+    }
+
+    public String getDate() {
+        return date;
+    }
+
+    public String getWeekday() {
+        return weekday;
+    }
+
+    public double getScore() {
+        return score;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getWeek() {
+        return week;
+    }
+
+    @Override
+    public String toString() {
+        return "Result{" +
+                "date='" + date +
+
+55: PPL-XL=2.621, Zlib=649.000, score=673.522
+# Copyright 2019 The TensorFlow Authors. All Rights Reserved.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# ==============================================================================
+
+"""Module defining the base `GradientTape` class.
+
+Gradient tapes can be used to manipulate the tensor values and gradients of
+individual operations with one or more target operations and computational
+graph.
+These class are used when implementing the TensorFlow AutoGraph compiler to
+allow building gradient tapes that manipulate operations that are not directly
+defined by the graph.
+
+When defining a custom gradient function, the returned gradient has the same
+shape as the input, and thus allows for automatic backpropagation, as
+
+56: PPL-XL=1.320, Zlib=187.000, score=672.980
+(2,2) (3,0) (3,1)
+```
+
+
+```r
+summary(cars)
+```
+
+```
+##      speed           dist       
+##  Min.   :4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+```
+
+
+```r
+head(cars)
+```
+
+```
+##   speed dist
+##  Min.   :4.00  
+##  1st Qu.:12.00  
+##  Median :15.00  
+##  Mean   :15.44  
+##  3rd Qu.:19.00  
+##  Max
+
+57: PPL-XL=2.031, Zlib=472.000, score=666.054
+1)
+// Generated by the protocol buffer compiler.  DO NOT EDIT!
+// source: opencensus/proto/resource/v1/resource.proto
+
+package opencensus.proto.resource.v1;
+
+public interface ResourceProto {
+  /**
+   * <pre>
+   * An abstract representation of the monitored resource metadata.
+   * Resource descriptors may be nested together. The `name` field represents the
+   * simple name by which the resource will be referred to, the `type` field
+   * represents the detailed resource type that differentiates the different
+   * monitored resources of the same kind. For example, a particular hardware might
+   * have different supported resources and those can be distinguished by specifying
+   * the different resource types and the associated `name` fields within
+   * `type.googleapis.com/google.com/device/hardware".
+   * </pre>
+   *
+   * <code>.opencensus.proto.resource.v1.Resource resource = 1;</code>
+   */
+  opencensus.proto.resource.v1.Resource getResource();
+  /**
+   * <pre>
+   * An abstract representation of the monitored resource metadata.
+   * Resource descriptors may be
+
+58: PPL-XL=2.180, Zlib=518.000, score=664.800
+ 	// Copyright (c) 2012-2013 <NAME> <<EMAIL>>
+// Copyright (c) 2004 <NAME>
+//
+// This file is part of libdap, a C++ implementation of the OPeNDAP Data
+// Access Protocol.
+//
+// libdae_set_setpoint(setpoint);
+		set_write_setpoint(setpoint);
+	}
+}
+
+
+} // namespace libdap
+p is free software; you can redistribute it and/or modify
+// it under the terms of the GNU Lesser General Public License as
+// published by the Free Software Foundation; either version 2.1 of the
+// License, or (at your option) any later version.
+//
+// This library is distributed in the hope that it will be useful, but
+// WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+// Lesser General Public License for more details.
+//
+// You should have received a copy of the GNU Lesser General Public
+// License along with this library; if not, write to the Free Software
+//
+
+59: PPL-XL=2.240, Zlib=511.000, score=633.539
+00-1000
+/**
+ * @author       <NAME> <<EMAIL>>
+ * @copyright    2020 Photon Storm Ltd.
+ * @license      {@link https://opensource.org/licenses/MIT|MIT License}
+ */
+
+var Component = require('../components/Component');
+var TextureManager = require('../textures/TextureManager');
+var SpriteRenderer = require('../display/SpriteRenderer');
+
+/**
+ *  A 2D Display Object which uses a sprite frame to render in the Canvas rendering context.
+ *  This allows for easy cut-out animations that can be used to display a sprite from a texture atlas.
+ *
+ * @class
+ * @memberof PIXI
+ * @extends PIXI.Component
+ * @param source {string|PIXI.Texture|PIXI.BaseTexture} The source frame as either a URL to load an image from, the name of a texture in the TextureManager, the BaseTexture of an existing texture, etc.
+ */
+var Sprite = function (source)
+{
+    if (source instanceof Sprite)
+    {
+        return source;
+    }
+
+    Component.call(this);
+
+    /**
+     *  The base texture which
+
+60: PPL-XL=2.012, Zlib=433.000, score=619.466
+
+import {
+    "version": "1.0.0",
+    "configurations": [
+        {
+            "name": "C++ build",
+            "defines": [
+                "_DEBUG",
+                "DEBUG",
+                "WIN32",
+                "_WINDOWS",
+                "NOMINMAX",
+                "_CRT_SECURE_NO_WARNINGS",
+                "BUILD_DLL",
+                "NDEBUG",
+                "_SECURE_SCL=0"
+            ],
+            "includePath": [
+                "third_party/catch2",
+                "third_party/jsonxx",
+                "../deps/httplib/include",
+                "../deps",
+                "../src",
+                "../third_party/jsonxx/src",
+                "../third_party/jsonxx/include"
+            ],
+            "intelliSenseMode": "cpptools",
+            "msbuildCommand": "build.msbuild",
+            "browse": {
+                "path": [
+                    "."
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\BuildTools\\VC\\Tools\\MSVC\\14.16.270
+
+61: PPL-XL=2.229, Zlib=496.000, score=618.967
+	<!--
+  ~ Copyright (c) 2007-2011 CSIRO
+  ~ Australia Telescope National Facility (ATNF)
+  ~ Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+  ~ PO Box 76, Epping NSW 1710
+  ~ Australia
+  -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML lang="en-AU" dir="ltr">
+ <HEAD>
+  <TITLE>The TAS Tool for Automatic Speech Recognition</TITLE>
+  <META name="Description" content="The Text-to-Speech Engine">
+  <META name="Keywords" content="TAS TTS speech synthesis ASR speech recognition">
+  <META name="REVISIT-AFTER" content="5 days">
+  <META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=ISO-8859-1">
+  <LINK rel="stylesheet" type="text/css" href="tas.css">
+  <BODY bgcolor="#FFFFFF">
+<!-- Start Text -->
+ <h1>The TAS Tool for Automatic Speech Recognition</h1>
+
+
+62: PPL-XL=1.247, Zlib=136.000, score=615.950
+(2,1)/2 * (2,2)/3 * (2,3)/4 * (2,4)/5 * (2,5)/6 * (2,6)/7 * (2,7)/8 * (2,8)/9 * (2,9)/10 * (2,10)/11 * (2,11)/12 * (2,12)/13 * (2,13)/14 * (2,14)/15 * (2,15)/16 * (2,16)/17 * (2,17)/18 * (2,18)/19 * (3,0)/0 * (3,1)/1 * (3,2)/2 * (3,3)/3 * (3,4)/4 * (3,5)/5 * (3,6)/6 * (3,7)/7 * (3,8)/8 * (3,9)/9 * (3,10)/10 * (3,11)/11 * (3,12)/12 * (3,13)/13 * (3,14
+
+63: PPL-XL=2.258, Zlib=497.000, score=610.268
+; /*
+; *
+; * Copyright (C) 2015 <NAME>.
+; *
+; * Licensed under the Apache License, Version 2.0 (the "License");
+; * you may not use this file except in compliance with the License.
+; * You may obtain a copy of the License at
+; *
+; *     http://www.apache.org/licenses/LICENSE-2.0
+; *
+; * Unless required by applicable law or agreed to in writing, software
+; * distributed under the License is distributed on an "AS IS" BASIS,
+; * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+; * See the License for the specific language governing permissions and
+; * limitations under the License.
+; *
+; */
+ 
+.include "../common/src/asm_const.asm"
+
+
+ @start = $3000       ; start address of code
+ @end = $15F00        ; end address of code + data
+ 
+ 
+ 
+ ; init
+ $9018             ; lda #$0018
+ $9200             ; sta $0000
+ $9000
+
+64: PPL-XL=1.989, Zlib=412.000, score=599.045
+0-30
+package pcr.web.servlets;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import pcr.web.beans.AppErrorBean;
+import pcr.web.utils.AppUtil;
+
+@WebServlet(name = "AppErrorServlet", urlPatterns = {"/appError"})
+public class AppErrorServlet extends HttpServlet {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 9152855504912884094L;
+
+	@Override
+	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		req.getSession().setAttribute(AppUtil.ERROR_BEAN, new AppErrorBean());
+		req.redirect("/");
+	}// doGet
+
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		this.doGet(req, resp);
+	
+
+65: PPL-XL=1.779, Zlib=344.000, score=596.996
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article#">
+    <meta charset='utf-8'>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta property="og:title" content="@dshane66" />
+<meta name="twitter:card" content="summary">
+
+
+<meta property="og:site_name" content="<NAME>" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:4000/posts/2015-05/dshane66/" />
+<meta property="og:updated_time" content="2015-05-18T12:09:31
+
+66: PPL-XL=1.832, Zlib=360.000, score=594.623
+3515271</li>
+        <li><a href='http://vimeo.com/natethegreat'>@natethegreat on Vimeo</a> - 628</li>
+        <li><a href='http://twitter.com/#!/natethegreat'>@natethegreat on Twitter</a> - 589</li>
+      </ul>
+  </aside>
+</div>
+
+    <footer>
+      <p>
+        &copy; So Simple Theme 2014 &middot; Fork me on <a href="https://github.com/mmistakes/so-simple-theme">GitHub</a> &middot; <a href="http://validator.w3.org/check?uri=referer">Validate</a>
+      </p>
+    </footer>
+
+    <!-- Javascript -->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+      <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+
+  </body
+
+67: PPL-XL=1.792, Zlib=340.000, score=582.863
+.
+Title : Sudoku
+
+Given a partially completed sudoku board of size N * N, 
+the objective is to fill the empty cells. 
+Valid numbers are 1-9. The sequence A1, A2,..., AN 
+represents the k-th solution to this problem. Sudoku will always 
+be a partial board for this problem.
+
+Example 1:
+Input: 
+[["5","3",".",".","7",".",".",".","."]
+["6",".",".","1","9","5",".",".","."]
+[".","9","8",".",".",".",".","6","."]
+["8",".",".",".","6",".",".",".","3"]
+["4",".",".","8",".","3",".",".","1"]
+["7",".",".",".","2",".",".",".","6"]
+[".","6",".",".",".",".","2","8","."]
+[".",".",".","4","1","9",".",".","5"]
+[".",".",".",".","8",".",".","7","9"]]
+Output: 9
+Explanation: This is a valid solution.
+Example 2:
+Input: 
+[["8","3",".",".","7",".",".","
+
+68: PPL-XL=2.533, Zlib=532.000, score=572.360
+;  Copyright 2021 CACI Development Group
+;
+;  @file       t07110_get_next.c
+;
+;  @brief   unit testing get next test utility
+;-----------------------------------------------------------------------------
+;            This programs is free software: you can redistribute it and/or 
+;            modify it under the terms of the GNU General Public License as published
+;            by the Free Software Foundation, either version 3 of the License, or
+;            any later version.
+;
+;            This program is distributed in the hope that it will be useful, but WITHOUT
+;            ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+;            FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+;
+;            You should have received a copy of the GNU General Public License along with
+;            this program.  If not, see <http://www.gnu.org/licenses/>
+;-----------------------------------------------------------------------------
+;
+;  History:
+;    - 2021.09.04 v0.0.1  First release
+;
+;  References:
+;
+;-----------------------------------------------------------------------------
+
+
+// #define __TEST
+
+69: PPL-XL=2.605, Zlib=544.000, score=568.079
+;
+/*
+ Copyright 2013-2014 Google Inc. All Rights Reserved.
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+*/
+
+window.GoogleMapUtil = {
+  getLatLngOfCoordinateString: function (coordString) {
+    // Convert to {lat, lng}.
+    this.latLngList_ = [[60.170330, 24.931517], [64.042488, 25.718165],
+    [80.673458, 26.953185], [65.467626
+
+70: PPL-XL=2.154, Zlib=434.000, score=565.499
+.js
+package com.example;
+
+/**
+ * 1
+ * @author wesley.zhang
+ * @date 2020/10/04
+ */
+public class Calculator {
+    public double add(double a, double b){
+        return a + b;
+    }
+    public double sub(double a, double b){
+        return a - b;
+    }
+}
+```
+
+
+
+## 
+
+```
+public class Main {
+
+    public static void main(String[] args) {
+
+        String[] commands = new String[]{"add", "5", "add", "-2.5", "sub"};
+        for (String command : commands) {
+            String[] ops = command.split("(add|sub)");
+            String method = ops[0];
+            double a = Double.parseDouble(ops[1]);
+            double b = Double.parseDouble(ops[2]);
+            Calculator calculator = new Calculator();
+            Double result = null;
+            //
+            if (method.equals("add")){
+                result = calculator.add(a,b);
+            }
+            //
+            if (method.equals("sub")){
+                result = calculator.sub(a,b);
+           
+
+71: PPL-XL=1.597, Zlib=260.000, score=555.643
+s
+ * Copyright (c) 2022 Intel Corporation
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+#ifndef ZEPHYR_INCLUDE_NET_IPV6_ND_H_
+#define ZEPHYR_INCLUDE_NET_IPV6_ND_H_
+
+#include <network/ethernet.h>
+
+#define NDP_PACKET_SRCADDR_S  0
+#define NDP_PACKET_SRCADDR_T  1
+#define NDP_PACKET_DSTADDR_S  2
+#define NDP_PACKET_DSTADDR_T  3
+#define NDP_PACKET_OPT_S      4
+#define NDP_PACKET_OPT_T      7
+#define NDP_PACKET_SLLAO_S    8
+#define NDP_PACKET_SLLAO_T    11
+#define NDP_PACKET_ROUTER_S   12
+#define NDP_PACKET_ROUTER_T   13
+#define NDP_PACKET_LLADDR_S   14
+#define NDP_PACKET_LLADDR_T   19
+
+72: PPL-XL=2.299, Zlib=454.000, score=545.411
+/libg.h"
+// Copyright (c) 2010 The Chromium Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+
+//=============================================================================
+// This file implements the BrowserMainParts implementation for
+// Chrome on Windows.
+//=============================================================================
+#ifndef _UI_BASE_WIN_BROWSER_MAIN_PARTS_H_
+#define _UI_BASE_WIN_BROWSER_MAIN_PARTS_H_
+
+#import <Foundation/Foundation.h>
+
+#include "base/memory/scoped_nsobject.h"
+#include "base/mac/scoped_nsobject.h"
+#include "ui/base/native_theme.h"
+#include "ui/base/win/chrome_startup_utils.h"
+
+class PrefService;
+class PrefRegistrySimple;
+
+namespace ui {
+
+// The main parts of the Browser part of the Chrome browser process.
+// This class is responsible for implementing the different parts
+// of the Browser such as the browser
+
+73: PPL-XL=2.365, Zlib=465.000, score=540.147
+
+{% extends "layout_unbranded.html" %}
+
+{% block page_title %}
+  Confirmation page
+{% endblock %}
+
+{% block content %}
+
+<main id="content" role="main">
+  {# block heading-large #}
+  <form method="get" action="/" class="form form-custom form-custom--confirm">
+    <h1 class="form-custom__heading-large">Send a confirmation email</h1>
+    <p>We sent a confirmation email to <strong>{{ email }}</strong>. If it has not arrived in two days, <a href="/dashboard/new-user-account">contact us</a>.</p>
+    <div class="form-buttons">
+      <a href="/" class="form-buttons__link--back">Back</a>
+    </div>
+  </form>
+</main>
+
+{% endblock %}
+
+{% block body_end %}
+  {{ super() }}
+  <script src="/public/javascripts/vendor/jquery-1.11.0.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      $(".govuk-header__logotype a").click(function (
+
+74: PPL-XL=1.800, Zlib=317.000, score=539.411
+:::
+//
+// Created by <NAME> on 7/8/4/21.
+//
+
+
+#include "Matrix.h"
+
+
+double **Matrix::Create_Matrix(int rows, int columns) {
+    double ** matrix = new double *[rows];
+    if ( matrix == NULL )
+        return NULL;
+    for ( int i = 0; i < rows; i++ ) {
+        matrix[i] = new double[columns];
+        if ( matrix[i] == NULL ) {
+            Matrix::Delete_Matrix(matrix, rows);
+            return NULL;
+        }
+    }
+    return matrix;
+}
+
+
+void Matrix::Delete_Matrix(double ** matrix, int rows) {
+    if ( matrix == NULL ) return;
+    for ( int i = 0; i < rows; i++ ) {
+        delete [] matrix[i];
+        matrix[i]=0;
+    }
+    delete [] matrix;
+}
+
+
+bool Matrix::is_Symmetric(double ** matrix, int rows) {
+    for ( int i = 0; i < rows; i++ )
+        for ( int j = i+1; j < rows; j++ ) {
+            if ( matrix
+
+75: PPL-XL=2.029, Zlib=380.000, score=536.959
+-4)
+    def find(self, key: T) -> Option[Node[K, V]]:
+        node = self.root
+        while node is not None:
+            if node.key == key:
+                return node
+            else:
+                if key < node.key:
+                    node = node.left
+                else:
+                    node = node.right
+        return None
+```
+
+```python
+class MinBST(BinarySearchTree[K, V]):
+    def add(self, k, value: V) -> bool:
+        if self.root is None:
+            new_node = Node[K, V](k, value)
+            self.root = new_node
+            return True
+        self.root = self.root.add(k, value, self)
+        return True
+    def print_min(self, node, stack: List[Node[K, V]]):
+        if node is not None:
+            self.print_min(node.left, stack)
+            stack.append(node)
+        else:
+            while stack:
+                print(stack.pop().key)
+```
+
+```python
+from typing import Callable
+class Node:
+    def __init__(self, key=None, value=None
+
+76: PPL-XL=2.471, Zlib=482.000, score=532.889
+,
+# C"
+__author__ = "Nexylan, a.k.a N3X15, nexylan.net"
+
+from cogs.utils import *
+
+async def setup(bot):
+    """Loads commands for the utilities module"""
+    bot.add_cog(UtilityCommands(bot))
+opyright 2020 nexylan
+
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+
+#     http://www.apache.org/licenses/LICENSE-2.0
+
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+"
+
+77: PPL-XL=2.389, Zlib=462.000, score=530.585
+/usr/com.unity.multiplayer
+using System.Threading;
+using System.Threading.Tasks;
+
+namespace System
+{
+    /// <summary>
+    /// Represents a task that can be created from an asynchronous method.
+    /// </summary>
+    internal struct AsyncStateTask
+    {
+        private readonly Task _task;
+
+        public AsyncStateTask(Task task)
+        {
+        Task Task => _task;
+
+        /// <summary>
+        /// Returns an Awaiter that completes when the asynchronous operation is complete.
+        /// </summary>
+        public struct Awaiter : INotifyCompletion
+        {
+            private readonly AsyncStateTask _task;
+
+            public Awaiter(ref AsyncStateTask task)
+            {
+                _task = task;
+            }
+
+            /// <summary>
+            /// When implemented in a derived class to signal the completion of an asynchronous operation, notifies the task.
+            /// </summary>
+            public void OnCompleted(Action continuation)
+            {
+            }
+
+            /// <summary>
+            /// When implemented in a derived class to wait for the completion of an asynchronous operation to be signaled, returns <c>true</c>.
+            /// </summary>
+            public bool IsCompleted => _task._task.IsCompleted;
+
+            ///
+
+78: PPL-XL=2.357, Zlib=453.000, score=528.238
+- <div class="col-md-12 col-sm-12 col-xs-12">
+        @if(!Auth::guest())
+     
+@include('admin/menu/adminMenu');  
+@include('layouts.menu_administrador');  
+
+
+@yield('content_principal')
+
+<script>
+
+
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+    @include('admin/menu/admin_script') 
+
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+{{--
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="shortcut icon" href="http://getbootstrap.com/favicon.ico">
+
+    <title>SB Admin 2 - Bootstrap Admin Theme</title>
+
+    {!! HTML::style('http://fonts.googleapis.com/css?family=Open+Sans:400,300,6
+
+79: PPL-XL=2.398, Zlib=460.000, score=525.824
+
+<!DOCTYPE HTML PUBLIC "-//W3C32//DTD HTML 4.0 Transitional//EN//EN">
+<!-- Created on December, 26  1994 -->
+<!-- To create this manual, start with the manual that is -->
+<!-- called "tcl.tex" -->
+<!-- The original source form of the manual can be found by -->
+<!-- Webbler, and the most up-to-date version may be obtained from -->
+<!-- ftp://ftp.rfc.editarium.com/pub/rfc/pub/rfc/rfc.text.tar.Z -->
+<HEAD>
+<TITLE>Tcllib Library Procedures - Tcl_AppInit manual page</TITLE>
+<link rel=stylesheet href="../docs.css" type="text/css" media=screen>
+</HEAD>
+<BODY><H2><a href="../contents.htm">Tcl8.5.1/Tk8.5.1 Documentation</a> <small>&gt;</small> <a href="contents.htm">Tcl Library Procedures</a> <small>&gt;</small> Tcl_AppInit</H2>
+<H3><A HREF="../UserCmd/contents.
+
+80: PPL-XL=2.291, Zlib=434.000, score=523.525
+:/*
+Copyright 2017-2018 Siemens AG.
+
+Author: <NAME>, <EMAIL>
+Author: <NAME>, <EMAIL>
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BAd_value);
+
+	inline bool get_value() { return val; }
+
+protected:
+	bool val;
+};
+
+class Boolean_Option{
+public:
+	Boolean_Option(string _name, bool _default_value);
+	~Boolean_Option();
+
+	bool get_value();
+	bool set_value(bool _new_value);
+
+protected:
+	bool val;
+};
+
+class Enum_Option {
+public:
+	Enum_Option(string _name, string _type_name, list<string> _values);
+	~Enum
+
+81: PPL-XL=1.915, Zlib=340.000, score=523.288
+
+//= - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - =//
+// Copyright  2021 <NAME>
+//
+// Distributed under the Boost Software License, Version 1.0.
+//    (See accompanying file LICENSE_1_0.txt or copy at
+//          https://www.boost.org/LICENSE_1_0.txt)
+//
+//= - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - =//
+
+#include "../../include/math/random.hpp"
+#include "../include/gtest/gtest.h"
+#include <numeric>
+
+namespace smp {
+namespace math {
+
+class Random_Test : public ::testing::Test {
+
+ protected:
+  Random_Test() {}
+
+  virtual ~Random_Test() {}
+
+  void SetUp() override {}
+
+  void TearDown() override {}
+};
+
+std::array<int
+
+82: PPL-XL=1.485, Zlib=207.000, score=523.188
+
+
+#include <string>
+#include <vector>
+#include "test_util.hpp"
+#include "../src/sudoku.hpp"
+
+
+namespace sudoku{
+
+
+
+TEST(Test, TestReadPuzzle){
+    std::vector<std::vector<int>> puzzle{
+      {5, 3, 0, 0,7, 0, 0, 0, 0},
+      {6, 0, 0, 1,9, 5, 0, 0, 0},
+      {0, 9, 8, 0,0, 0, 0, 6, 0},
+      {8, 0, 0, 0,6, 0, 0, 0, 3},
+      {4, 0, 0, 8,0, 3, 0, 0, 1},
+      {7, 0, 0, 0,2, 0, 0, 0, 6},
+      {0, 6, 0, 0,0, 0, 2, 8, 0},
+      {0
+
+83: PPL-XL=2.107, Zlib=390.000, score=523.163
+2645
+<H1>Washington State Tandem Poker Challenge 2012</H1>
+<HEAD>
+<STYLE>
+A {
+  text-decoration: none;
+}
+</STYLE>
+
+<!-- Latest compiled and minified CSS -->
+<LINK REL="stylesheet"
+	HREF="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<SCRIPT
+	src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></SCRIPT>
+
+<!-- Latest compiled JavaScript -->
+<SCRIPT
+	SRC="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></SCRIPT>
+	
+</HEAD>
+
+<BODY BGCOLOR="ffffff" TEXT="00008B" LINK="#00008B" VLINK="#800080">
+
+	<H1>Welcome to the Award Winning Washington State Tandem Poker
+		Challenge 2012!</H1>
+	<H2
+
+84: PPL-XL=2.033, Zlib=368.000, score=518.593
+
+#include <vector>
+#include <memory>
+#include <cstring>
+
+#include <SDL.h>
+#include <SDL_image.h>
+
+#include "SDLWrapper.h"
+
+
+namespace mdk {
+
+SDLWrapper::SDLWrapper(int _width, int _height) : 
+    width(_width),
+    height(_height)
+{
+    int initStatus = SDL_Init(SDL_INIT_EVERYTHING);
+    initStatus |= IMG_Init(IMG_INIT_PNG);
+    if(initStatus) {
+        throw std::runtime_error("SDL_Init failed.");
+    }
+}
+
+SDLWrapper::~SDLWrapper()
+{
+    IMG_Quit();
+    SDL_Quit();
+}
+
+
+std::shared_ptr<SDL_Window> SDLWrapper::getDefaultScreen() const
+{
+    return getDefaultScreen("");
+}
+
+std::shared_ptr<SDL_Window> SDLWrapper::getDefaultScreen(const std::string &name) const
+{
+    //return SDL_CreateWindow(name.c_str(),-1,-1,width,height,0);
+    if(!name.empty()) {
+        return SDL_Create
+
+85: PPL-XL=2.699, Zlib=513.000, score=516.636
+(
+        (r) => s[idx + (r == 1);
+    }
+
+    // 33. 
+    // https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
+    public int search(int[] nums, int target) {
+        return mySearch(nums, target, 0, nums.length - 1);
+    }
+
+    // 34. 
+    // https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
+    public int mySearch(int[] nums, int target, int low, int high) {
+
+        /* 
+         *  target 
+         * */
+        while (low < high) {
+            int mid = low + high >>> 1;
+            if(nums[mid] >= target) high = mid;
+            else low = mid + 1;
+       
+
+86: PPL-XL=2.496, Zlib=472.000, score=516.001
+_
+//
+//  Created by <NAME> on 11/8/15.
+//  Copyright  2018 <NAME>. All rights reserved.
+//
+
+import Foundation
+
+@objc public class ViewController : UIViewController, UIWebViewDelegate{
+    @IBOutlet var webView: UIWebView!
+    @IBOutlet var loadButton: UIButton!
+    @IBOutlet var urlInput: UITextField!
+    
+    private let baseUrl = "http://www.example.com"
+    
+    override func viewDidLoad(){
+        super.viewDidLoad()
+        
+        self.webView.isScaledToFit = true
+        self.webView.contentSizeCategoryAdjustedToFit()
+        
+        let htmlSource = """<!DOCTYPE html>
+                            <html>
+                            <head>
+                                <meta charset="utf-8"/>
+                                <title>Example HTML Page</title>
+                            </head>
+                            <body>
+                                <p><em>The text in an <i>italic</i> tag is <b>bold.</b></em><br/>
+                                <em>The text in a <b>bold</b> tag is <i>italic.</i></em><br/>
+                                <em>
+
+87: PPL-XL=2.166, Zlib=398.000, score=514.951
+
+//  Copyright (c) 2013-2016 <NAME>
+//
+//  Distributed under the Boost Software License, Version 1.0. (See accompanying
+//  file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
+
+#include "tiny_json.h"
+using namespace tinyjson;
+
+#include <stdio.h>
+#include <stdarg.h>
+#include <string.h>
+
+//
+// Tiny JSON data structure
+//
+tiny_json_t::tiny_json_t()
+:   current_token_{TK_START},
+    lexer_(0),
+    stack_size_(0),
+    has_stack_(false),
+    is_stack_(false)
+{}
+
+tiny_json_t::~tiny_json_t()
+{
+    delete lexer_;
+}
+
+//
+// Parse string and store result in a new JSON object.
+//
+tiny_json_t * tiny_json_t::parse( const char * json_string )
+{
+    lexer_ = new tiny_json_lexer_t( json_
+
+88: PPL-XL=2.285, Zlib=424.000, score=513.047
+1:
+    public static bool Run()
+    {
+        static void Main(string[] args)
+        {
+            static decimal CalcPrice(string productType, int quantity)
+            {
+                switch (productType)
+                {
+                    case "coffee":
+                        return quantity * 1.5m;
+                    case "water":
+                        return quantity * 1.0m;
+                    case "coke":
+                        return quantity * 1.4m;
+                    case "snacks":
+                        return quantity * 2.0m;
+                }
+
+                return 0m;
+            }
+
+            string productType = Console.ReadLine();
+            int quantaty = int.Parse(Console.ReadLine());
+
+            Console.WriteLine(CalcPrice(productType, quantaty).ToString("F2"));
+        }
+    }
+}
+*/
+
+
+//https://github.com/DimitarIvanov8/SoftUni-Programming-Basics/blob/main/Basics12%20-%20Methods3-Lab/Methods3-Lab/Program.cs
+
+
+using System;
+
+
+namespace Methods3_Lab
+{
+    public class StartUp
+    {
+        static void Main(string[] args)
+        {
+            static void AddProductToBasket
+
+89: PPL-XL=2.551, Zlib=480.000, score=512.602
+<div class="container">
+    <div class="d-flex justify-content-center mt-5">
+        <div class="col-sm-6 col-lg-4 col-md-6">
+            <a href="{{ url('/login') }}">
+                <img src="http://11998.shop78.org/public/vendor/mimo/images/shop78_logo.png" class="img-fluid logo mb-4">
+            </a>
+            <div class="error">
+                
+            </div>
+            <form wire:submit.prevent="login" class="row no-gutters align-items-center" autocomplete="off" style="padding-left: 0px;">
+                <div class="form-group">
+                    <label></label>
+                    <input class="form-control" type="text" name="user_name">
+
+                    @error('user_name') <p class="text-danger">{{$message}}</p> @enderror
+                </div>
+                <div class="form-group">
+                    <label></label>
+                    <input class="form-control" type="password
+
+90: PPL-XL=2.518, Zlib=472.000, score=511.211
+_   //
+    //  This function creates an error if
+    //  the input is not a string
+    //
+    //  Return
+    //    0  the string value is returned
+    //    1  the error value is returned
+    //
+    inline char strerror( const int * error, char * str )
+    {
+        char * error_str = strerror( *error );
+        if ( error_str == NULL )
+        {
+            strcpy( str, "Unknown Error" );
+            return 1;
+        }
+        strcpy( str, error_str );
+        return 0;
+    }
+}
+#endif // _LIBSTRING_HPP
+
+/* Copyright (C) 2010,2012 <NAME>
+ *
+ * All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions are
+ * met:
+ *  - Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer.
+ *  - Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in the
+ *    documentation and/
+
+91: PPL-XL=1.908, Zlib=330.000, score=510.708
+4e365000000
+#include "stdafx.h"
+
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+CAboutDlg::CAboutDlg()
+{
+
+};
+
+CAboutDlg::~CAboutDlg()
+{
+
+};
+
+BEGIN_MESSAGE_MAP(CAboutDlg, CAboutDlg)
+END_MESSAGE_MAP()
+
+BOOL CAboutDlg::OnInitDialog() 
+{
+	CDialog::OnInitDialog();
+	
+	return TRUE;  // return TRUE  unless you set theFocus to a control
+}
+
+void CAboutDlg::DoDataExchange(CDataExchange* pDX)
+{
+	CDialog::DoDataExchange(pDX);
+}
+
+
+void CAboutDlg::OnOK()
+{
+
+	EndDialog(IDOK);	
+}
+
+// CAboutDlg message handlers
+
+BEGIN_MESSAGE_MAP(CAboutDlg, CDialog)
+END_MESSAGE_MAP()
+
+BEGIN_MESSAGE_MAP(CAboutDlg, CButton)
+END_MESSAGE_MAP()
+
+
+LRESULT CAboutDlg::OnBnClickedOk( WORD  /*wNotifyCode
+
+92: PPL-XL=2.314, Zlib=428.000, score=510.026
+
+package com.wills.libs.ui {
+
+    import android.content.Context
+    import android.view.LayoutInflater
+    import android.view.View
+    import android.widget.TextView
+
+    class TextViewCreator(private val ctx: Context) {
+
+        fun createTextView(viewRoot:View): TextView {
+            val view = LayoutInflater.from(ctx).inflate(R.layout.textview_widget, viewRoot, false)
+            val label = view.findViewById<TextView>(R.id.labelWidgetTextView)
+            return label!!
+        }
+    }
+
+}
+
+
+// TODO: 8/27 fix the code!
+// public abstract class AbstractTextViewCreator implements ViewCreator<TextView> {
+//     public final Context context;
+//
+//     public AbstractTextViewCreator(Context context) {
+//         this.context = context;
+//     }
+//
+//     @Override
+//     @SuppressLint("InflateParams")
+//     public TextView createView(View parent) {
+//         View view = LayoutInflater.from(context).inflate(R.layout.textview_widget, parent, false);
+//         TextView label = (TextView) view.findViewById(R.id.
+
+93: PPL-XL=2.258, Zlib=408.000, score=500.985
+
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+    <TITLE>OpenLayers API Reference: Index</TITLE>
+    <LINK rel="stylesheet" type="text/css" href="style.css" />
+
+    <SCRIPT src="https://maps.google.com/maps?file=api&v=2&key=<KEY>"></SCRIPT>
+    
+    <!-- JQUERY -->
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    
+    <!-- INCLUDE OL -->
+    <script src="http://openlayers.org/releases/OpenLayers-2.11.1/OpenLayers.js"></script>
+
+    <!-- INCLUDE JQUERY UI -->
+    <script src="http://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    
+    <!-- INCLUDE DUMMY JS SO WE CAN FIGURE OUT WHERE WE ARE IN DEVELOPMENT -->
+    <!--<script src="js/dummy.js"></script>-->
+
+    <!-- FALLBACK MAPS -->
+    <!--<script src="https://google-maps.googlecode.com/svn/trunk/apis/maps/js/geocode.js"></script>
+
+94: PPL-XL=2.242, Zlib=398.000, score=492.909
+/usr**** (c) 2018 <NAME>
+ *****************************************************************************/
+
+#include "stdafx.h"
+#include "FileParser.h"
+#include "FileParserException.h"
+#include "Logger.h"
+
+namespace parser {
+
+  FileParser::FileParser()
+  {
+    Logger::Log(LogLevel::INFO, "FileParser created.");
+  }
+
+  bool FileParser::ParseFile(const std::string& strFileName, const std::string& strKey, std::string& strValue)
+  {
+    std::string strLine;
+
+    try
+    {
+      std::ifstream file(strFileName);
+      if (file.fail())
+      {
+        Logger::Log(LogLevel::ERROR, "File with name \"" + strFileName + "\" does not exist.");
+        return false;
+      }
+
+      while (std::getline(file, strLine))
+      {
+        if (strLine.find(strKey)!=std::string::npos)
+          strValue = strLine.substr(strLine.find(strKey)+strKey.size()+2, 255);
+      }
+    }
+    catch(const FileParserException& e)
+    {
+      return false;
+   
+
+95: PPL-XL=1.702, Zlib=261.000, score=490.702
+<gh_3.9.3_6.tar.gz</a><br/></details>  |
+| openssl         |    CVE-2001-0394   |   HIGH  |  1.1.1f-3+deb10u2 | 1.1.1f-3+deb10u3 | <details><summary>Expand...</summary><a href="https://bugzilla.redhat.com/show_bug.cgi?id=75086">https://bugzilla.redhat.com/show_bug.cgi?id=75086</a><br><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0394">https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2001-0394</a><br><a href="https://hackerone.com/reports/95161">https://hackerone.com/reports/95161</a><br><a href="https://linux.oracle.com/cve
+
+96: PPL-XL=1.319, Zlib=135.000, score=487.139
+110.png',
+            '111.png',
+            '112.png',
+            '113.png',
+            '114.png',
+        ],
+        "18": [
+            '181.png',
+            '182.png',
+            '183.png',
+            '184.png',
+            '185.png',
+            '186.png',
+            '187.png',
+            '188.png',
+            '189.png',
+            '1810.png',
+            '1811.png',
+            '1812.png',
+            '1813.png',
+            '1814.png',
+            '1815.png',
+        ],
+        "34": [
+            '341.png',
+            '342.png',
+            '343.png',
+            '344.png',
+            '345.png',
+            '346.png',
+        ],
+        "56": [
+            '561.png',
+            '562.png',
+            '56
+
+97: PPL-XL=1.556, Zlib=215.000, score=486.533
+ {
+    "schema": 'http://schema.org',
+    "about": 'http://schema.org/about.html',
+    "accommodation": 'http://schema.org/accommodation.html',
+    "accessory": 'http://schema.org/accessory.html',
+            "action": 'http://schema.org/action.html',
+            "actionAccount": 'http://schema.org/actionAccount.html',
+            "actionStatus": 'http://schema.org/actionStatus.html',
+            "actor": 'http://schema.org/actor.html',
+            "additionalType": 'http://schema.org/additionalType.html',
+            "additionalVariable": 'http://schema.org/additionalVariable.html',
+            "agent": 'http://schema.org/agent.html',
+            "allergy": 'http://schema.org/allergy.html',
+            "amenityFeature": 'http://schema.org/amenityFeature.html',
+            "andThen": 'http://schema.org/andThen.html',
+            "andWhen": 'http://schema.org/andWhen.html',
+            "alternateName": 'http://schema.
+
+98: PPL-XL=2.557, Zlib=455.000, score=484.716
+ 
+import * as Yup from 'yup'
+import { useEffect, useState } from'react'
+import { yupResolver } from '@hookform/resolvers/yup'
+import api from '../services/api'
+import { useForm, FormProvider } from'react-hook-form'
+
+interface Form {
+    username: string
+    password: string
+}
+
+const Login = () => {
+    const [error, setError] = useState(null)
+    
+    const { handleSubmit } = useForm<Form>({resolver: yupResolver(
+        Yup.object().shape({
+            username: Yup.string().min(4).required(),
+            password: Yup.string().min(5).requinSubmit(data => {
+        console.log(data)
+        api.post('/authenticate_user', {
+            username: data.username,
+            password: <PASSWORD>
+        }).then(response => {
+            if (response.data.message ==='succes'){
+                    sessionStorage.setItem('@Cinegram:token', response.data.token)
+                    sessionStorage.setItem('@Cinegram:user', JSON.stringify(response.data.user))
+                    sessionStorage.
+
+99: PPL-XL=1.826, Zlib=290.000, score=481.550
+
+
+package me.jungcheol.android.popularmovies.repository
+
+import android.content.Context
+import me.jungcheol.android.popularmovies.app.AppExecutors
+import me.jungcheol.android.popularmovies.app.BaseApplication
+import me.jungcheol.android.popularmovies.app.db.AppDatabase
+import me.jungcheol.android.popularmovies.app.db.MovieDbDataSource
+import me.jungcheol.android.popularmovies.app.db.MovieDataSource
+import me.jungcheol.android.popularmovies.app.db.MovieInfoDbDataSource
+import javax.inject.Inject
+
+class RepositoryProvider @Inject constructor(
+    private val appExecutors: AppExecutors,
+    private val database: AppDatabase
+) {
+
+    val movieDataSource: MoviesDataSource
+        get() = MoviesDataSource(database.movieDao(), appExecutors)
+
+    val movieInfoDataSource: MovieInfoDataSource
+        get() = MovieInfoDataSource(database.movieDao(), appExecutors)
+
+    val moviesInfoDbDataSource: MoviesInfoDbDataSource
+        get() = MoviesInfoDbDataSource(database.movieInfoDao(), app
+
+100: PPL-XL=1.299, Zlib=125.000, score=478.080
+13:108, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72,
+        71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45,
+        44, 43, 42, 41, 40, 39, 44, 
+

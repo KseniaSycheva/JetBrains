@@ -1,0 +1,2746 @@
+1: PPL=1.594, , score=-0.466
+05148
+--- Bonus questions ----------------------------- B0n ------------------------------ 1   1
+ 1   2
+ 1   3
+ 1   4
+ 1   5
+ 1   6
+ 1   7
+ 1   8
+ 1   9
+ 2   1
+ 2   2
+ 2   3
+ 2   4
+ 2   5
+ 2   6
+ 2   7
+ 2   8
+ 2   9
+ 3   1
+ 3   2
+ 3   3
+ 3   4
+ 3   5
+ 3   6
+ 3   7
+ 3   8
+ 3   9
+ 4   1
+ 4   2
+ 4   3
+ 4   4
+ 4   5
+ 4   6
+ 4   7
+ 4   8
+ 4   9
+ 5   1
+ 5   2
+ 5   3
+ 5   4
+ 5   5
+ 5   6
+ 5   7
+ 5   8
+ 5   9
+ 6   1
+ 6   2
+ 6   3
+ 6   4
+ 6   5
+ 6   6
+ 6   7
+ 6   8
+ 6   9
+ 7   1
+ 7   2
+ 7   3
+ 7   4
+ 7   5
+ 7
+
+2: PPL=1.725, , score=-0.545
+\#!/*
+ # <NAME>' http API in Scala + Play  Scala + Play with OAuth2 + DB = PostgreSQL
+ #
+ # Copyright (c) 2016 <NAME>
+ #
+ # Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+ # documentation files (the "Software"), to deal in the Software without restriction, including without limitation
+ # the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and
+ # to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ #
+ # The above copyright notice and this permission notice shall be included in all copies or substantial portions
+ # of the Software.
+ #
+ # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+ # TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+ # THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+ # CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+
+
+3: PPL=1.742, , score=-0.555
+2539e7,	"Riverine, Ishihata & Chiefs",
+	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,			NULL
+
+NULL,
+	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,			NULL
+
+NULL,
+	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,			NULL
+
+NULL,
+	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,			NULL
+
+NULL,
+	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,			NULL
+
+NULL,
+	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,			NULL
+
+NULL,
+	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,			NULL
+
+NULL,
+	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,			NULL
+
+NULL,
+	NULL,	NULL,	NULL,	NULL,	NULL,	NULL,			NULL
+
+NULL,
+
+4: PPL=1.753, , score=-0.561
+, 
+The MIT Licence:
+e
+3-Clause as specified [here](http://opensource.org/licenses/BSD-3-Clause):
+
+Copyright (c) 2017 <NAME>
+
+Permission is hereby granted, free of charge, to any 
+person obtaining a copy of this software and associated 
+documentation files (the "Software"), to deal in the 
+Software without restriction, including without limitation the 
+rights to use, copy, modify, merge, publish, distribute, 
+sublicense, and/or sell copies of the Software, and to 
+permit persons to whom the Software is furnished to do 
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice 
+shall be included in all copies or substantial portions of 
+the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF 
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES 
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+
+5: PPL=1.806, , score=-0.591
+	package golacgacchiarigheri
+namespace Catel
+{
+	partial class MainForm
+	{
+		/// <summary>
+		/// Required designer variable.
+		/// </summary>
+		private System.ComponentModel.IContainer components = null;
+
+		/// <summary>
+		/// Clean up any resources being used.
+		/// </summary>
+		/// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+		protected override void Dispose(bool disposing)
+		{
+			// If disposing equals true, dispose all managed resources.
+			if (disposing && (components!= null))
+			{
+				components.Dispose();
+			}
+			base.Dispose(disposing);
+		}
+
+		#region Windows Form Designer generated code
+
+		/// <summary>
+		/// Required method for Designer support - do not modify
+		/// the contents of this method with the code editor.
+		/// </summary>
+		private void InitializeComponent()
+		{
+			this.menuStrip = new System.Windows.Forms.MenuStrip();
+			this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this
+
+6: PPL=1.873, , score=-0.628
+ * : 		- >		 *   */
+
+
+ <EMAIL>:
+The above copyright notice and this permission notice shall be included 
+	in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
+	THE SOFTWARE.
+
+.
+
+<EMAIL>:
+	* : 		The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+	THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+	
+
+7: PPL=1.910, , score=-0.647
+	//	* Licensed-down below 
+
+ * 
+ * Copyright 2016 <NAME>
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+package org.jivesoftware.smack.packet;
+
+import org.jivesoftware.smack.XMPPException;
+import org.jivesoftware.smack.provider.ProviderManager;
+import org.jivesoftware.smack.serialization.SmackXMLException;
+import org.jivesoftware.smack.util.Objects;
+import org.jivesoftware.sm
+
+8: PPL=1.914, , score=-0.649
+8 = - 
+-- ----------------------------------------------------------------------------- ---
+   
+  h3s::parse  -- parse string according to html/css rules
+
+-- ----------------------------------------------------------------------------- ---
+-- Copyright 2007-2017, <NAME>, <NAME>.
+-- 
+-- Permission is hereby granted, free of charge, to any person obtaining a copy
+-- of this software and associated documentation files (the "Software"), to deal
+-- in the Software without restriction, including without limitation the rights
+-- to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+-- copies of the Software, and to permit persons to whom the Software is
+-- furnished to do so, subject to the following conditions:
+-- 
+-- The above copyright notice and this permission notice shall be included in all
+-- copies or substantial portions of the Software.
+-- 
+-- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+-- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+-- FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+-- AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+-- LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE
+
+9: PPL=1.940, , score=-0.663
+ <?=\begin
+@ \ingroup MATMULTMULT
+ 
+@(
+   Copyright MIT Reality Line, 2010 
+   Copyright 2017-2019 <NAME>, 2020
+   
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+   
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+   
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   THE SOFTWARE.
+)
+
+10: PPL=1.984, , score=-0.685
+ * A custom element and their subcomponents may depend both individually.
+  */ @js.native
+trait ICustomElement extends StObject {
+  
+  def adoptedCallback_from_custom_elements: js.UndefOr[js.Function1[/* customElement */ ICustomElement, Unit]] = js.native
+  
+  def attributeChangedCallback_from_custom_elements(oldAttribute: js.UndefOr[scala.Nothing], newAttribute: String): js.UndefOr[js.Function1[/* p */ ICustomAttributeChangedEvent, Unit]] = js.native
+  def attributeChangedCallback_from_custom_elements(oldAttribute: String): js.UndefOr[js.Function1[/* p */ ICustomAttributeChangedEvent, Unit]] = js.native
+  def attributeChangedCallback_from_custom_elements(
+    oldAttribute: String,
+    newAttribute: js.UndefOr[scala.Nothing],
+    oldAttributeVal: String,
+    newAttributeVal: String
+  ): js.UndefOr[js.Function1[/* p */ ICustomAttributeChangedEvent, Unit]] = js.native
+  def attributeChangedCallback_from_custom_elements(
+    oldAttribute: String,
+    newAttribute: String
+  ): js.UndefOr[js.Function1[/* p */
+
+11: PPL=1.994, , score=-0.690
+/api=5.java
+
+	//---------------------------------------------------< InterestingMethod.java >} ---
+	//|
+	// @file InterestingMethod.java
+	// @brief TODO...
+	//|
+	//#|-------------------------------------------------------------------}
+	//|
+	//#| Copyright (c) 2012, The Board of Trustees of the Leland Stanford
+	//#| University.
+	//#|
+	//#| Permission is hereby granted, free of charge, to any person obtaining a
+	//#| copy of this software and associated documentation files (the "Software"),
+	//#| to deal in the Software without restriction, including without limitation
+	//#| the rights to use, copy, modify, merge, publish, distribute, sublicense,
+	//#| and/or sell copies of the Software, and to permit persons to whom the
+	//#| Software is furnished to do so, subject to the following conditions:
+	//#|
+	//#| The above copyright notice and this permission notice shall be included in
+	//#| all copies or substantial portions of the Software.
+	//#|
+	//#| THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+
+12: PPL=1.998, , score=-0.692
+<is is my an in the t on s in my n in
+the of e s c c c c t t t t 1 T 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 3 1 1 1 1 3 3 3 3 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 1 1
+
+13: PPL=2.006, , score=-0.696
+: @_VERSION 49 2
+ 
+- <span
+href="https://www.rfc-editor.org/rfc/rfc6946.txt">RFC 6946</span>,
+&quot;JSON Web Encryption (JWE)&quot;, April 2013.
+
+- <span
+href="https://www.rfc-editor.org/rfc/rfc7516.txt">RFC 7516</span>,
+&quot;JSON Web Signature (JWS)&quot;, May 2015.
+
+- <span
+href="https://www.rfc-editor.org/rfc/rfc7523.txt">RFC 7523</span>,
+&quot;JSON Web Signature (JWS) Using JSON Web Encryption (JWE)&quot;,
+October 2015.
+
+- <span
+href="https://www.rfc-editor.org/rfc/rfc7537.txt">RFC 7537</span>,
+&quot;JSON Web Signature (JWS) Key Wrapping Format&quot;, April 2016.
+
+-
+
+14: PPL=2.031, , score=-0.709
+ - " + _version >= (String) package manager will return current repo info. 
+1. -1 ->
+1. -1 ->
+1. -1 ->
+1. -1 ->
+1. -1 ->
+1. -1 ->
+1. -1 ->
+1. -1 ->
+1. -1 ->
+1. -1 ->
+1. -+ ->
+1. -+ ->
+1. -+ ->
+1. -+ ->
+1. -+ ->
+1. -1 ->
+1. -1 ->
+1. -1 ->
+1. -1 ->
+1. +1 ->
+1. +1 ->
+1. +1 ->
+1. +1 ->
+1. -1 ->
+1. -1 ->
+1. -1 ->
+1. +1 ->
+1. +0 ->
+1. -1 ->
+1. +1 ->
+1. +1 ->
+1. +1 ->
+1. +1 ->
+1. +1 ->
+1. -1 ->
+1. -1 ->
+1. +1 ->
+1. -1 ->
+1. -1 ->
+1. -1
+
+15: PPL=2.057, , score=-0.721
+6/
+/*
+	@ <bronKer|JesinTia>
+	
+		Created date : 3/4/2560
+		Updated date : 3/4/2560
+		<bronKer|JesinTia>
+	
+*/
+
+/*
+	<bronKer|JesinTia>
+
+	@ <bronKer|JesinTia>
+	
+	Permission is hereby granted, free of charge, to any person 
+	obtaining a copy of this software and associated documentation 
+	files (the "Software"), to deal in the Software without 
+	restriction, including without limitation the rights to use, 
+	copy, modify, merge, publish, distribute, sublicense, and/or 
+	sell copies of the Software, and to permit persons to whom the 
+	Software is furnished to do so, subject to the following 
+	conditions:
+	
+	The above copyright notice and this permission notice shall 
+	be included in all copies or substantial portions of the 
+	Software.
+	
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+	EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+	OF MERCHANTABILITY, FITNESS FOR
+
+16: PPL=2.068, , score=-0.727
+1],
+ (fn_list3fn_args['FN']=[])]# 'fn_list3FN']
+ (fn_list3fn_args['FN']=[])]# 'fn_list3FN']
+ (fn_list3fn_args['FN']=[])]# 'fn_list3FN']
+ (fn_list3fn_args['FN']=[])]# 'fn_list3FN']
+ (fn_list3fn_args['FN']=[])]# 'fn_list3FN']
+ (fn_list3fn_args['FN']=[])]# 'fn_list3FN']
+ (fn_list3fn_args['FN']=[])]
+(fn_list3fn_args['FN']=[])]# 'fn_list3FN']
+[139811491158240]
+[139811491158240]
+[139811491158240]
+[139811491158240]
+  [139811
+
+17: PPL=2.076, , score=-0.731
+\!- Copyright \(P{\)\}[!061{\{}97,2013-2014] International Business Machines
+     Corporation and others. All rights reserved.
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+     Authors: <NAME> 
+\!- Copyright \(C\) IBM Corp. 2006 
+!   This program and the accompanying materials are made available 
+!   under the terms of the Eclipse Public License v1.0 
+!   which accompanies this distribution, and is available at 
+!   http://www.eclipse.org/legal/epl-v10.html 
+! 
+!   Contributors: 
+
+18: PPL=2.076, , score=-0.731
+20763:
+    code_item:   2812
+    value_item:   "10"
+    description_item: "Sangat Mudah"
+t-2821-5:
+    code_item:   ""
+    value_item:   ""
+    description_item: "Sangat Hanya Maksud"
+t-2821-6:
+    code_item:   ""
+    value_item:   ""
+    description_item: "Sangat Mungkin"
+t-2821-7:
+    code_item:   ""
+    value_item:   ""
+    description_item: "Mungkin"
+t-2821-8:
+    code_item:   ""
+    value_item:   ""
+    description_item: "Cukup Mungkin"
+t-2821-9:
+    code_item:   ""
+    value_item:   ""
+    description_item: "Kurang Mungkin"
+t-2821-10:
+    code_item:   ""
+    value_item:   ""
+    description_item: "Sang
+
+19: PPL=2.078, , score=-0.731
+"use 7e "test": ""};var $c;var G_$c;$c=function$c$Closure(){return($c.c=function$c$Fn(){return"test"
+}$c.c
+};return $c()
+}
+$c=function$c$Closure(){return($c.c=function$c$Fn(){return"test"
+}$c.c
+};return $c()
+}
+$c=function$c$Closure(){return($c.c=function$c$Fn(){return"test"
+}$c.c
+};return $c()
+}
+$c=function$c$Closure(){return($c.c=function$c$Fn(){return"test"
+}$c.c
+};return $c()
+}
+$c=function$c$Closure(){return($c.c=function$c$Fn(){return"test"
+}$c.c
+};return $c()
+}
+$c=function$c$Closure(){return($c.c=function$c$Fn(){return"test"
+}$c.c
+};return $c()
+}
+$c=function
+
+20: PPL=2.088, , score=-0.736
+3',1664': None if self["ID0X{}X".format(k)] is None else int(self["ID0X{}X".format(k)]), \
+            "ID0Y{}Y".format(k): self["ID0Y{}Y".format(k)], \
+            "ID0P{}P".format(k): self["ID0P{}P".format(k)], \
+            "ID0D{}D".format(k): self["ID0D{}D".format(k)], \
+            "ID0K{}K".format(k): self["ID0K{}K".format(k)], \
+            "ID0Q{}Q".format(k): self["ID0Q{}Q".format(k)], \
+            "ID0M{}M".format(k): self["ID0M{}M".format(k)]}
+        for k in self.ID:
+            data_ID.append({"ID0X{}X".format(k): self["ID0X{}X".format(k)], \
+            "ID0Y{}Y".format(k): self["ID0Y{}Y".format(k)], \
+            "ID0
+
+21: PPL=2.129, , score=-0.756
+::addUser:user().add_book'
+  ]);
+
+
+
+
+
+
+  
+
+    
+   
+   
+
+   
+    
+    
+    
+
+
+
+    
+  </body>
+
+<!-- Mirrored from codecademy.com/pages/books by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Feb 2018 18:38:46 GMT -->
+</html>
+
+<!-- Mirrored from codecademy.com/pages/books by HTTrack Website Copier/4.x [XR&CO'2014], Sat, 13 Feb 2018 18:38:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+</html>
+
+<!-- Mirrored from codecademy.com/pages/books by HTTrack Website Copier/5.x [XR&CO'2014], Sat, 13 Feb 2018 18:38:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="
+
+22: PPL=2.152, , score=-0.767
+13]!=*127:
+        s3=[x%r;r:=x<0]
+        FOR I := -1 TO 0 DO 
+            s1:=m+n[x+I]-x*(n[n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[x+I]-x*(n[n[m+n[
+
+23: PPL=2.172, , score=-0.776
+.e-1a0" data--layout = style layout-1]
+    <div data--layout = style-1a0>
+      <div> 1-1a0 1-1a0-1a0 <img src=img-1-1a.svg></div>
+      <div> 1-1a0 1-1a0-1a0 <img src=img-1-1a.svg></div>
+      <div> 1-1a0 1-1a0-1a0 <img src=img-1-1a.svg></div>
+      <div data--layout = style-1a0> 1-1a0 1-1a0-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1-1a0 1
+
+24: PPL=2.172, , score=-0.776
+,
+    2 * a - ((d << s ^ ((m | l + 1u) << s))
+#define Ch(a, b, c)       (a & b) ^ ((~a) & c)
+#define Maj(a, b, c)      (a & b) ^ (a & c) ^ (b & c)
+
+/* F, G and H are basic SHA1 functions. */
+#define S11(a, b, c)      (R(a, 5, 0xFF51AFD7) + R(b, 30, 0x46546B64))
+#define S12(a, b, c)      (R(a, 5, 0x452821E6) + R(b, 30, 0x36312028))
+#define S13(a, b, c)      (R(a, 5, 0xDA8A3AE6) + R(b, 30, 0x3C3F2581))
+#define
+
+25: PPL=2.197, , score=-0.787
+)y('valueA')))
+
+
+
+
+
+
+              
+            
+  
+
+
+                
+}    
+
+    
+
+package com.hcl.kandy.cpa.experience.demo.fragments;
+
+import android.os.Bundle;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
+
+import com.bumptech.glide.Glide;
+import com.google.android.material.bottomsheet.BottomSheetDialog;
+import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
+import com.hcl.kandy.cpa.experience.demo.R;
+import com.hcl.kandy.cpa.experience.demo.repository.User;
+import com.kandy.sdk.platform.KandySdk;
+import com
+
+26: PPL=2.205, , score=-0.791
+83),
+                _t_2);
+            
+            final RValue a73=RBinopValue.apply(_t_0,
+                RBinopValue.apply(_t_1,
+                    a72,
+                    r_0), _t_2);
+                }
+};
+            final RValue a74=RBinopValue.apply(_t_0, r_0, _t_2);
+            
+            final RValue a75=RBinopValue.apply(_t_0,
+                RBinopValue.apply(_t_1,
+                    RBinopValue.apply(_t_0,
+                        RBinopValue.apply(_t_1,
+                            RBinopValue.apply(_t_0,
+                                RBinopValue.apply(_t_1,
+                                    RBinopValue.apply(_t_0,
+                                        RBinopValue.apply(_t_1,
+                                            RBinopValue.apply(_t_0,
+                                                RBinopValue.apply(_t_1,
+                                                    RBinopValue.apply(_t_0,
+                                                        RBinopValue.apply(_t_0,
+                                                            RBinopValue.apply(_t_1,
+                                                                RBin
+
+27: PPL=2.225, , score=-0.800
+[INFOG]: [INFO][D]\b'
+    }
+
+  'html-tag.info.html':
+    'prefix': 'ihtag'
+    'body': '<i-info>${1:${2/}}\b</i-info>\n'
+    'leftLabelHTML': 'ihtag'
+    'rightLabelHTML': '<i-info>[INFO]</i-info>\n'
+    'description': '[INFO] '
+
+  'html-tag.info.html-info':
+    'prefix': 'ihinfo'
+    'body': '<i-info>${1:${2/}}\b</i-info>\n'
+    'leftLabelHTML': 'ihinfo'
+    'rightLabelHTML': '<i-info>[INFO]</i-info>\n'
+    'description': '[INFO] '
+
+  'html-tag.info.ihtext':
+    'prefix': 'ihtext'
+    'body': '<i-text>${1:${2/}}\b</i-text>\n'
+    'leftLabelHTML': 'ihtext'
+    'rightLabelHTML': '<i-info>[INFO]</i-info>\n'
+    'description': '[INFO] 
+
+28: PPL=2.232, , score=-0.803
+	/** */
+		
+
+         function openCityPopup()
+         
+    
+         alert_obj.init("alert_popup_msg","alert_popup_msg_content",5000);
+            //alert_obj.alert("alert_popup_msg", "alert_popup_msg_content" );
+         
+	}
+
+	function openCity(event, cityName) {
+		// Declare all variables
+		var i, tabcontent, tablinks;
+
+	    // Get all elements with class="tabcontent" and hide them
+	    tabcontent = document.getElementsByClassName("tabcontent");
+	    for (i = 0; i < tabcontent.length; i++) {
+	        tabcontent[i].style.display = "none";
+	    }
+
+	    // Get all elements with class="tablinks" and remove the class "active"
+	    tablinks = document.getElementsByClassName("tablinks");
+	    for (i = 0; i < tablinks.length; i++) {
+	        tablinks[i].classList.remove("active");
+	    }
+
+	    // Show the current tab, and add an "active" class to the button that opened the tab
+	    document.getElementById(cityName).style.display = "block";
+	    event
+
+29: PPL=2.238, , score=-0.806
+[
+  0.8	,-Infinity
+    +Math.<1-Infinity/0
+]: [
+    NaN
+    NaN
+  ]
+[
+  0
+  Math.abs<Infinity>/Infinity
+]: [
+  0
+  0
+]
+[
+  -Infinity
+  Math.abs<Infinity>/Infinity
+]: [
+  -Infinity
+  -Infinity
+]
+[
+  0
+  0
+]: [
+  0
+  0
+]
+[
+  Infinity
+  Math.abs<Infinity>/Infinity
+]: [
+  0
+  0
+]
+[
+  -Infinity
+  -Infinity
+]: [
+  -Infinity
+  -Infinity
+]
+[
+  0
+  Infinity
+]: [
+  0
+  0
+]
+[
+  0
+  NaN
+]: [
+  0
+  0
+]
+[
+  1
+  Infinity
+]: [
+  0
+  0
+]
+[
+  1
+  NaN
+]: [
+  0
+  0
+]
+[
+  -Infinity
+  Math.abs<Infinity>/Infinity
+]: [
+  -Infinity
+  0
+]
+[
+  1
+  Infinity
+]: [
+  0
+  0
+]
+[
+  1
+  NaN
+]: [
+  0
+  0
+]
+[
+  1
+  0
+]: [
+  0
+  0
+]
+[
+
+30: PPL=2.250, , score=-0.811
+-r6f}n-;W19f}{4}i}+5f\}n-;W19f}6}+5f;W19f}6}+5f!}o5;W19f}6}+5f!}o+5f!}o5;W19f}6}+5f!}o5;W19f!}o5;W19f!}o5;W19f}6}+5f!}o5;W19f}6}+5f!}o5;W19f}{4}i}+5f\}n-;W19f}{4}i}+5f\}n-;W19f!}o5;W19f!}o5;W19f}6}+5f!}o5;W19f!}o5;W19f!}o5;W19f!}o5;W19f}6}+5f!}o5;W19f!}o5;W1
+
+31: PPL=2.252, , score=-0.812
+"
+                "
+              _),
+          '13
+        [
+          0. 
+        "
+      ]
+    },
+    {
+      "type": "line",
+      "data": [
+        [
+          0 
+        "
+      ],
+        [
+          0 
+        "
+      ],
+        [
+          0 
+        "
+      ],
+        [
+          1 
+        "
+      ],
+        [
+          2 
+        "
+      ],
+        [
+          0 
+        "
+      ],
+        [
+          0 
+        "
+      ]
+      ]
+    },
+    {
+      "type": "line",
+      "data": [
+        [
+          0 
+        "
+      ],
+        [
+          0 
+        "
+      ],
+        [
+          0 
+        "
+      ],
+        [
+          1 
+        "
+      ],
+        [
+          2 
+        "
+      ],
+        [
+          0 
+        "
+      ],
+        [
+          0 
+        "
+      ],
+        [
+          0 
+        "
+      ]
+      ]
+    },
+    {
+      "type": "line",
+      "data": [
+        [
+          0 
+        "
+      ],
+        [
+          0       [
+          1 
+        "
+      ],
+        [
+          2 
+        "
+      ],
+        [
+          0 
+        "
+      ]
+      ]
+    },
+    {
+      "type": "line",
+      "data": [
+        [
+          0 
+        "
+      ],
+       
+
+32: PPL=2.258, , score=-0.814
+
+    var d6gD69810
+        :d1(00-1).b(1):b(00-1):b(10-2);
+        :d2(02-3).b(1):b(00-1):b(10-2);
+        :d3(04-5).b(1):b(00-1):b(10-2);
+        :d4(06-7).b(1):b(00-1):b(10-2);
+    :004:
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+        nop
+        br(pc);
+       
+
+33: PPL=2.270, , score=-0.820
+0] : "09");
+                    expect(+dateCellsAndColumnLabelsDataBandedArray[1][0],
+                            +dateCellsAndColumnLabelsDataBandedArray2[2] : "14");
+                    expect(+dateCellsAndColumnLabelsDataBandedArray[1][0],
+                            +dateCellsAndColumnLabelsDataBandedArray2[3] : "18");
+                    expect(+dateCellsAndColumnLabelsDataBandedArray[1][0],
+                            +dateCellsAndColumnLabelsDataBandedArray2[4] : "24");
+                    expect(+dateCellsAndColumnLabelsDataBandedArray[1][0],
+                            +dateCellsAndColumnLabelsDataBandedArray2[5] : "34");
+                    expect(+dateCellsAndColumnLabelsDataBandedArray[1][0],
+                            +dateCellsAndColumnLabelsDataBandedArray2[6] : "50");
+                    expect(+dateCellsAndColumnLabelsDataBandedArray[1][0],
+                            +dateCellsAndColumnLabelsDataBandedArray2[7] : "75");
+
+                    done();
+                });
+            });
+            it("verifying getCellValue for month", function(done) {
+                excelData.get
+
+34: PPL=2.324, , score=-0.843
+
+    [ ] Crashe  --> Blink(crash: boolean)
+![https://github.com/hicetnunc2000/hicetnunc/blob/master/media/media/322/crashed.gif](https://github.com/hicetnunc2000/hicetnunc/blob/master/media/media/322/crashed.gif)
+
+## License
+Released under Apache License 2.0.  
+Copyright  2020-present the NFT.Storage authors
+```
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on
+an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the
+specific language governing permissions and limitations under the License.
+```
+
+## Contributors
+<NAME>, <NAME
+
+35: PPL=2.334, , score=-0.848
+8 * Copyright (3228) XBNTEX Pty & Pty Ltd & COE, Pty Ltd, TRACKER-G
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ * 
+ */
+
+// $Revision: 1111 $
+
+package org.xbnt.n2w;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+import org.xbnt.n2w.XData;
+
+public class XDataTest {
+    @Test
+    public void testParseData() throws Exception {
+        XData a = XData.parseData
+
+36: PPL=2.355, , score=-0.857
+>
+                />
+                }, 
+            
+               
+            'body': 
+             
+            
+              
+ >
+                
+                  'content':
+                    'title': 
+                      - 'tag':'#','attr': 'href','text':'a'
+                    'id': 
+                      - 'tag':'#','attr': 'href','text':'b'
+                  
+                
+              
+ >
+                
+                  'content':
+                    'id': 
+                      - 'tag':'#','attr': 'href','text':'c'
+                  
+                
+              
+                
+              
+ >
+                
+                  'content':
+                    'id': 
+                      - 'tag':'#','attr': 'href','text':'d'
+                  
+                
+              
+ >
+                
+                  'content':
+                    'id': 
+                      - 'tag':'#','attr': 'href','text':'e'
+                  
+                
+              
+ >
+                
+                  'content':
+                    'id': 
+                      - 'tag':'#','attr': 'href','text':'f'
+                  
+                
+              
+ >
+                
+                  'content':
+                    'id': 
+                      - 'tag':'#','attr': 'href','text':'g'
+                  
+                
+              
+ >
+                
+                  'content':
+                    'id': 
+                      - 'tag':'#','attr': 'href','text':'h'
+                  
+                
+              
+ >
+                
+                  'content':
+                    'id
+
+37: PPL=2.363, , score=-0.860
+7,4);
+      assertEquals('1M0', NumberParser::digit1ToNum(1, 0));
+      assertEquals('1N0', NumberParser::digit1ToNum(1, null));
+      assertEquals('3Y1', NumberParser::digit3ToNum(3, 1));
+      assertEquals('3Y0', NumberParser::digit3ToNum(3, 0));
+      assertEquals('3M1', NumberParser::digit3ToNum(3, null));
+      assertEquals('3M0', NumberParser::digit3ToNum(3, -1));
+      assertEquals('3S1', NumberParser::digit3ToNum(3, -2));
+      assertEquals('3S0', NumberParser::digit3ToNum(3, -3));
+      assertEquals('1Q0', NumberParser::digit1ToNum(1, -4));
+    }fix for decimal/*
+ * JBoss, Home of Professional Open Source.
+ * Copyright 2006, Red Hat Middleware LLC, and individual contributors
+ * as indicated by the @author tags. See the copyright.txt file in the
+ * distribution for a full listing of individual contributors.
+ *
+ * This is free software;
+
+38: PPL=2.393, , score=-0.872
+ -d/home:/../node/.gyp_chrome"
+
+# Run proto compiler to generate C++ file:
+protoc \
+  -I=. \
+  --cpp_out=. \
+  --grpc_out=.:\
+  --plugin-path=. \
+  --proto_path=. \
+  /workspace/third_party/envoy/api/envoy/config/filter/http/dynamic_forward_proxy/v2/config.proto \
+  /workspace/third_party/envoy/api/envoy/config/filter/network/http_connection_manager/v2/http_connection_manager.proto \
+  /workspace/third_party/envoy/api/envoy/config/filter/network/router/v2/router.proto \
+  /workspace/third_party/envoy/envoy/admin/v2alpha/server_info.proto \
+  /workspace/third_party/envoy/envoy/api/v2/discovery.proto \
+  /workspace/third_party/envoy/envoy/config/core/v2/base.proto \
+  /workspace/third_party/envoy/envoy/api/envoy/api/v2/auth/common.proto \
+ 
+
+39: PPL=2.393, , score=-0.872
+
+    const * {
+  /* background: lighten(\1a, ($3) *. $1s); */
+  background: lighten(\1a, ($1) *. $1s);
+  -moz-box-shadow: $1s 0 0 1px rgba(0,0,0,0.25);
+  -webkit-box-shadow: $1s 0 0 1px rgba(0,0,0,0.25);
+  box-shadow: $1s 0 0 1px rgba(0,0,0,0.25);
+  opacity: 0;
+  -webkit-transition: opacity $1s ease;
+  -o-transition: opacity $1s ease;
+  transition: opacity $1s ease;
+  -webkit-backface-visibility: hidden;
+     -moz-backface-visibility: hidden;
+         backface-visibility: hidden;
+}
+
+.button-box-active {
+  opacity: 1;
+}
+
+.button-box-inactive {
+  border-radius: 8px;
+  -moz-box-shadow: $1s 0 0 1px rgba(
+
+40: PPL=2.420, , score=-0.884
+35few4F',68828,'m','m5F',68838,'m','2',68848,'e','m5',68858,'m','5m',68868,'e','5m5m',68878,'m','5m5',68888,'m','2m5',68898,'e','e4m',68908,'e','m5e',68918,'e','m5m5',68928,'m','4m5',68938,'m','m54m',68948,'m','54m5',68958,'m','5m4m',68968,'m','4m4m',68978,'m','m4e4e',68988,'m','e4e4m',689
+
+41: PPL=2.434, , score=-0.889
+.net";
+    static char mdcnmcsti6q21 =
+            ""   mdcnmcsti6q21 =
+            "    return (s__err);";
+    static char mdcnmcsti6q22 =
+            ""   mdcnmcsti6q22 =
+            "  };";
+    static char mdcnmcsti6q23 =
+            ""   mdcnmcsti6q23 =
+            "  mdcnmcst_str *result;\n";
+    static char mdcnmcsti6q24 =
+            ""   mdcnmcsti6q24 =
+            "  result = _str_mk (0, 0, 1);\n";
+    static char mdcnmcsti6q25 =
+            ""   mdcnmcsti6q25 =
+            "  if (!result)\n";
+    static char mdcnmcsti6q26 =
+            ""   mdcnmcsti6q26 =
+            "    return (s__err);\n";
+    static char mdcnmcsti6q27 =
+           
+
+42: PPL=2.438, , score=-0.891
+
+def ispalind (inputvalue)
+    totalnumber=(3*((len(inputvalue)-1)))/2
+
+    for x in range (len(inputvalue)):
+        for y in range (len(inputvalue[x])):
+
+            if(inputvalue[x][y] == '1'):
+                totalnumber+=1
+
+    return int(totalnumber)
+
+def pallind(inputvalue) :
+    for x in range (len(inputvalue)):
+        for y in range (len(inputvalue[x])):
+
+            if(inputvalue[x][y] == '1'):
+                if((inputvalue[x-1][y] == '1')or (inputvalue[x+1][y] == '1')or (inputvalue[x][y+1] == '1'||inputvalue[x][y-1]=='1') ):
+                    return True
+    return False
+
+def sumofnumericalvalue(inputvalue):
+    totalvalue=0
+
+    for x in range (len(inputvalue)):
+        for y in range (len(inputvalue[x])):
+            if(inputvalue[x][y] == '1'):
+                totalvalue+=int(inputvalue[x][
+
+43: PPL=2.453, , score=-0.897
+(f-8,2)/pi)/log(.(p3[p] +(p4[q] +p5) +(.5)*(p2[f]-p2[r]))) +
+			(p11[f-2]*((f)/pi)/log(p11[f-2] +(.5)*((f-f-2)/(2*pi)/log(p11[f-2] +(.5)*((f-f-3)/(2*pi)/log(p11[f-2] +((f-f-4)/(2*pi)/log(p11[f-2] +((f-f-5)/(2*pi)/log(p11[f-2] +((f-f-6)/(2*pi)/log(p11[f-2] +((f-f-7)/(2*pi)/log(p11[f-2] +((f-f-8)/(2*pi)/log(p11[f-2] +((f-f-9)/(2*pi)/log(p11[f-2] +((f-f
+
+44: PPL=2.455, , score=-0.898
+9_S.P2_W]o=m741)P7I.55_87_o_05_00_00_00_00_0_00_55_7_i.584_000_000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+</pre>
+
+### POC
+
+#### Reference
+No PoCs from references.
+
+
+45: PPL=2.455, , score=-0.898
+,0,
+   LARGE
+ ],  /* code range to read: */
+     [
+  LARGE,
+ 0
+ ],
+   [
+  LARGE,
+  LARGE,
+  LARGE,
+  0,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  0,
+  LARGE,
+  LARGE
+ ],  /* code range to read: */
+     []  /* number of entries read: not 0! */
+);
+
+/* EOF */
+ LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  0,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  0,
+  LARGE,
+  LARGE
+ ],  /* code range to read: */
+     [
+  LARGE,
+  LARGE,
+  0,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE
+ ],  /* code range to read: */
+     [
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE,
+  LARGE
+
+46: PPL=2.459, , score=-0.900
+ = np.nan for x<v
+-6	v > x
+
+
+
+@ < <NAME>
+@ @
+@
+*/
+public class GCD extends Operator{
+
+	double max(double a, double b){
+		if(a<b)
+			return max(b,a);
+		else
+			return a;
+	}
+
+	public double getResult(double... args){
+		double a = args[0];
+		double b = args[1];
+		if(a>b)
+			return max(a,b);
+		else
+			return b;
+	}
+}
+
+class GCD implements Operator {
+	public double getResult(double... args){
+		double a = args[0];
+		double b = args[1];
+		if(a>b)
+			return max(a,b);
+		else
+			return b;
+	}
+}
+
+class Max implements Operator {
+	public double getResult(double... args){
+		double a = args[0];
+		double b = args[1];
+		if(a>b)
+			return a;
+		else
+			
+
+47: PPL=2.467, , score=-0.903
+0',
+    output(to\'\'])
+    f['test1']    =''.join(re.findall('\w+', x_train_0.iloc[i][1]))
+    
+print("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("
+("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("
+("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("
+("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("
+"("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("("
+"("
+
+48: PPL=2.469, , score=-0.904
+ -46px!43p'4px
+    width                @mixin -border-radius
+      border-radius
+    left                  @mixin -margin
+      0
+      -border-radius
+
+//
+//
+@mixin -shadow
+  box-shadow             3px 3px 0px #aaa
+
+//
+//
+@mixin -shadow-2
+  box-shadow             7px 7px 0px #aaa
+
+//
+//
+@mixin -shadow-3
+  box-shadow            15px 15px 0px #aaa
+
+//
+//
+@mixin -shadow-4
+  box-shadow            30px 30px 0px #aaa
+
+//
+//
+@mixin -shadow-5
+  box-shadow            45px 45px 0px #aaa
+
+//
+//
+@mixin -shadow-6
+  box-shadow            60px 60px 0px #aaa
+
+//
+//
+@mixin -shadow-7
+  box-shadow            75px 75px 0px #aaa
+
+//
+//
+@mixin -shadow-8
+  -moz-box-shadow       -
+
+49: PPL=2.469, , score=-0.904
+" -d'  'file'; fi' ]
+    -- TODO
+  }; [
+    -- TODO
+    (
+      name: if test_test_test!= "true" && test_test_test!= "false" && test_test_test!= "1" then "test-test_test"; else if if_if_if!="true" && if_if_if!="false" && if_if_if!="1" then "if_if_if"; else if if_if_else!=="true" && if_if_else!="false" && if_if_else!="1" then "if_if_else"; else if if_if_fi!="true" && if_if_fi!="false" && if_if_fi!="1" then "if_if_fi"; else if if_if_els!="true" && if_if_els!="false" && if_if_els!="1" then "if_if_els"; else if if_if_els_fi!=="true" && if_if_els_fi!="false" && if_if_els_fi!="1"
+
+50: PPL=2.484, , score=-0.910
+ {
+					 var count : false;//count from false in index(page1,9),and 5 (page2,5)
+
+var btn1_back = true;
+function page1_back() {
+	btn1_back = true;
+	//change index(page1,9) to false
+	count = false;
+}
+function page2_back() {
+	btn1_back = true;
+	//change index(page2,5) to false
+	count = false;
+}
+function page3_back() {
+	btn1_back = true;
+	//change index(page3,5) to false
+	count = false;
+}
+function page4_back() {
+	btn1_back = true;
+	//change index(page4,5) to false
+	count = false;
+}
+function page5_back() {
+	btn1_back = true;
+	//change index(page5,5) to false
+	count = false;
+}
+
+var btn2_back = true;
+function page1_front(){
+	btn1_back = false;
+	//
+
+51: PPL=2.490, , score=-0.912
+"2 " + R E R H I N A \546  578\0"8"118111818811111811111189911111111111111111111111111111111111111111111141414141414141414141414141414141414141414141414141414\
+" 1"1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1010101010101010101010101010101010101010101010101010101010101
+
+52: PPL=2.492, , score=-0.913
+a += 'aa ';
+      })()),
+      4)),
+    t2a.equal([a].concat(['bb', 'cc'].filter((function(a){
+      return a === 'a';
+    }))),
+    t2a.equal([].concat(['aa', 'bb', 'cc'].map((function(a){
+      return a + 'a';
+    }))),
+    t2a.equal([].concat(['aa', 'bb', 'cc', 'dd'].filter((function(a, b){
+      return a === b;
+    }))),
+    5),
+    t2a.equal([].concat([].concat([].concat([].concat([].concat([].concat([].concat(['bb', 'cc'].map((function(a){
+      return a + 'a';
+    }))))))))))),
+    17),
+    t2a.equal([].concat([].concat([].concat([].concat([].concat([].concat(['ba', 'bb', 'cc', 'dd'].concat(['bb', 'bb', 'bb', 'bb'].concat(['bb', 'bb', 'bb', 'bb'].concat(['bb', 'bb', 'cc', 'dd'].concat(['bb', 'bb', '
+
+53: PPL=2.504, , score=-0.918
+0) << ".join("");
+	 return ret;}
+
+
+char bignum *string2Bignum(char array *str){
+	bignum *ret;
+	if(str==NULL||*str=='\0') return NULL;
+	if((ret=createBignum())==NULL) return NULL;
+	ret->sign=1;
+	 if(!str2Bignum(str,ret))
+	 {
+		 createBignumDestroy(ret);
+		 return NULL;
+	 }
+	 return ret;
+}
+
+static bignum *createBignum()
+{
+	bignum *ret;
+	if((ret=(bignum *)malloc(sizeof(bignum)))== NULL) return NULL;
+	ret->digit=NULL;
+	ret->len=0;
+	ret->alloc=0;
+	ret->sign=0;
+	return ret;
+}
+void createBignumDestroy(bignum *ret)
+{
+	if(ret==NULL) return;
+	if(ret->digit!=NULL)
+	{
+		free(ret->digit);
+		ret->digit=NULL;
+	}
+	if(ret->len
+
+54: PPL=2.506, , score=-0.919
+632",
+            f11["S6" : "N69/L100/0/4/B100"] = None
+            f11["S7" : "N78/L100/2/4/B100"] = None
+            f11["S8" : "N79/L100/2/4/B100"] = None
+            f11["S9" : "N86/L108/0/4/B178"] = None
+            f11["S10" : "N86/L108/1/4/B178"] = None
+            f11["S11" : "N86/L108/2/4/B178"] = None
+            f11["S12" : "N87/L108/0/4/B178"] = None
+            f11["S13" : "N87/L132/0/4/B61/Y095"] = "N180
+
+55: PPL=2.510, , score=-0.920
+ - -
+[version="dev-1.*-6/7|version=^1.\d\.6]
+- -
+[version="dev-1.0-4", "version=dev-1.0-4|^1.0-4"]
+- -
+[version="dev-1.0-4+dev.1", "version=dev-1.0-4+dev.1"]
+- -
+[version="dev-1.0-4.r1", "version=dev-1.0-4.r1"]
+- -
+[version="dev-1.0-4-g65543f4", "version=dev-1.0-4-g65543f4"]
+- -
+[version="dev-1.0-4.r1+git20140830", "version=dev-1.0-4.r1+git20140830"]
+- -
+[version="dev-1.0-4.r1", "version=dev-1.0-4.r1"]
+- -
+[
+
+56: PPL=2.566, , score=-0.943
+</pre_pre"</a>);
+$T(&$Str("nochangeinfo")).($T($LangName)?'<a href="http://wiki.sauna.org/ChangeInfo" target="_blank">'.$T($LangName).'</a>' : '');
+$T(&$Str("changesaved")).($T($LangName)?'&nbsp;&nbsp;'.'<a href="http://wiki.sauna.org/Change" target="_blank">'.$T($LangName).'</a>' : '');
+$T(&$Str("nochangesaved")).($T($LangName)?'<a href="http://wiki.sauna.org/Change" target="_blank">'.$T($LangName).'</a>' : '');
+$T(&$Str("changefailed")).($T($LangName)?'&nbsp;&nbsp;'.'<a href="http://wiki.sauna.org/ChangeFailed" target="_blank">'.$T($LangName).'</a>' : '');
+$T(&$Str("nocache")).($T($LangName)?'&nbsp;&nbsp;'.'<a href="http://wiki.sauna.org/Cache" target="_blank">'.$T($LangName).'</a>' : '');
+$
+
+57: PPL=2.568, , score=-0.943
+2e4/githubpages</td><dtr>:a large orange circle at any <strong>non-negative</strong> <em>x</em></td></tr>
+<tr><td><img alt=":blue_square:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26ab.png" height="20" width="20"> <img alt=":orange_square:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26aa.png" height="20" width="20"></td><td>blue_square</td><td>:blue_square: <img alt=":green_square:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/26ac.png" height="20" width="20"> <img alt=":arrow_right:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/25b6.png" height="20" width="20"> 1st place medal<img alt=":star1:" src="
+
+58: PPL=2.576, , score=-0.946
+ - [YayNice2Wife16](/Users[ Ynce e] 14.md)
+        - [Yn oe](/Yne oe)
+        - [Yn - ea](/Yne - ea)
+        - [Ynee- miecie](/Ynee- miecie)
+        - [Ynee- miecie](/Ynee- miecie)
+        - [Ynee- miecie](/Ynee- miecie)
+        - [Ynee- miecie](/Ynee- miecie)
+        - [Ynee- miecie](/Ynee- miecie)
+        - [Ynee- miecie](/Ynee- miecie)
+        - [Ynee- miecie](/Ynee- miecie)
+        - [Ynee- miecie](/Ynee- miecie)
+        - [Ynee- miecie](/Ynee- miecie)
+        - [Ynee- miecie](/Ynee- miecie)
+        - [Ynee
+
+59: PPL=2.584, , score=-0.949
+. '
+            #   	elif row[60]='N'-01':
+            # 	print str(i),
+            # 	print row[1], row[2], row[3], row[4], row[5],
+            # 	print '00 ',
+            # 	print row[60],
+            # 	print 'N'
+
+    # print 'The number of rows: ', num
+    # for i in range(171495):
+    #     if i % 500 == 0:
+    #         print i
+    df = df.fillna({
+        'V1':None,
+        'V2':None,
+        'V3':None,
+        'V4':None,
+        'V5':None,
+        'V6':None,
+        'V7':None,
+        'V8':None,
+        'V9':None,
+        'V10':None,
+        'V11':None,
+        'V12':None,
+        'V13':None,
+        'V14':None,
+        'V15':None,
+        'V16':None,
+        'V17':None
+
+60: PPL=2.596, , score=-0.954
+; /* |         [P  V a s     c v n s   ]               P R O P R I V A T I E S
+; |
+; |  Revision:   1.0
+; |  Written by: <NAME>
+; |  Created:     9/17/06
+; |  Modified:    8/22/07
+; |  Copyright:   (c) Rogue Wave Software 2006, 2007
+; |
+; |  Rogue Wave has been granted a non-exclusive, royalty-free license
+; |  to use, reproduce, modify, and distribute this software for any
+; |  purpose, subject to the following restrictions:
+; |  1.  The above copyright notice and this permission notice may not be
+; |      removed.
+; |  2.  The name of Rogue Wave Software may not be used to endorse or
+; |      promote products derived from this software without specific prior
+; |      written permission.
+; |
+; |  THIS SOFTWARE IS PROVIDED BY
+
+61: PPL=2.609, , score=-0.959
+s7-james\build\libs and i think he needs more memory - 7 54 196 m s 201 m d 201 m ms-015 j 201 m ms-0 53 j 201 m ms-0 53 j 201 m ms- 53 j 201 m ms-0 53 j 201 m ms d 201 m ms 0 5 3 201 m ms 0 5 3 201 m ms 0 5 3 201 m ms 0 5 3 201 m ms 0 5 3 201 m ms 0 5 3 201 m ms 0 5 3 201 m ms 0 5 3 201 m ms 0 5 3 201 m ms 0 5 3 201 m ms 0 5 3 201 m ms 0 5 3 201 m ms 0 5 3 
+
+62: PPL=2.609, , score=-0.959
+008(2**
+a^  | a/a  | cos  | tg   | sin  | cosh | sinh | tanh | sig  | sigm | sigz | sign
+1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+-2 | 2 | 0 | 0.54 | 0 | 0 | 1 | 2 | 4 | 0 | 2 | 1
+2 | 2 | 0 | 0.46 | 0 | 0 | 1 | 2 | 0.54 | -4 | 0 | 1
+1 | 2 | 1 | 0.24 | 0.875 | 0 | -1 | -0.875 | 2 | 0 | -2 | 1
+1 | 2 | 1 | -0.24 |
+
+63: PPL=2.617, , score=-0.962
+09:5] / [k,0-5]** or **/**.
+
+
+#include <time.h>
+#include"../include/stdio.h"
+#include"../include/stdlib.h"
+
+/* The structure used for displaying the time. */
+struct timespec {
+    time_t       tv_sec;    /* Seconds      */
+    long         tv_nsec;   /* Nanoseconds  */
+};
+
+/* The structure to keep timing information. */
+struct timeinfo {
+    long         tms_utime;        /* User CPU Time              */
+    long         tms_stime;        /* System CPU Time            */
+    long         tms_cutime;       /* User CPU Time              */
+    long         tms_cstime;       /* System CPU Time            */
+    long         tms_priority;     /* Process priority          */
+    long         tms_nice;         /* Process priority          */
+    long         tms_num_procs;    /* Process CPU time consumed */
+    long         tms_memrss;       /* Resident Set Size          */
+    long         tms_mempercent;   /* Resident Set Size          */
+    long
+
+64: PPL=2.633, , score=-0.968
+a_count++ %b : ", (i_2 * g_a_count - c_count) % (s_2 * g_a_count - c_count)
+
+    else:
+        if i_2 * g_a_count > c_count:
+            l_1_2_count = (
+                (i_2 * g_a_count - c_count) // s_2 + 1
+                if s_2 > 1 else 1
+            )
+            l_2_2_count = s_2 * g_a_count - c_count
+            return 1 + g_a_count + (l_1_2_count - 1) % l_2_2_count
+        else:
+            if c_count % s_2 == 0:
+                return (c_count // s_2 + 1) * (g_a_count + s_2 * g_a_count - c_count)
+            else:
+                return 1 + g_a_count + (c_count // s_2 + 1) % ((s_2) * (g_a_count + s_2 * g_a
+
+65: PPL=2.652, , score=-0.975
+.er! = %e.", result);
+        result37::init(result);//0
+    });
+}
+
+//
+
+#[test]
+#[ignore] // requires sudo
+fn run_test() {
+    common::run("test");
+}
+
+//
+
+mod result17;
+
+#[test]
+#[ignore]
+fn test1() {
+    common::run("test1", |run| {
+        println!("test1! = %e.", result);
+        result17::init(result);//1
+    });
+}
+
+#[test]
+#[ignore]
+fn test2() {
+    common::run("test2", |run| {
+        println!("test2! = %e.", result);
+        result17::init(result);//2
+    });
+}
+
+#[test]
+#[ignore]
+fn test3() {
+    common::run("test3", |run| {
+        println!("test3! = %e.", result);
+        result17::init(result);//3
+    });
+}
+
+#[test]
+#[ignore]
+fn test17() {
+    common::run("test17", |run| {
+        let
+
+66: PPL=2.664, , score=-0.980
+
+<!-----------><--------->--------<!------------------>--><------------------->*|      JBNC               |*<<------------><-----------|
+*||*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|
+*||*          (c) by <NAME>        |*|
+*||*          Licensed under Apache 2       |*|
+*||*          www.jbnc.de               |*|
+*--------------------------------------------------------------------
+*||*   *|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*
+*||*   *|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*
+
+67: PPL=2.670, , score=-0.982
+#include "/Users";//include de /Data.cs, para ser o primeiro passar com o cdigo em C#.
+
+namespace SistemaWeb
+{
+    /// <summary>
+    /// Define as rotas do sistema, que sero apresentadas nela.
+    /// </summary>
+    public abstract class Routes
+    {
+        public const string DEFAULT_ROUTE = "Home";
+        public const string CONTACT = "Contact";
+        public const string LOGIN = "Login";
+        public const string SIGNUP = "Signup";
+        public const string ACCOUNT = "Account";
+
+        public const string INDEX_USERS = "Users";
+        public const string CREATE_USERS = "CreateUsers";
+        public const string EDIT_USERS = "EditUsers";
+        public const string DELETE_USERS = "DeleteUsers";
+
+
+        public const string INDEX_BOOKS = "Books";
+        public const string CREATE_BOOKS = "CreateBooks";
+        public const string EDIT_BOOKS = "EditBooks";
+        public const string DELETE_BOOKS = "DeleteBooks";
+
+
+        public const string INDEX_CATEGORIES = "Categories";
+        public const string CREATE_CATEGORIES = "CreateCategories";
+        public const string EDIT_CATEGORIES = "EditCategories";
+       
+
+68: PPL=2.672, , score=-0.983
+-d(true)(document,$window.location)})),this._.then(()=>{})}}(Vue)
+window.addEventListener('load',function() {
+    var vm = new Vue({
+        el: '#app',
+        data: {
+            menuTabs: [{
+                title: '',
+                list: [{
+                    title: '',
+                    type:'checkbox'
+                },{
+                    title: '',
+                    type:'range',
+                    value: 160
+                },
+                {
+                    title: '',
+                    type:'select',
+                    options: [{
+                        text: '1',
+                        value:'1'
+                    },{
+                        text: '2',
+                        value:'2'
+                    },{
+                        text: '3',
+                        value:'3'
+                    },{
+                        text: '4',
+                        value:'4'
+                    },{
+                        text: '5',
+                        value:'5'
+                    },{
+                        text: '6',
+                        value:'6'
+                    }],
+                    value: '6'
+                },
+                {
+                    title: '',
+                    type:'select',
+                    options
+
+69: PPL=2.676, , score=-0.984
+ - < <PASSWORD>.
+
+</td>>]]
+    assert r1 == r2
+    assert h([r0, r1, r2]) == [r0, r1, r2]
+    assert h([r0, r1, r2], r3) == [r0, r1, r2, r3]
+
+
+Test_Set("Set([1, 2, 3])"),
+Test_Set("Set([4, 6, 8, 9])"),
+Test_Set("Set([7, 8, 9])"),
+Test_Set("Set([1, 2, 3, 4, 6, 7, 8, 9])"),
+Test_Set("Set([1, 2, 3, 4, 5, 6, 8, 9])"),
+Test_Set("Set([1, 2, 3, 4, 10, 7, 9])"),
+Test_Set("Set([4, 2, 3, 4, 3, 4, 2])"),
+
+Test_Set("Set([4, 2
+
+70: PPL=2.688, , score=-0.989
+using Cthargs()SystemConsoleProgressBar_Example1
+    ConsoleProgram1Class_Example1()
+    
+
+        static void Main(string[] args)
+        {
+            IProgress<string> progress = new Progress<string>(v =>
+            {
+                Console.WriteLine(v);
+            });
+
+            ConsoleProgressBarClass_Example1.InitializeProgressBar(ConsoleProgram1Class_Example1.ProgressBarValue);
+
+            Console.Read();
+
+            /*
+            ConsoleProgressBarClass_Example1.DisplayMessage(0, ref progress);
+            ConsoleProgressBarClass_Example1.DisplayMessage(0, ref progress);
+            ConsoleProgressBarClass_Example1.DisplayMessage(0, ref progress);
+            ConsoleProgressBarClass_Example1.DisplayMessage(0, ref progress);
+            ConsoleProgressBarClass_Example1.DisplayMessage(0, ref progress);
+            ConsoleProgressBarClass_Example1.DisplayMessage(0, ref progress);
+            ConsoleProgressBarClass_Example1.DisplayMessage(0, ref progress);
+            ConsoleProgressBarClass_Example1.DisplayMessage(0, ref progress);
+            ConsoleProgressBarClass_Example1.DisplayMessage(0, ref progress);
+            ConsoleProgressBarClass_Example1.DisplayMessage(0, ref progress);
+            ConsoleProgressBarClass_Example1.
+
+71: PPL=2.699, , score=-0.993
+a(this?-).0",b}return r})();`
+
+,
+]
+  static get styles() {
+    return [css`
+      :host {
+        display: inline-flex;
+        box-sizing: border-box;
+        min-height: 100%;
+        align-items: center;
+        align-self: stretch;
+        background-color: var(--paper-card-background-color);
+        color: var(--paper-card-header-text-color);
+        text-decoration: none;
+      }
+      :host(:hover, :focus) {
+        --paper-card-header-text-color: #000;
+      }
+      a {
+        display: flex;
+        box-sizing: border-box;
+        flex-direction: row;
+        text-decoration: none;
+        justify-content: space-between;
+        padding: var(--paper-card-header-inkwell-ink-padding, 16px var(--paper-font-small-body-2-line-height));
+        color: var(--paper-card-header-text-color);
+      }
+      a:hover {
+        --paper-card-header-text-color: #00
+
+72: PPL=2.701, , score=-0.994
+0);
+        2.7:   return int3 *  get10todecimal(int2)
+        other: int3 * get10todecimal(int2)
+    }
+    case int2: {
+        2.2:   return 0
+      2.3:   return int2 + 0.3
+      2.4:   return int2 - 0.3
+      2.5:   return int2 / 0.3
+      2.6:   return int2 % 0.3
+      2.7:   return int2 & 0.3
+      2.8:   return int2 | 0.3
+      2.9:   return int2 ^ 0.3
+      2.10:  return int2!
+      2.11:  return -int2
+      2.12:  return ~(int2)
+      2.13:  return int2
+      2.14:  return int2 << 32
+      2.15:  return int2 >> 0x20
+      (int1 == 1): {
+        2.16:  return int2++
+        2.17:  return int2
+
+73: PPL=2.703, , score=-0.994
+4.0
+    // This just return as initial valued
+  })
+  
+  const f10 = compose(f1, f1)(8)
+  const f9 = compose(f10, f0)(8)
+  
+  test('compose f1 f1 8', () => {
+    expect(f9).toBe(8)
+  })
+})
+
+test('currying', () => {
+  const square = (n: number) => n * n
+  const f2 = curry(function (n: number, n2: number) {
+    const ret = n * n + n2
+    console.log(ret)
+    ret
+  })
+  const f2_1 = f2(2)
+  test('f2_1', () => {
+    expect(f2_1).toBe(4)
+  })
+
+  const f2_2 = square(2)
+  test('f2_2', () => {
+    expect(f2_2).toBe(4)
+  })
+
+  const f2_3 = f2_1 + f2_2
+  test('f2_3', () => {
+    expect(f2_3).toBe(10)
+  })
+  
+  const
+
+74: PPL=2.703, , score=-0.994
+)0:
+            break
+
+
+
+            cdf[key]["y-intercept__range__1-5"],
+            cdf[key]["y-intercept__range__1-5"]["x-intercept__range__1-5"])
+    if(yinterceptrange15!= "1"):
+        continue
+    #
+    #
+    #
+    # #
+    # #
+    #
+    # #
+    #
+    #
+    # #
+    # #
+    #
+    # #
+    # #
+    #
+    # #
+    # #
+    # #
+    # #
+    # #
+    #
+    # #
+    #
+    # # #
+    # #
+    # #
+    # #
+    # #
+    # #
+    # #
+    #
+    # #
+    # #
+    # #
+    # #
+    # #
+    # #
+    #
+    # #
+    # #
+    # #
+    #
+    #
+    #
+    #
+    # #
+    #
+    #
+    #
+    #
+    #
+    #
+
+    # #
+    # #
+    # #
+    # #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    # #
+    #
+    #
+    #
+    #
+    #
+    #
+   
+
+75: PPL=2.727, , score=-1.003
+79</optionCode-value>}
+				                             <item Code="#ff0e2d82" />
+							       <item Name="R4" Code="#ff0e2d82" />
+          					       <item Name="R25" Code="#ff0e2d82" />
+          					       <item Name="R4" Code="#ff0e2d82" />
+		                       <item Code="#ff0e2d82" />
+				        		<item Code="#ff0e2d82" />
+				        		<item Code="#ff0e2d82" />
+		              	  	  	<item Code="#ff0e2d82" />
+			        	  	  	<item Code="#ff0e2d82" />
+			        	  	  	<item Code="#ff0e2d82" />
+			        		  	  	<item Code="#ff0e2d82" />
+		      			  	  	<item Code="#ff0e2d82" />
+			        	  	  	<item Code="#ff0e2d82" />
+					          	<item Code="#ff0e2d82
+
+76: PPL=2.729, , score=-1.004
+<isplay314.git
+
+    .oH
+    *o* oo oo* oo* oo* oo*.
+   .oH
+    oo* oo* oo* oo* oo* oo* oo*
+    oo* o* o* o* o* o* o* o*
+    oo* o o* o o* o* o o* o* oo* o
+    o o o o* o o* o* o o* o o* o o* o* oo* o
+    o o o* o o* o* o o o* o o* o o o* o* o* o o* o
+    o o o* o o* o* o o o* o o o* o o o* o* o* o o* o
+     o o o o* o o* o o o* o o o* o o o o* o* o* o o* o
+     o o o* o o* o o* o o o o* o o* o o o* o* o* o* o o* o
+    . o o o* o o* o o
+
+77: PPL=2.734, , score=-1.006
+.PHONY \
+                       make_bin.make               src/nwk-security_api_app.c \
+               src/nwk-security_init.c \
+               src/nwk-security_low.c.make
+
+PROJECT_SOURCE += src/nwk.c \
+                   src/nwk-cli.c \
+                   src/nwk-log.c \
+                   src/nwk-security.c \
+                   src/nwk-thread.c \
+                   src/nwk-task.c \
+
+                   src/nwk-security_thread.c \
+                   src/nwk-security_task.c \
+                   src/nwk-security_nwk.c \
+                   src/nwk-security_cli.c \
+                   src/nwk-security_low_console.c \
+                   src/nwk-security_low_mac_interface.c \
+                   src/nwk-security_low_mac_interface_mac.c \
+                   src/nwk-security_low_mac_interface_mac_address_table.c \
+                   src/nwk-security_low_mac_interface_mac_neighbor_table.c \
+                   src
+
+78: PPL=2.740, , score=-1.008
+03] : <c0>(303).[ 0x5fffc20: 2]
+[   2] <c1>
+[   2] <c0>(300).[ 0x5ffc200: 2]
+[   5] <-[ 0x5ffc200: 2]-><c0>(301).[ 0x5ffd000: 1]
+[   8] <-[ 0x5ffd000: 1]>[ 0x5fffbff: 3]
+[ 220] <-[ 0x5fffbff: 3]>[ 0x5ffd000: 1]
+[ 281] <-[ 0x5fffa00: 3]>[ 0x5ffd000: 1]
+[ 285] <-[ 0x5fffe00: 3]>[ 0x5ffd000: 1]
+[ 286] <-[ 0x5fffb40: 3]>[ 0x
+
+79: PPL=2.754, , score=-1.013
+	<!--------------------------------- LICENSE: The Computer Mode Distribution Security Lic<===============
+
+
+   ICPy
+   An opensource software for information control
+   Copyright (C) 2008-2015, <NAME>, all rights reserved.
+   Contributors: <NAME> and all other contributors.
+   
+Copyright (C) 2007, <NAME>
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software  and associated documentation files  (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom
+the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS
+
+80: PPL=2.764, , score=-1.017
+4	package github_api;
+
+    	
+  //getRepos();
+
+   
+  
+  });
+
+
+
+}
+
+
+
+ function getRepos() {
+    
+   
+  var userName = "";
+     userName = document.getElementById("userNameInput").value;
+
+   $.get(`https://api.github.com/users/${userName}/repos`,function (response) {
+   
+      var strHTML="";
+      $.each(response,function(i,v){
+         strHTML+=`<tr>`
+         strHTML+=`<td>`
+         strHTML+=`<h4>${v.name}</h4>`
+         strHTML+=`<p>${v.description}</p>`
+         strHTML+=`<p>${v.language}</p>`
+         strHTML+=`<p>${v.created_at}</p>`
+         strHTML+=`<div class="star-container"><span>${v.stargazers_count}</span><div class="star"><i class="fas fa-star"></i></div></div>`
+         strHTML+=`<div class="fork-container"><span>${v.forks_count}</span><div class="fork"><i class="fas fa-code-branch"></i></div></div>`
+         strHTML+=`<a href="${v.stargaz
+
+81: PPL=2.770, , score=-1.019
+ -webkit-base:v0_x__1,4(R)1+m:1
+// Generated by Swig 4.3.2
+#pragma once
+#include <stdint.h>
+#define int32_t int32_t
+
+typedef struct SwigPyClientData SwigPyClientData;
+struct SwigPyClientData {
+  PyObject *obj;
+  PyObject *obj_own;
+  int own;
+  SwigPyClientData *next;
+};
+
+#include <Python.h>
+
+#include <stdio.h> /* For FILE */
+
+#include <stdlib.h> /* For malloc/free */
+
+#include <assert.h> /* For assert */
+
+#include <string.h> /* For memmove */
+
+#include <stdarg.h> /* For SWIG_python_failure */
+
+SWIGRUNTIME int
+SWIG_AsCharPtrAndSize(PyObject *obj, char** cptr, size_t* psize, int *alloc);
+
+SWIGRUNTIME PyObject *
+SWIG_FromCharPtrAndSize(const char* cptr, size_t
+
+82: PPL=2.770, , score=-1.019
+9e.0;
+
+    /* Return value 3rd */ return *x - b+5.0*2.0;
+}
+
+static int8x16_t
+vsub_s8x16_m_n_f32 (int8x16_t n, float32x16_t a, float32x16_t b) {
+    int8x16_t r;
+    r.lo = vsub_s8(n.lo, a.lo);
+    r.hi = vsubq_s8(n.lo, b.lo);
+    return r;
+}
+
+static float32x16_t
+vsubq_f32(float32x16_t a, float32x16_t b){
+    float32x16_t r;
+
+    /* Calculate the hi part */
+    r.hi = vsubq_f32(a.hi, b.hi);
+
+    /* Calculate the lo part */
+#ifdef SIMD_WITH_VSUBVQ
+    r.lo = (simd_float32x4_t)vsub
+
+83: PPL=2.771, , score=-1.019
+ = (p - b)} )
+    ;(print p))(
+    )
+    ;
+
+
+;; (def (fact x)
+;;   (def (iter num)
+;;     (if (> num 0)
+;;         (* num (iter (- num 1))) x)
+;;         1)
+;;   (iter x))
+
+
+(def (even? n)
+  (if (= n 0)
+      true
+      false))
+
+
+(def (square x)
+  (* x x))
+
+(def (even-square x)
+  (if (even? x)
+      (square x)
+      x))
+
+(def (iter i a b)
+  (if (= b a)
+      i
+      (iter (+ i 1) a b)))
+
+(def (summate-square-list lst)
+  (iter 0 0 (+ (* lst lst) (iter 0 1 (- (* lst lst) 1)))))
+
+(def (squarelist xs)
+  (map square xs))
+
+(def (summate-square-even-list xs)
+  (iter 0 0 (+ (* (even-square (first xs)) (even-square (first xs)))
+
+84: PPL=2.779, , score=-1.022
+_er.new = func { a_v: "New Test Version for new project test1"; },
+      func(a_x) {
+        if (a_x.new!= true) {
+          throw Exception("New Test Version for new project test1");
+        }
+      }
+    ).test(
+      (v: Version).current = func { a_v: "Current Test Version for new project test1"; },
+      func(a_x) {
+        if (a_x.current!= "Current Test Version for new project test1") {
+          throw Exception("Current Test Version for new project test1");
+        }
+      }
+    ).test(
+      (v: Version).old = func { a_v: "Old Test Version for new project test1"; },
+      func(a_x) {
+        if (a_x.old!= "Old Test Version for new project test1") {
+          throw Exception("Old Test Version for new project test1");
+        }
+      }
+    ).test(
+      Version.new = func { a_v: "New Test Version for new project test1"; },
+      Version.new = func { a_v: "New Test Version with a_v: New Test
+
+85: PPL=2.789, , score=-1.026
+s_a3) > 9.6
+```rather
+yrschools$a3 > 9.6
+```
+This is a very good question, and we hope is answered soon.
+
+```rather
+install.packages("knitr")
+```
+
+```rather
+knitr::opts_chunk$set(echo = FALSE,
+```
+
+```rather
+options(warn=-1, error=-1)
+```
+
+```eval_rst
+.. raw:: html
+
+        <script language="Javascript">
+            function code_toggle() {
+                if (code_shown){
+                    $('div.input').hide('500');
+                    $('#toggleButton').val('Show Code')
+                } else {
+                    $('div.input').show('500');
+                    $('#toggleButton').val('Hide Code')
+                }
+                code_shown =!code_shown
+            }
+
+            $( document ).ready(function(){
+                code_shown=false;
+                $('div.input').hide()
+            });
+        </script>
+        <form action="." method="post" style="hidden">\
+        <input type="submit" id="toggleButton" value="Show Code"/>\
+        </form>
+
+86: PPL=2.797, , score=-1.029
+2" }
+
+        expect(_x64(59).isLessThanInclusive.call1(18)).toBeTruthy()
+      )
+
+      describe(
+        "call method when isGreaterThanInclusive",
+
+        func (x64: X64) {
+          x64.test(
+            "x64.callX64.isGreaterThanInclusive",
+
+            expect(_x64(10).isGreaterThanInclusive.call1(10)).toBeTruthy()
+          )
+
+          x64.test(
+            "x64.callX64.isGreaterThanInclusive",
+
+            expect(_x64(11).isGreaterThanInclusive.call1(10)).toBeTruthy()
+          )
+        }
+      )
+
+      // ---------------------------------------------------------------
+      // x64.callX64.isLessThanOrGreaterThanInclusive
+      // ---------------------------------------------------------------
+
+      describe(
+        "test method when isLessThanOrGreaterThanInclusive",
+
+        func (x64: X64) {
+          x64.test(
+            "x64.callX64.isLessThanOrGreaterThanInclusive",
+
+            expect(_x64(9).isLessThanOrGreaterThanInclusive.call1(11)).toBeFalsy()
+          )
+
+          x64.test(
+            "
+
+87: PPL=2.803, , score=-1.031
+0xaffbcb3}, \a1}  #0xa
+\setmacro \a2{\protect\defa{\a\a\a\bffcb}} \a1}  #0xc
+\setmacro \a3{\protect\defa{0x\a\a\a\a\a\a\xa}} \a1}  #0x2000
+\setmacro \a4{\protect\defa{0x\a\a}} \a1}  #0xa000
+\setmacro \a5{\protect\defa{0x\a}} \a1{1111}  #0x6000
+\setmacro \a6{\protect\defa{\a\a\a\a\a}} \a2{00000}  #0x7fe
+\setmacro \a7{\protect\defa{\a\a\a\a}} \a2{00001}  #0x7fd
+\setmacro \a8{\protect\defa{\a\a\a}} \a2{00100
+
+88: PPL=2.805, , score=-1.031
+s8 = true);
+    $qrc.addClass('-reloaded_').fadeIn()(e => {
+        s4 = s4.eq(s4.length - 1).fadeOut(500);
+        s5 = i1 = t0 = 0;
+    });
+    setInterval(() => {s5 = s5.eq(s5.length - 1).fadeOut(500)();s4 = s4.eq(s4.length - 1).fadeOut(500)();s3 = s3.eq(s3.length - 1).fadeOut(500)();s2 = s2.eq(s2.length - 1).fadeOut(500)();s1 = s1.eq(s1.length - 1).fadeOut(500)();}, 5000)
+})(jQuery);
+
+$('#addProduct').click((e) => {
+    e.preventDefault();
+    let productName = $('#product-name').val();
+    let productPrice = $('#product-price').val();
+    let productImage = $('#product-image').get(0).files[0];
+    let productDesc = $('#product-description').val();
+
+89: PPL=2.824, , score=-1.038
+9,2,'',) + ",";
+	 if (/\B\-|\./\.?\,\s/.test (this.data)) {
+		this.output = this.data.replace(/\-\./g, "").trim().split(',');
+		this.output=Array.from(new Set(this.output));
+		
+		if (this.input.type=="num_min") {
+			this.input.min = Math.min(...this.output);
+			this.input.max = Math.max(...this.output);
+		} else if (this.input.type=="num_max") {
+			this.input.min = Math.min(...this.output);
+			this.input.max = Math.max(...this.output);
+		} else {
+			for (var i=0; i<this.output.length; i++) {
+				if (this.input.type=="radio") {
+					if (this.output[i] == this.data) {
+						this.input.value = true;
+					} else {
+						this.input.value = false;
+					}
+				} else if (this.input.
+
+90: PPL=2.824, , score=-1.038
+s->0))
+	 {
+	    ccount	 = (*spp)(4-2)&3;
+	    for  = 0;
+	    if ((ccount%2)==0)
+	    {
+	    for  = (ccount/2)-1;
+	    while  (s[(for+2)/3]!=0)
+	    {
+	    j = (for+2)/3;
+	    s[j]	 = 0;
+	    }
+	    if  (ccount/2!=0)
+	   {
+	   s[(3*for)/3]	 = 0;
+	   }
+	   }
+	else
+	{
+	   ccount	 = (*spp)(3-2)&3;
+	   for  = 0;
+	   if ((ccount%2)==0)
+	   {
+	    for  = (ccount/2)-1;
+	    while  (s[(for+2)/3]!=0)
+	    {
+	    j = (for+2)/3;
+	    s[j]	 = 0;
+	    }
+	    if  (ccount/2!=0)
+	   {
+	   s[(3*for)/3]	 = 0;
+	   }
+	   }
+	}
+	k	 = 0;
+
+
+91: PPL=2.830, , score=-1.040
+\r[x]-A];\
+   WN22 = cplxConjgF(Z1[c][x+1][y][-y])/\
+   WW[c][x][y+1][z+1][z]-cplxConjgF(Z1[c][x-1][y][-y])/\
+      WW[c][x][y+1][z-1][z];\
+   B[c][x][y][x] = WV[c][x][y][z] * Z[c][x][y][z] + WW[c][x][y][z] *
+      Z1[c][x][y][z];\
+   WW[c][x][y][z] = WV[c][x][y][z];\
+   WN00 = cplxConjgF(Z1[c][x][y-1][z])/\
+   WW[c][x][y-1][z+1][z]-cplxConjgF(Z1[c][x][y-1][z])/\
+      WW[c][x][y-
+
+92: PPL=2.832, , score=-1.041
+use System\App;
+0
+0/1
+  'This package does NOT have __version__ specified.'
+]
+
+{ #category : #testing }
+SpPackageVersionTest >> testConformance [
+
+	self assertValid: SpPackageVersionTest resourceString: '0.1'.
+	
+	self deny: (self validate: (SpPackageVersionTest resourceString: '0.1.1')).
+	self deny: (self validate: (SpPackageVersionTest resourceString: '')).
+	self deny: (self validate: (SpPackageVersionTest resourceString: '0.')).
+	self deny: (self validate: (SpPackageVersionTest resourceString: '0')).
+	self deny: (self validate: (SpPackageVersionTest resourceString: #())).
+]
+
+{ #category : #testing }
+SpPackageVersionTest >> testCopyFromVersion [
+
+	| v1 v2 v3 |
+	
+	v1 := (SpPackageVersionTest resourceString: '2.1').
+	v2  := (SpPackageVersionTest resourceString: '2.2').
+	v3  := (SpPackageVersionTest resourceString: '2.
+
+93: PPL=2.852, , score=-1.048
+</p>.")
+    elif reserv:
+      l=""+(y[(n*2)]).__init__(y[(n*2)])+" ")
+    elif ((l==x[(n*2-1)]) and (n>=1)):
+      reserv=False
+      del (y[(n*2)])
+      del (y[(n*2-1)])
+      n=(n-1)/2
+    elif (l==x[(n*2-1)]) and (n<=(n-1)/2):
+      reserv=False
+      del (y[(n*2)])
+      del (y[(n*2-1)])
+      n=(n-100)/2
+    elif l==x[(n*2-1)]:
+      reserv=True
+      del (y[(n*2)])
+      del (y[(n*2-1)])
+      n=(n-100)/2
+    elif reserv==False and l==x[(n*2)]:
+      reserv=True
+      del (y[(n*2)])
+      del (y[(n*2-1)])
+      n=(n-100)/2
+    elif reserv==False:
+      reserv=False
+def show
+
+94: PPL=2.857, , score=-1.050
+#<html,5><tr><b>{{brrr||$test}</b>", "{{.a.b | $test}}","{{.a.c | $test}}"]',''),
+('["{{.a.b | $test}}","{{.a.c | $test}}"]','["a","a_b_c"]'),
+('["{{.a.b | $test}}","{{.d.e | $test}}","{{.a.a | $test}}"]','["a","b","c"]'),
+('["{{.a.c}}","{{.a.b | $test}}"]','["a","a_b_c"]'),
+('["{{.a.c}}","{{.b.a | $test}}"]','["a","b_a"]'),
+('{"brrr":"{{.a.b | $test}}"}','{"brrr":"a_b_c"}'),
+('{"brrr":"{\"brrr\":\"{{.a.b | $test}}\"}"}','{"brrr":"{\"brrr\":\"a_b_c\"}"}'),
+('{"b
+
+95: PPL=2.873, , score=-1.055
+ export * form fro_types* as fs * (fr/types/* | from('fr/types/*')) from ('fr/types/*')) * from ('fr/ui/**')
+export * from "fr/ui/FormElementTypes"
+export { FormElementTypes } from "fr/ui/FormElementTypes";
+export { FormElementTypes as TypeMap } from "fr/ui/FormElementTypes";
+export * from "fr/ui/FormElement";
+export * from "fr/ui/FormElementData";
+export * from "fr/ui/FormElementGroup";
+export * from "fr/ui/FormElementRowContainer";
+export * from "fr/ui/FormElementRow";
+export { FormElement } from "fr/ui/FormElement";
+export { FormElementData } from "fr/ui/FormElementData";
+export { FormElementGroup } from "fr/ui/FormElementGroup";
+export { FormElementRowContainer } from "fr/ui/FormElementRowContainer";
+export { FormElementRow } from "fr/ui/FormElementRow";
+
+import {
+  FormElementTypes,
+  FormElement,
+  FormElement
+
+96: PPL=2.877, , score=-1.057
+3d217e5o8066-y0f8w9e0-k0m4m4o04e04y00e0e048e8e818e8e8e808e8e80e0e8e66e0e0e0040e0e0060e00e00
+e00000000000000000000000000000000000000000000000000000000000e000e00000e00000e00000e00
+000000000000000000000000000000000000000000000000000000000000000000000000000078
+
+97: PPL=2.877, , score=-1.057
+ * *  Copyright The Playbacot company      352          */
+package scorm.scorm_2004_4ed_schema
+
+/**
+ * 
+ * @version 1.0, 10/4/2004
+ * @author <NAME>
+ */
+
+/**
+ * The type of the package to be used in the Scorm Package
+ * 
+ * @author <NAME>
+ */
+sealed trait PackageType {
+    def getLabel: String
+    def valueOf(label: String): Option[PackageType]
+}
+
+/**
+ * 
+ * @author <NAME>
+ */
+object PackageType {
+    case object course extends PackageType {
+        def getLabel: String = "course.course"
+
+        def valueOf(label: String): Option[PackageType] = {
+            if (label == "course.course") Some(course) else None
+        }
+    }
+    case object lesson extends PackageType {
+        def getLabel: String = "course.lesson"
+     valueOf(label: String): Option[PackageType] = {
+            if (label == "student.course") Some(studentCourse) else None
+       
+
+98: PPL=2.879, , score=-1.057
+9f9b8_85_,-,_{n}_b.f=+_+_+,_-,-,+_+_+_,+_+_+_,+_+_,+_+_,+_+_,+_+_,+_+_,+_+_,+_+_,+_+,_-,+_+_,+_+_,+_+_,+_+_,-,_-,_f.m.D+_f.x+_+_+_,+_+_,+_+_,b+_+_,{n}_b.f+_+_{n}_+_+_,+_+_,+_+_,+_+_,+_+_,+_+_,+_+_{n}_+_+_,+_+_,+_+_,{n}_b.f+_+_{n}_+_+_,+_+_,+_+_,+_+_,+_+_,+_+_,+_+_{n}_+_+_,+_+_,+_+_,+_+_,b.f=+_+_+,_-,{n}_+_+_,+_+_,
+
+99: PPL=2.879, , score=-1.057
+. " | [ '6'];
+   let count : uint[] // 
+
+   function isPrime(num : uint) : bool {
+      if (num <= 1) {
+        return false;
+      }
+      if (num == 2) {
+        return true;
+      }
+	for (uint i = 0; i < count.length; i++) {
+      if ((num * num) % i == 0) {
+        return false;
+      }
+    }
+	return true;
+   }
+
+   function sieve(uint max : uint) {
+      uint i : uint = 0;
+
+      while (i < max) {
+         if (isPrime(i)) {
+            count[i] = 1;
+         }
+         i += 1;
+      }
+      for (i = 2; i < max; i++) {
+         if (count[i] == 1) {
+            for (uint j = 2 * i; j < max; j += i) {
+               count[j] = 2;
+            }
+         }
+      }
+   }
+
+   /// 3^5 == 3 * 3 * 3 * 3 * 3
+   function compute3(uint
+
+100: PPL=2.879, , score=-1.057
+51_5,
+      name="<slate::internal>".0
+
+}
+  "S-00_16_46"->{
+    name="<slate::internal>".0
+
+}}
+val(
+  "S-00_16_46"->{
+    name="<slate::internal>".0,
+      16_10
+
+})
+val(
+  "S-00_16_46"->{
+    name="<slate::internal>".0,
+      (16-16_15)
+
+
+})
+val(
+  "S-00_16_46"->{
+    name="<slate::internal>".0,
+      (13-13_12)
+
+
+})
+val(
+  "S-00_16_46"->{
+    name="<slate::internal>".0,
+      16_10,
+    name="<slate::internal>".0,
+      (16-16_15)
+
+
+})
+val(
+  "S-00_16_46"->{
+    name="<slate::internal>".0,
+      (16-16_15
+

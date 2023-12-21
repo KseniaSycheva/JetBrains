@@ -1,0 +1,2632 @@
+1: Shuffle=3.301, , score=3.301
+	#!//  Copyrightque, com <<emial,<at,>com<EMAIL>>
+
+	[q=2]
+/
+
+2: Shuffle=3.301, , score=3.301
+3',1664': None if self["ID0X{}X".format(k)] is None else int(self["ID0X{}X".format(k)]), \
+            "ID0Y{}Y".format(k): self["ID0Y{}Y".format(k)], \
+            "ID0P{}P".format(k): self["ID0P{}P".format(k)], \
+            "ID0D{}D".format(k): self["ID0D{}D".format(k)], \
+            "ID0K{}K".format(k): self["ID0K{}K".format(k)], \
+            "ID0Q{}Q".format(k): self["ID0Q{}Q".format(k)], \
+            "ID0M{}M".format(k): self["ID0M{}M".format(k)]}
+        for k in self.ID:
+            data_ID.append({"ID0X{}X".format(k): self["ID0X{}X".format(k)], \
+            "ID0Y{}Y".format(k): self["ID0Y{}Y".format(k)], \
+            "ID0
+
+3: Shuffle=3.301, , score=3.301
+66c',5c']
+      else raise #FIX:
+    [04',c',c'','c''',04']
+  end
+  def test_5
+    if @puzzle_text == [
+      "0000".split("").map { |digit| digit.to_i(3) },
+      "3000".split("").map { |digit| digit.to_i(3) },
+      "3000".split("").map { |digit| digit.to_i(3) },
+      "0000".split("").map { |digit| digit.to_i(3) }
+      ]
+      then @soln_text == [
+        "'.,'",
+        "003'",
+        "3.0",
+        "'.,',",
+        ].map { |line| line.split(",", -1).map(&:to_i).reverse }
+      else raise #FIX:
+    [0000,3000,3000,0000].map(&:to_i).reverse,
+    003,30,00,[0,0,0,0,0,0],
+    
+
+4: Shuffle=3.301, , score=3.301
+4/api0_name="Gandalh"),
+
+    ]
+    @fixture("fixture1")
+    def fixture(request,db):
+     return db.get_or_create(name=request.param)
+
+
+# def test_create_location(fixture2, location2):
+#     assert location2.name == "Narsingh Nagar"
+
+# def test_location_save(location2):
+#     assert location2.name == "Narsingh Nagar"
+
+5: Shuffle=3.301, , score=3.301
+4" -i"..$_ENV->file."-
+
+6: Shuffle=3.301, , score=3.301
+ (5  i <= 1  else lis'l) then return(0);
+			write(i,'(3F6.2)')(y(j),j=1,x(i,1))
+			endif
+		end
+
+		subroutine b(i1)
+		integer i,j1
+		common/li/i,j1
+		if(i1.lt.1) then return(0);
+		write(i1,'(3F6.2)')(y(j1),j1=1,x(i,i1))
+		endif
+		end
+
+
+		subroutine c(i1)
+		integer i,j
+		common/li/i,j,k
+		if(i1.lt.1) return(0);
+		write(i1,'(3F6.2)')(y(j),j=1,x(k,1))
+		return(0);
+		end
+
+
+		subroutine d(i1)
+		integer k,i
+		common/li/i,j,k
+		if(i1.lt.1) return(0);
+	
+
+7: Shuffle=3.301, , score=3.301
+45e:9]
+            (5,2)]=x(2[2][i0].
+}
+//: [8.4.2.b.1]
+f:{x(1,1);x.f=x,x;x.5=f;f(2,2)}
+
+//: [8.4.2.b.2]
+f:{x(1,1);x.f=x,x;x.5=f;f(2,2)} //error: variable f already defined
+
+//: [8.4.2.b.3]
+f:5(x:=x(x:=x:=x(x:=x:=x(x:=x:=x(x:=x:=x(x:=x:=x(x:=x:=x:=5))))))))
+
+//: [8.4.2.b.4]
+f:5{x:=x(x:=x:=x:=x(x:=x:=x(x:=x:=x(x:=x:=x(x:=x:=x(x:=x:=x(x:=5))))))}}
+
+//: [8.4
+
+8: Shuffle=3.301, , score=3.301
+9/main(){(p,{getStoreDataForAppByTemplateTitleActionWithParam:(t)=>(g=g||getStoreDataByLocalDataInApp("storeDataByStoreName",e),l.get('templateTitleAction',(n),t),n&&k.dispatch({type:'templateTitleAction',payload:n,storeName:e}),g)}(s,g,u,{dispatch,get,set})})(this,this['__webpack_public_path__']+'static/js/')
+});
+
+
+/***/ }),
+
+/***/ 888:
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _react = __webpack_require__(1);
+
+var _react2 = _interopRequireDefault(_react);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule? obj : { default: obj }; }
+
+// import { Route, Switch } from'react-router-dom'
+
+// import Nav from './components/Nav/Nav'
+// import Home from './components/Home/Home'
+//
+
+9: Shuffle=3.301, , score=3.301
+# Generated file
+require ('protoplidistate_pb').prototype[global['__filename']].exports = {
+  nameSpace: null,
+  register: function (ns) {
+    ns = isNaN(ns)? null: '' + ns;
+    this.nameSpace = ns;
+    if (typeof require === 'function') {
+      global[ns] = global[ns] || require('./dist').default;
+      global[ns].register(ns);
+    }
+  },
+  /**
+   * Gets the component name.
+   * @public
+   * @returns The component namespace.
+   */
+  getName: functame;
+  }
+};ion () {
+    return this.nameSpace;
+  },
+  /**
+   * Adds a component to the list.
+   * Must be registered.
+   * Cannot be used without `get`.
+   * @param {Object} component - The component object to add.
+   */
+  addComponent: function (component) {
+    if (this.nameSpace && component[this.nameSpace]) {
+      this[this.nameSpace] = component[this.nameSpace];
+      global[this.nameSpace] = global[this.nameSpace] || this[this.nameSpace];
+
+10: Shuffle=3.301, , score=3.301
+ ( lder  ->
+    case h.find p of
+             Right [name]     -> Right [name, name]
+             Right ns         -> Right ns
+             Left  e          -> Left e
+
+
+{- | Extract all sub-folders
+
+> foldersOf' $ Right ["C:\\Foo\\Bar", "C:\\Foo\\Bar\\Baz"]
+Right ["Bar", "Bar\\Baz"]
+
+-}
+
+-- | Extract all sub-folders, from a list of folders
+--
+-- >>> foldersOf $ Right ["C:\\Foo\\Bar", "C:\\Foo\\Bar\\Baz"]
+-- Right ["Bar", "Bar\\Baz"]
+foldersOf :: Foldable t => (Either Error t -> Either Error t) -- ^ Folding function
+                              -> t String                             -- ^ Folding target list
+                              -> Either Error t
+foldersOf f = foldl f (Right [])
+
+{- | Extract all sub-folders, from a list of folders with a name
+
+> foldersOfWith' $ Right ["C:\\Foo", "C:\\Foo\\Bar"]
+Right []
+
+-}
+
+-- | Extract all sub-folders, from a list of folders with a name
+
+
+11: Shuffle=2.750, , score=2.750
+use comao_vog;
+    void printTime10();
+      
+      
+    if(comando==10){
+        printTime10();
+    }
+        if(comando ==1){
+        printf("Informe a cor em hexadec. \n");
+        scanf("%x", &cor);
+        if(cor!=15){
+          printf("Cor invalida!\n");
+        }
+        else{
+            printTime10(); 
+        }
+    }
+    if(comando ==2){
+        printTime10();
+        printf("Informe a cor em RGB. ");
+        scanf("%d %d %d", &red_o, &green_o, &blue_o);
+        int temp_red=red_o,temp_green=green_o, temp_blue=blue_o;
+        int aux;
+
+        aux = temp_red * 3600000 + temp_blue * 100000 + temp_green * 3 + 2600000;
+        printf("Informe a cor em Hexadecimal. ");
+        scanf("%x %x %x", &red_o2, &green_o2, &blue
+
+12: Shuffle=2.750, , score=2.750
+;************************************************************************\
+          
+/** This program should demonstrate
+the use a stack implementation on  an MCU of a microprocessor.
+
+;
+;  <NAME> - 05-08-19 ;
+;  http://opensource.org/licenses/MIT
+;*****************************************************************************/
+     .segment "STACK"   
+      
+      STK      res     32
+     .export   STK  
+      
+            ;;  The stack has to implement this interface.
+               ;;  It has to have a function, when a word has
+             ;;  been added to the stack.
+            function STK: WordAdded(stkValue: Word)
+            
+        
+        end function
+        
+      
+
+
+     ;;  The stack has to have a function, when a word has
+    ;;  been used in a branch instruction.
+    function StackPop(stkValue: Word) : Word
+        ;;  Implement here the word popper
+            ;;  It has to have a function, when a word has
+	     ;;  been used in a branch instruction.
+	     ;;  Return the popped word
+            ;;  The stack has to be updated.
+            
+        end function
+
+StackPush(value: Word): Word
+    ;;  Implement here the word pusher
+        ;;  It has to have
+
+13: Shuffle=2.750, , score=2.750
+;
+
+
+    
+    
+        ;
+
+        /* eslint "prefer/restlesseq"      
+: [4, "x_i1", "k_i5", "s0", "x_i6", "k_i--1", "s1", "x_i--2", "k_i--3"]
+
+        ;;
+
+   
+
+(k_i7
+:
+[1, 2, 3, 4]
+)
+
+(x_i2
+:
+     -5
+)
+
+(k_i8
+: 
+ [
+ -1
+ 0
+ 1
+ ]
+)
+
+
+(s2
+[1: 2: n]
+)
+
+(k_i9
+[5, 6, 7]
+)
+
+(x_i5
+:
+     (
+;
+         (k_i--3)
+          x_i2 +
+
+         (k_i--1)
+         +)
+)
+
+
+
+(k_i0
+)
+
+(x_i9
+)
+
+(k_i--4
+)
+
+(x_i--5
+)
+
+(k_i 99
+)
+
+
+14: Shuffle=2.750, , score=2.750
+>    .</description>"
+                    item3
+                    "\x.    <image><imagefile>"item4"
+                    "\x.    </imagefile></image>"
+                    item5
+                    "\x.    <url><urlcontent>"item6"
+                    "\x.    </urlcontent></url>"
+                    item7
+
+                    print "\nDone"
+
+def add():
+
+  try:
+    if item0 == '0':
+      print 'item0 is wrong'
+      exit(0)
+      add()
+  except:
+    None
+
+  try:
+    if item1 == '0':
+      print 'item1 is wrong'
+      exit(0)
+      add()
+  except:
+    None
+
+  try:
+    os.chdir(str(item2))
+    if item30 == '0':
+      print 'item 30 is wrong'
+      exit(0)
+      add()
+  except:
+    None
+
+  try:
+    os.mkdir(str(item31))
+    if 0:
+      print 'item 31 is wrong'
+      add()
+  except:
+    None
+
+  try:
+    os.chdir(str(item2))
+    os.chdir(str(item31))
+    if item32 == '0':
+     
+
+15: Shuffle=2.750, , score=2.750
+8,02) {
+    .tcf $regno,(,,$srh_size_addr$regno,$pc_addr$regno)
+   } else {
+     // A stack pointer must be saved into TCF, and TCF is already loaded into $srh_size_addr$regno.
+ .pushsection.tls.data, "ax", @progbits
+.comm @srh_size_addr$regno,4,4
+.comm @srh_addr$regno,@srh_size_addr$regno,4
+.data
+.align 4
+@srh_addr$regno:
+.4byte	204
+@srh_size_addr$regno:
+.4byte	216	// Size of the saved stack pointer.
+
+.align 4
+.local _srh_data@PLT// $sp = $lr = $pc
+@srh_data$regno:
+.4byte	0
+.4byte	0
+.align 4
+@srh_data@PLT$regno:
+.4byte	0
+.4byte	0	
+
+16: Shuffle=2.750, , score=2.750
+a == A b; (B
+1 + i c > ;! i a j f ) i 1 < > c = ; i 1 0 > ; i 1 0 > ; [ s ] t
+s ;!
+t = s = 4
+A 100
+1 + + a < t;!
+A a
+i c a > ;
+! i a j >
+-1 + + i j 1 + + t <
+A 65
+A 65
+A 65
+! ( i j 1 0 > ) 65 65 = ;
+! ( i j 1 0 > ) 65 65 = ;
+65 = ;
+!
+i j 1 > ;
+s
+s ;!
+i j 1 > ;
+s s 1 - ;!
+i j 1 > ;
+!
++ ; [ a ]
+
+A ;!
++ ;!
+, a1 b1 a0 b0 -1
+!
+p r a p r b b a - A
+!
++ A p > r ;
+!
+1 0
+0 
+
+17: Shuffle=2.750, , score=2.750
+ *
+# Copyright Elasticsearch bce of an individual corprial. Each Contributor
+# identifies itself by the Name or       #   - ${version}
+      #   - ${version}-SNAPSHOT
+      # - description: Elasticsearch Enterprise distributions
+      #   - ${version}
+      #   - ${version}-SNAPSHOT
+    version: '2.4'
+    distribution:
+      - ${version}
+
+matrix:
+  fast_finish: true
+"Zen Cart Development Team" (the Licensor).
+#
+# The licenses and distributions for Open Source software and Third Party software
+# are governed by the license terms and conditions found in the accompanying
+# LICENSE file.
+#
+# Unless otherwise agreed by the Licensor the content of this file is
+# licensed under the Apache License Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+#
+
+18: Shuffle=2.750, , score=2.750
+::set -b-g ${HOME:-`/`} &"
+        echo "/usr/$(basename $1).sh" >~x-shell-bah/b${1}
+        exec <~x-shell-bah/b${1}
+        rm -f ~x-shell-bah/b${1}
+        exit 0
+        fi
+    fi
+    exec 3>"${x/./x.sh}"
+    exec 3>>"${x/./x.sh}"
+    /bin/sh -c "${x}"
+    echo "/bin/sh ${x/./x.sh}" >~x-shell-bah/b${1}
+done
+    ;;
+*)
+    if [ -f "${x}.sh" ]; then
+        echo "/bin/sh ${x}.sh" >~x-shell-bah/b${1}
+    else
+        echo "#!/bin/sh" >~x-shell-bah/b${1}
+        echo "bash -c /bin/sh ${x}" >>~x-shell-bah/b${1}
+    fi
+)
+    ;;
+esac
+    echo "/bin/sh ${x/./x.sh}" >~x
+
+19: Shuffle=2.750, , score=2.750
+a <-t("2+test_var);\r","  t += '2+';\n"})
+    end)
+    describe("when no value is provided", function()
+      function result()
+        return (template_eval "a")
+      end
+      it("returns an empty string", function()
+        assert.are.same("", result())
+        assert.are.same("", template_eval("a", {"a": nil}))
+      end)
+    end)
+  end)
+end)
+end)
+  end
+  describe("eval", function()
+    it("correctly evaluates template code", function()
+      for test_var in {"abc","def","ghi",false,5} do
+        assert.are.same({"abc","def","ghi"}, template_eval("a,b,c\na;b;c"))
+        assert.are.same({"abc","abc","abc"}, template_eval("a,b,c\na;a;a"))
+        assert.are.same({"def","defb","def"}, template_eval("a,b,c\na;b,b,b;b"))
+        assert.are.same({"ghi","ghidef","ghi"}, template_eval("a,b
+
+20: Shuffle=2.750, , score=2.750
+0xc\xdb}\xcdm1O{YfF2B96I!3\x0d\xeb\xe2\x0f\
+\x13\x93\x022&\x0dP\x11#\xd6\x04R2171617"
+"\xc1\xbd\xff\xeb\x93\x07\xa7\xd1\xe6\xe6\xe6\xeb\xee\xee\x9b"
+"\xc7\xaf\x0e\x0f\x07\x01044I1I2\x80R\x10\x0a\xfc\x94\x1d"
+"2\x14R\xc2\xa7\xa4\xa6\xa9D262\xd2\x06\x14522f\x0a"
+"\x16\x16\x163\xd7\x34\xaf\xbd\xbb\xcb\xcb\x0
+
+21: Shuffle=2.667, , score=2.667
+ = array-6;
+
+ *    }
+
+    }
+    
+    */
+
+
+    double hmax = 0;
+    double sum1 = 0;
+    for (k = 0; k < kmax; k++)
+    {
+	h = 2;
+	while (true)
+	{
+	    yk = -yk + y;
+	    y = yk - (2 + yk - 4);
+
+	    if (abs(y) < 1e-12)
+	    {
+		yk = -yk + y;
+		y = yk - (2 + yk - 4);
+	    }
+	    
+	    h = abs(y) / h;
+	    if (hmax < h)
+		hmax = h;
+
+	    //cout << yk << " " << h << endl;
+	    if (abs(y) < 1e-12)
+		break;
+	    if (h < 1e-12)
+		h = 1e-12;
+	    if (abs(y) < h)
+	    {
+		sum1 += abs(y) * h;
+		//cout << h + (2 + 2 * h - 4) << endl;
+
+22: Shuffle=2.667, , score=2.667
+a += +6)return {
+            count(map:map,key:newId);
+            return false;
+        };
+    };
+    return {
+        count(map:Map<string,number>,key:string) {
+            return map[key] || 0;
+        },
+        setItem(set:Set<string>, key: string) {
+            countMap(set);
+            countSet(set);
+            return false;
+        },
+        removeItem(remove:Set<string>, key: string) {
+            countSet(remove);
+        },
+        updateItem(update:Map<string,number>, key: string) {
+            countMap(update);
+            return false;
+        }
+    }
+}
+;
+    };
+    const countMap = (map: Map<string,number>) => {
+        if (map.has(key)) {
+            a += 2;
+            map.set(newId,a);
+        } else {
+            a += 1;
+            map.set(newId,a);
+        }
+        
+
+23: Shuffle=2.667, , score=2.667
+:
+
+                                        %-------------------------------------------------
+        ;-   This Program to display 'Hi...My Name..'
+
+.model small
+.stack 100h
+
+
+	.data			;-- start of data segment
+
+msg db "Hi..., My name is..."
+msg1 db "Jaydeep!",13,10,"$"
+
+.code
+
+
+
+start:
+
+		mov ax,@data	
+		mov ds,ax
+
+		mov ah,09h
+		mov dx,offset msg	
+		int 21h
+		
+		mov ax,@data
+		mov ds,ax
+		
+		mov ah,09h
+		mov dx,offset msg1	
+		int 21h
+
+	jmp start
+
+end start
+
+
+;-- end of code segment --------------------------------------------
+
+
+		;-- end of data section --------------------------------------
+		
+	
+.ends
+
+
+24: Shuffle=2.667, , score=2.667
+) == ==
+
+    <div {...cardConfig([...])...{1}}.map...}
+  </Paper>
+</div>)
+```
+
+
+```js
+(
+  <div>
+    {...cardConfig([0,0])->[{
+      width:   "75%",
+      title:   "H1",
+      items:   [0,0],
+      actions: [0,1,2],
+      image:   "img/h1",
+    },{
+      width:   "25%",
+      title:   "H2",
+      items:   [0,0],
+      actions: [0,1,2],
+      image:   "img/h3",
+    },{
+      width:   "25%",
+      title:   "H3",
+      items:   [0,0],
+      actions: [0,1,2],
+      image:   "img/h4",
+    },{
+      width:   "25%",
+      title:   "H4",
+      items:   [0,0],
+      actions: [0,1,2],
+      image:   "img/h5",
+    },{
+      width:   "25%",
+      title:   "H1",
+      items:
+
+25: Shuffle=2.667, , score=2.667
+1);
+
+		x4[key1_n]);
+
+    t += tms->elapsed();
+    printf("  %f  %f  %lu  ", t, tms.real, tms.cpu);
+
+    printf("    %s", str);
+    putchar('\n');
+  }
+  _Exit(0);
+}
+  gettimeofday(&tms, NULL);
+		double t = (double) (tms.real  + tms.u
+
+26: Shuffle=2.667, , score=2.667
+,
+/**
+  Copyright <KEY>{2<74>
+// Licensed for CNES/P3D under one or more contributor license agreements; see LICENSE file.
+
+#ifndef FILE_T_BBOX_H
+#define FILE_T_BBOX_H
+
+#include <boost/cstdint.hpp>
+
+#include "IVisitor.hpp"
+
+/**
+ * @brief A class describing a set of bounding boxes.
+ *
+ * The class keeps a list of boxes and calls the visitor's method every
+ * time the bounds of the list change.
+ */
+class BoundingBoxGroup : public IVisitor {
+public:
+  BoundingBoxGroup() = default;
+  ~BoundingBoxGroup();
+
+  /** Clears list of boxes. */
+  void clear();
+
+  /** Adds bounding box to the group. */
+  void add(const std::pair<double, double>& bottom_left,
+           const std::pair<double, double>& top_right);
+
+  /**
+   * @brief Calls method with appropriate bounding box.
+   *
+   * @param bottom left, x bottom_left, y bottom_right
+   * @param bottom right, x bottom_right, y top_right
+   * @
+
+27: Shuffle=2.667, , score=2.667
+
+    function 
+:   00
+    c     #define "2-element 1-column" matrix
+    t   m=  2  i= 0
+:  00,0  f(i,m)=  8
+    t   m=  3  i= 0
+:  00,0,0  for i from 0 to 1 do  print m, "  ",  f(i,m).  #  print matrix
+    q  
+```
+
+---
+### [Exercise 37](https://mitpress.mit.edu/books/modern-assembly-language)
+
+```
+    p  #  print 1
+    p  #  print 2
+    l  #  load 2 into 1
+    l  #  double 1
+    l  #  load 1 into 2
+    p  #  print out 2
+    q  
+```
+
+---
+### [Exercise 43](https://mitpress.mit.edu/books/modern-assembly-language), [Exercise 47](http://ferris.cs.uiuc.edu/cs900/readings/x86/
+
+28: Shuffle=2.667, , score=2.667
+0063.java
+ 
+     
+String.replaceAll("-",""),
+        107.java
+String.toLowerCase(),
+String.toUpperCase(),
+   88.java
+	Pattern,	Matcher,
+	89.java
+	Pattern.compile(regular),
+	Pattern.matches(pattern, s),
+	Pattern.replaceFirst(regex, sub),
+	Pattern.matches(pattern, s),
+	Pattern.compile("a*bc").matcher(x).matches(),
+	Pattern.compile("a*bc").matcher(x).find(),
+	matcher.matches(),
+	matcher.find(),
+	matcher.lookingAt(),
+	matcher.find(),
+	matcher.group(0),
+	matcher.start(),
+	matcher.end(),
+	matcher.reset(),
+	matcher.start()..matcher.end(),
+	113.java
+	Pattern,	Matcher
+	Pattern,	Matcher
+	String
+	String
+	String
+	String
+	String
+	String
+	String
+	String
+	String
+	String.toLowerCase(),
+	String.toUpperCase(),
+	String.concat(s1, s2)
+class String {
+   public
+
+29: Shuffle=2.667, , score=2.667
+3,l(x^r*(c1-2*c-n)**r)/r))
+        s=s.truncate(n+1)
+    
+    return n=0:
+    a=random()-1;
+    b=random()-1;
+    c=10*random()-5;
+    c1=c+1;
+    
+    s=0;
+    
+    for r=0:n:
+        s=s+(a+b*(-1)^r)*(x^r)*((((2*c-n)*(2*c+n)*tanh((2*c-n)/(2*c+n))*sinh((r/n)*tanh(r/n))*(c*(2*c+1)+n*(2*c+2))*sin((2*c+n)/(2*c+1)*sin(2*c+n/(2*c+1))))+((c*(2*c+2)+n*(2*c+1)))*sinh(r/(2*c+1)*sin(r/n)))+((sin((c*(2*c+2)+n*(2*c+1))))*((2*c+1)*sin((2*
+
+30: Shuffle=2.667, , score=2.667
+(n' (o), a b :'e''d e a b c t) (i) e b :f g n a b c n :11 : 1 1 'd' e a b n : 1 a n a b c n n : '1 a b c n : '1 'd' e a b n n n : : '' e a b n n n e a b :'' e'a b : : ': '' d e a b : ''d'a b ::'e'a b : 'e'a b : e a b :'e'a b : e a b :'e'a b : f n a b :'f'n a b : 'f n a b :'f n a b : : : 'f n a b :'f n a b : : : 'f n a b :'f n a b : : '' f n a b :'f n a b : : : 'f n a b :'f n a b : : : 'f n a b :'f n a b : : 'f n a b :'' f n a b : : : 'f n a b :'
+
+31: Shuffle=2.600, , score=2.600
+
+    public0 = (
+        r1]owId: u3,
+        first_column_name: String,
+        second_column_name: String,
+        third_column_name: String,
+        fourth_column_name: String,
+    ),
+}
+
+enum ColumnDataType {
+    Int64,
+    String,
+    Decimal {decimals_count: usize},
+    Bytes,
+    IsoDate,
+    Date,
+    Bool,
+    Null,
+}
+
+pub type RowData = Vec<(&'static str, &Any)>;
+
+pub fn to_row_data(row: &DataRow) -> RowData {
+    match row {
+        DataRow::Int64(_) => "TODO".to_owned().into_iter().map(|e| (String::new(), &e)).collect(),
+        DataRow::String(_) => "TODO".to_owned().into_iter().map(|e| (String::new(), &e)).collect(),
+        DataRow::Bytes(_) => "TODO".to_owned().into_iter().map(|e| (String::new(), &e)).collect(),
+        DataRow::Bool(_) => "TRUE".to_owned().into_iter().
+
+32: Shuffle=2.600, , score=2.600
+>       @
+<issue:05_example>(https:</0>)</issue>
+username_0: @username_1 Done. The next challenge will be to edit the README file with a list of your usernames. You may want to pull down your repository once you've made the pull requests
+username_0: Thank you for doing some great work on this project. You did a great job adding your name!
+username_0: @username_1 You can also view your repo here https://github.com/username_1
+username_1: I didn't know I could click on the names above or was supposed to link to other repos/pages (like I linked to my repo earlier). Thank you!
+username_0: @username_1 We are going to be adding more challenging challenges to this project. We will keep adding new challenges weekly with a detailed feedback loop on each challenge. Hopefully, I can get through all the challenges in the next couple of weeks.
+username_1: @username_0 Awesome! Looking forward to it! :D
+username_0: @username_1  Happy to help. I hope to make this project to
+
+33: Shuffle=2.600, , score=2.600
+79</optionCode-value>}
+				                             <item Code="#ff0e2d82" />
+							       <item Name="R4" Code="#ff0e2d82" />
+          					       <item Name="R25" Code="#ff0e2d82" />
+          					       <item Name="R4" Code="#ff0e2d82" />
+		                       <item Code="#ff0e2d82" />
+				        		<item Code="#ff0e2d82" />
+				        		<item Code="#ff0e2d82" />
+		              	  	  	<item Code="#ff0e2d82" />
+			        	  	  	<item Code="#ff0e2d82" />
+			        	  	  	<item Code="#ff0e2d82" />
+			        		  	  	<item Code="#ff0e2d82" />
+		      			  	  	<item Code="#ff0e2d82" />
+			        	  	  	<item Code="#ff0e2d82" />
+					          	<item Code="#ff0e2d82
+
+34: Shuffle=2.600, , score=2.600
+
+    function validate_id/findNode("0xc", value )  # find root value
+        return int(value)  # use int to get the value
+    }
+    
+}
+
+# get value
+    set value "[_SMT::setNode $index]"
+# get value
+    set value [string trimright $value {*}]
+    
+    if {[string trim $value " "] == ""} {
+        
+        return 0
+    }
+    
+    if {[string trimleft $value {*}] == ""} { return $value }
+    if {[string trimright $value } {*}] == ""} { return $value }
+    if {[string trimleft $value } {*}] == ""} { return $value }
+    
+    return $value    
+    
+}
+
+# set array element by value
+    proc ::SMT::array::setValue {arrayIdx value} {
+        if {[string trim $value " "] == ""} { return 0 }
+        set value "[_SMT::setArrayElement $arrayIdx $value]"
+    }
+    
+# get array value as list (for json conversion)
+    proc ::SMT::array::getRawArray {arrayIdx rawArray} {
+        set value "[_SMT::getNode
+
+35: Shuffle=2.600, , score=2.600
+/disturb/py -2r --port 342 -b -f demo
+
+/Users/brian/Documents/dev/dist/bytestring/python-bytestring-0.0.1-py3.6-nspkg-src.pkg/lib/python3.6/site-packages/bytecbian/Documents/dev/dist/bytestring/lib/python3.6/site-packages/bytecodes.py", line 641, in __del__
+    del self.code[bytecode_id][bytecode]
+KeyError: 128
+```
+username_0: I think maybe in the new version, we can delete this line? 
+```python
+del self.code[bytecode_id][bytecode]
+```
+username_2: Closing in favor of #687  which should be more actively developed.odes.py:624: RuntimeWarning: 'code' is not a 'bytecodes' object
+  warnings.warn("'%s' is not a '%s' object" % (type(x), type(self)))
+
+
+
+36: Shuffle=2.600, , score=2.600
+
+<!-----------><--------->--------<!------------------>--><------------------->*|      JBNC               |*<<------------><-----------|
+*||*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|
+*||*          (c) by <NAME>        |*|
+*||*          Licensed under Apache 2       |*|
+*||*          www.jbnc.de               |*|
+*--------------------------------------------------------------------
+*||*   *|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*
+*||*   *|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*|*
+
+37: Shuffle=2.600, , score=2.600
+
+    /* 
+    The file of main java code is parted upon the source. 
+    the Source is https://github.com/yulangchao 
+    https://github.com/yulangchao 
+    the code is available at the site 
+    https://www.tutorialspoint.com/java/examples_system.htm 
+    */
+import java.util.*;
+import java.io.*; 
+                      
+class SystemExample
+{
+  public static void main(String args[])
+  {
+    /**
+     * System Class is used with several static methods to work with various properties of the Virtual Machine
+     */
+
+    // returns available name of the file system
+    System.out.println("Available file system : " + System.getProperty("sun.boot.class.path"));
+
+    // return the name of the user who initiated this program
+    System.out.println("User Name : "+ System.getProperty("user.name") );
+
+    // return OS name 
+    System.out.println("OS Name : " + System.getProperty("os.name") );
+
+    // return Operating System version
+    System.out.println("OS Version : "+ System.getProperty("os.version") ); 
+
+    // return User Directory
+    System.out.println("User
+
+38: Shuffle=2.600, , score=2.600
+)0:
+            break
+
+
+
+            cdf[key]["y-intercept__range__1-5"],
+            cdf[key]["y-intercept__range__1-5"]["x-intercept__range__1-5"])
+    if(yinterceptrange15!= "1"):
+        continue
+    #
+    #
+    #
+    # #
+    # #
+    #
+    # #
+    #
+    #
+    # #
+    # #
+    #
+    # #
+    # #
+    #
+    # #
+    # #
+    # #
+    # #
+    # #
+    #
+    # #
+    #
+    # # #
+    # #
+    # #
+    # #
+    # #
+    # #
+    # #
+    #
+    # #
+    # #
+    # #
+    # #
+    # #
+    # #
+    #
+    # #
+    # #
+    # #
+    #
+    #
+    #
+    #
+    # #
+    #
+    #
+    #
+    #
+    #
+    #
+
+    # #
+    # #
+    # #
+    # #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    #
+    # #
+    #
+    #
+    #
+    #
+    #
+    #
+   
+
+39: Shuffle=2.600, , score=2.600
+03] : <c0>(303).[ 0x5fffc20: 2]
+[   2] <c1>
+[   2] <c0>(300).[ 0x5ffc200: 2]
+[   5] <-[ 0x5ffc200: 2]-><c0>(301).[ 0x5ffd000: 1]
+[   8] <-[ 0x5ffd000: 1]>[ 0x5fffbff: 3]
+[ 220] <-[ 0x5fffbff: 3]>[ 0x5ffd000: 1]
+[ 281] <-[ 0x5fffa00: 3]>[ 0x5ffd000: 1]
+[ 285] <-[ 0x5fffe00: 3]>[ 0x5ffd000: 1]
+[ 286] <-[ 0x5fffb40: 3]>[ 0x
+
+40: Shuffle=2.600, , score=2.600
+. '
+            #   	elif row[60]='N'-01':
+            # 	print str(i),
+            # 	print row[1], row[2], row[3], row[4], row[5],
+            # 	print '00 ',
+            # 	print row[60],
+            # 	print 'N'
+
+    # print 'The number of rows: ', num
+    # for i in range(171495):
+    #     if i % 500 == 0:
+    #         print i
+    df = df.fillna({
+        'V1':None,
+        'V2':None,
+        'V3':None,
+        'V4':None,
+        'V5':None,
+        'V6':None,
+        'V7':None,
+        'V8':None,
+        'V9':None,
+        'V10':None,
+        'V11':None,
+        'V12':None,
+        'V13':None,
+        'V14':None,
+        'V15':None,
+        'V16':None,
+        'V17':None
+
+41: Shuffle=2.574, , score=2.574
+>
+<!-- Start: Content-->
+
+ ntal="footer1"/>
+        
+           
+     @parent   
+    
+     <!-- End: Content-->
+    <img src="img/footer.png" class="pic4" adve
+
+42: Shuffle=2.574, , score=2.574
+function initTable2 ()	/* eslint no: es-block, no-cond-assign, no-use-before-define */
+
+const fs = require('fs');
+const crypto = require('crypto');
+const path = require('path');
+const glob = require('glob');
+const semver = require('semver');
+
+const {
+	addFile,
+	applyTemplate,
+	getPackageJSON
+} = require('./lib/files');
+const { getPackageJSONDependency } = require('./lib/dependencies');
+const { readTemplates, readSettings, readOptions, readFile } = require('./lib/templates');
+const { processDependencies } = require('./lib/process-dependencies');
+const { validateDependencies } = require('./lib/validate');
+
+const debug = require('./lib/debug').extend('init');
+
+const DEFAULTS = {
+	skipIfExist: false,
+	updateJSON: true,
+	useTemplate: false,
+	checkDependencies: true
+};
+
+/** @type {import('../types/settings').InitSettings*/}
+let settings = {...DEFAULTS,...readSettings() };
+
+/**
+
+43: Shuffle=2.574, , score=2.574
+7e" in line = s.indexOf('.')?parseInt : Function.<>)
+
+
+    ;
+
+}
+
+}
+
+44: Shuffle=2.574, , score=2.574
+/library('assertx:Test+Tools/LibraryTestCase-Trait.st');
+
+
+!LibraryTestCaseTrait methodsFor: 'tests'!
+test_test_exception_in_setUpOrTearDown_should_be_ignored 
+	"self assert: [ self perform: (self selectorForUnderTest_in: '') ]"
+]
+!
+
+test_testDebugOnUndeclaredClassVariable_should_reportFailure
+	| c |
+
+	self class >> #c: [ :c | 
+		self debug: [ c c ].
+	].
+
+	c := Object new.
+	self assert: [ [ c c ] 
+			on: TestFailure 
+			do: [ :tf | tf ] ]
+]
+
+!
+
+test_testDebugOnUndeclaredClass_should_reportFailure
+
+	| obj |
+	"
+		self c:
+			TestUndeclaredClass
+			c: []
+			c: #instVar1 instVar2
+	"
+
+	obj := self perform: (self selectorForUnderTest_in: 'c:').
+	self assertUndeclaredClassVariableError: [ obj c ]
+	
+!
+
+test_testDebugOnUndeclaredClassVariable
+
+45: Shuffle=2.574, , score=2.574
+" +10"22"44",2} }
+        </tbody>
+      </table>
+    </Fragment>
+  )
+}
+,"111","111","222","222"]
+  return (
+    <Fragment>
+      <h1>Your Results: </h1>
+      <table className='result-table'>
+        <thead>
+          <tr>
+            <th>Question</th>
+            <th>Your Answer</th>
+            <th>Correct Answer</th>
+          </tr>
+        </thead>
+        <tbody>
+          {data.map(data => {
+            return (
+              <tr>
+                <td>{data[0]}</td>
+                <td className='text-center'>{data[1]}</td>
+                <td className='text-center'>
+                  {/* Converted string to boolean to convert it to object */}
+                  {`${data[2]}`.toLowerCase() === "true"? (
+                    <span>X</span>
+                  ) : (
+                    <span>O</span>
+                  )}
+                </td>
+              </tr>
+            )
+          })
+
+46: Shuffle=2.574, , score=2.574
+	import net.js">
+npm update > module. nodejs
+
+
+npm install nodemon -g  -g nodenode -gnpmnode
+https://blog.csdn.net/tianxiaojian565/article/details/80157803
+
+6
+
+```
+$ npm init -y package.json
+```
+- y  --yes package.json
+- 
+
+```
+project
+ bin
+    www
+ config
+    config.js
+ controllers
+    index.js
+    test.js
+ dist
+    css
+        index.css
+
+47: Shuffle=2.574, , score=2.574
+0\xcab.o39hH2)k!7c5%s6x99.15x9!7xc5x65"12c52k!"31\xc1\x80\xd4\xff\xd8%d3%d3%d3%5%d2%b7!c7%13c75%e4'3s3e3t3t3c7a3c85%5.c84b4%ec4%8a5c5e%ed44%f347%5.84c6a3b95%5d%fd51%85%35%7b.b6e76d45c2%ec982%b45%708%b35d%5"8%dd96!56\xd1%fa\x1a\xbc\xc6\xb1\xcc5e-1\xc7%ce-2!f\x1b5f\xba\x1c\x1d\x1e\x8
+
+48: Shuffle=2.574, , score=2.574
+a->n * v
+	done a * g  a = 25
+
+49: Shuffle=2.574, , score=2.574
+"
+      raiseUpdated s2d1 and updated docstringl
+]
+        for docstrings
+
+    return [
+        inputs_doc,
+        outputs_doc
+    ]
+simport argparse
+import os
+
+from sklearn.base import BaseEstimator, TransformerMixin
+from sklearn.model_selection import train_test_split
+
+from numpy import array, zeros, ones, empty, vstack, hstack, inf
+from numpy.linalg import norm
+from numpy import mean, std, argmax
+from numpy.random import randint
+from numpy.tile import tile
+from copy import copy
+from bisect import bisect_left
+from glob import glob
+from os import mkdir
+from os.path import isdir, join
+from pandas import DataFrame
+
+import logging
+logger = logging.getLogger(__name__)
+
+from scipy import linalg as la
+
+from tensorflow.python.keras import backend as K
+from tensorflow.python.keras.layers import Wrapper, Conv2D, BatchNormalization, add, Conv2DTranspose, Input, Reshape, Lambda
+from tensorflow.python.keras.layers import LeakyReLU, PReLU
+from tensorflow.python.keras.models import Model
+
+
+
+50: Shuffle=2.574, , score=2.574
+6',1'\x63']")\
+    f'ser to predict test and train data, the accuray of test is : {accuracy}')
+
+if __name__ == '__main__':
+    if     train,test = dataset.train_test_split(sample)
+    x_train, y_train = dataset.create_dataset(train, features, target)
+    features = 'features'
+    clf(x_train, y_train, features)
+    x_test, y_test = dataset.create_dataset(test, features, target)
+    clf(x_test, y_test, features)
+
+    print('predict model...')
+    predict(clf, x_test, features)
+sample!= '':
+    
+
+51: Shuffle=2.573, , score=2.573
+;/***/
+  public const _8D : i, x_03c__b4b2 : i
+  private var x_03c : b
+  private var x : c
+private class c
+  public var _03c4 : i
+	construct _03c ( i_03c4 : i )
+	  var _03c = this
+	  _03c._03c4 = i_03c4
+	  _03c.x_03c = t
+	  public var x_03 : i
+	  pub _03c = _03c + x_03
+	public print_me 
+	  print _03c4
+	  print _03c.x_03c
+	  print _03c.x_03
+
+}/**/
+
+class c
+  var _03c4 : i
+  var x_03c : i
+  var x_03 : i
+  construct _03c4 ( i_03c4 : i )
+    var _03c = this
+    _03c._03c4 = i_03c4
+    _03c.x
+
+52: Shuffle=2.573, , score=2.573
+(n >= m))) continue
+                        x ^= i
+                _i := t_p-t_i
+        return _i
+
+    def _s_m_k (n, x: int=18700) -> int:
+        t_i, t_s=0, n
+        t_s += n & 1
+        if n >> 31:
+            t_c = 1
+        else:
+            t_c = -1
+        t_q = n >> 31
+        while n >> 30:
+            _m(t_m_c, t_m_q)
+            t_c = t_m_c
+        _m(t_n_c, t_n_q)
+        t_q, t_c = t_n_q, t_n_c
+        while n + _m(t_m_c, t_m_q):
+            _m(t_m_c, t_m_q)
+            t_c = t_m_c + t_n_c
+            if not t_n_c:
+                _m(t_m_c, t_m_q)
+                t_c =
+
+53: Shuffle=2.573, , score=2.573
+_n\xces.py_python create empty file added on github. this create a new one created on github in the create empty file in file.pyimport os
+import glob
+import csv
+
+from flask import Flask, render_template, request
+
+
+
+app = Flask(__name__)
+
+#@app.route('/download', methods=["GET"])
+#def download():
+#  # file1 = request.form['file1']
+#  # print( file1 )
+
+#  files_path = 'file_1.csv'
+#  file = request.files['file']
+#  file.save(os.path.join( os.getcwd(),'file_1.csv'))
+#  files_path = os.path.join( os.getcwd(),'file_1.csv')
+#  out = open(files_path, 'w')
+#  #write_csv(data, file_name)
+#  w = csv.writer(out)
+#  w.writerow(['Id','name','address','phone','mail'])
+
+#  return  render_template("download.html",result_data='Data
+
+54: Shuffle=2.573, , score=2.573
+> - C[r+w-e][N]A}k-j-w"
+\NUL\DC1\SO[f-`f{+j-o!~}s-y-w&]
+\r
+\NUL\DC1\SO[g-e-c#~*v
+\X{x"z}y{\NUL\NUL\NUL\NUL\a\DLE\x-\X{x"z}y
+\e
+}q-t-c,z}S-e-`i-b\r
+
+\NUL\DC1\SO[g-e-c#~*v
+\X{x"z}y{\NUL\NUL\NUL\NUL\a\DLE\x-\X{x"z}y
+\e
+}q-t-c,z}S-e-`i-b\DC2z}S-e-`i?B\DC1q-t-c*~
+\e
+% end of a file
+```
+\newpage
+# <a name="b6"></a>[6]
+
+
+55: Shuffle=2.573, , score=2.573
+ -d317
+ -h2s/ -hs/d63h
+ -h2d63/ -hd63s/
+ 
+ -hd63/ -hd63/
+ -hd432/ -hd431/  
+ 
+ -hd444/ -hd445/
+
+
+ -dd63h -dd63d -dd63s -dd63 -dd69
+
+ -ddd63h -ddd63d -ddd63s -ddd63
+
+
+ -ddd69h -ddd69d -ddd69s -ddd66
+
+ -ddd66h -ddd66d -ddd66s -ddd66
+ -ddd66r
+
+
+ -ddd66r -ddd66d -ddd66d -ddd63d
+
+ -ddd63d -ddd69h -ddd69d -ddd63d -ddd69r
+ -ddd63d -ddd69d -ddd63h
+
+
+ -ddd63n -ddd63d -ddd69h -ddd69d -ddd66n -ddd63
+
+56: Shuffle=2.573, , score=2.573
+44/xssnxs5mHxsxn
+h2/t5/f5/c5/b4/a3
+b50
+
+h3.t3.f4.c5.a4
+
+h3/t5/f3/c4/b3/a3
+
+h1024.t1024.f1024.c1024.a1024
+
+h0.t0.f0.c0.a0
+
+h0/t0/f0/c1/b0/a0
+
+b0
+
+h0.t3.f3.c3.b2.a1
+
+h0/t5/f5/c5/b4/a3
+
+h0/t10/f10/c10/b10/a10
+
+h65536/t65536/f65536/c65536/a65536
+
+h0/t0/f10/c9/b8/a
+
+57: Shuffle=2.573, , score=2.573
+31] - $w1), 4, max)) - l * 8);
+    $t1 |= 1 && (($c2 ^ $w1 | ~$l << 6) >>> $g[ $m[1] - $w1]) ^ $c2 & $l;
+    $t1 ^= $l & (($w1 <^ 1) | ($c2 & ~(($t1 >> ($d2 ^ $m[1]) | $l) >> 8)));
+    $t1 -= $c2 & (($w1 << 7) >>> $y);
+    $t1 &= $w1;
+    $t1 ^= $l << 3;
+    $t1 -= 1;
+    $t1 ^= ($e2 ^ $l ^ ($q2 << $c2)) & ((1 << 28) >> $d[ $m[1] - $w1]);
+    $l = ($q2 << $c2) | ($t1 ^ $e2) - $c2 - $l;
+    $e2 = (($q2 << $c2) | ($t1 ^ $e2)) - $c2 - $
+
+58: Shuffle=2.573, , score=2.573
+# -*- test
+*** 70.clir10() : bool {
+      if (
+        a > b &&
+        a > c &&
+        c > b
+      ) return true;
+      else return false;
+    }
+  }
+}
+ent.core
+*   : 404.
+*   : https://leetcode-cn.com/problems/split-array-largest-sum
+*   : leetcode-cn
+*/
+ 
+namespace _404 {
+  namespace test {
+    record r1(int a, int b) {}
+    record r2(int a, int b) {}
+    record r3(int a, int b) {}
+    record r4(int a, int b, int c) {}
+    record r5(int a, int b, int c, int s1, int s2) {}
+    class r6 {
+      int a, b, c;
+      int s1;
+      int s2;
+      public r6(int a, int b, int c) {
+        this.#a = a;
+        this.#b = b;
+        this.#c = c;
+        this
+
+59: Shuffle=2.573, , score=2.573
+<html>{template::template(t)}</t>}
+        return [
+        {<ul>><template::template(t,'a',v,'b',t,t)><{d}/></li>><{f}><ul>{data}><{d}/></li><{f}><li><a href="?{$key}/">{name}</a></li><{d}/${f}>{list}></ul>{d}/${t}</ul>}
+
+        {$t = '<ul>><li><template::template(t,'a',v,'b',t,t)><{d}></ul>';
+        $d = '</{d}></li><{f}>><{f}><li><a href="?{$key}/">{name}</a></li><{f}><li>{list}</li><{f}></{f}>></ul>'}
+        foreach ($data as $key => $row) {
+             $list_data[$key] = tpl::template($t, [
+                 't' => $tpl_file1,
+                 'd' => $key, 'f' => 'd',
+                 'v' => $list_val,
+                 'a' => $k_val
+
+60: Shuffle=2.573, , score=2.573
+::create:0c!$b=+r2@7r)d_8$e=+e2@7e)g_6$3=+r3@73)g_8$5=+e3@75)g_1$1=+e2@71)g_2$2=+r3@73)g_5$4=+r2@72)1!2$2$5!1!0!1d_4r5!0$e!4!2!3!3!3!3!3!3!3!3!3!2!1!0!1!)64d_2e5$1!0$1!0!102d_0c4r4!0$1!0!162d_0r5!0$1!0!125d_0e5$1!0$1!0!1052d_0$2!0$2!0!205d_0$3!0$3!0!1052d_0$4!0$4
+
+61: Shuffle=2.545, , score=2.545
+s}
+
+function _s(s={type:"text"})_1$t$$(s.class=s.cls?s.cls:"",s.text=s.content,s.type=s.type.toLowerCase()?s.type.toLowerCase():s.type)
+
+async function _2() {
+    const { data } = await axios.get("http://v2.jinrishici.com/weather/qingniao");
+    if (data.status == 200) {
+        _1$t$$(`div.text2`, `: ${data.result.txt}`);
+        _1$t$$(`i.cloudy`, data.result.sky[0].value);
+        _1$t$$(`span.time`, data.result.timetxt);
+    } else {
+        _1$t$$(`div.text2`, `: `);
+        _1$t$$(`i.cloudy`, `18`);
+        _1$t$$(`span.time`, `12:00`);
+    }
+}
+
+async function _3() {
+    const { data }
+
+62: Shuffle=2.545, , score=2.545
+a_count++ %b : ", (i_2 * g_a_count - c_count) % (s_2 * g_a_count - c_count)
+
+    else:
+        if i_2 * g_a_count > c_count:
+            l_1_2_count = (
+                (i_2 * g_a_count - c_count) // s_2 + 1
+                if s_2 > 1 else 1
+            )
+            l_2_2_count = s_2 * g_a_count - c_count
+            return 1 + g_a_count + (l_1_2_count - 1) % l_2_2_count
+        else:
+            if c_count % s_2 == 0:
+                return (c_count // s_2 + 1) * (g_a_count + s_2 * g_a_count - c_count)
+            else:
+                return 1 + g_a_count + (c_count // s_2 + 1) % ((s_2) * (g_a_count + s_2 * g_a
+
+63: Shuffle=2.545, , score=2.545
+	//	* Licensed-down below 
+
+ * 
+ * Copyright 2016 <NAME>
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+package org.jivesoftware.smack.packet;
+
+import org.jivesoftware.smack.XMPPException;
+import org.jivesoftware.smack.provider.ProviderManager;
+import org.jivesoftware.smack.serialization.SmackXMLException;
+import org.jivesoftware.smack.util.Objects;
+import org.jivesoftware.sm
+
+64: Shuffle=2.545, , score=2.545
+\section->
+""" \script d-hansard-parser
+    This code defines the \code{dh.parser.hansard.Parser} datatype (and
+    therefore the \code{dh.parser.hansard.ParserClass} class.
+
+\subsection{Data structure}\label{dh.parser:parser__parser__parser__hansard_parser__parser__parser__parser_parser}
+
+    The \code{dh.parser.hansard.Parser} structure is the entrypoint to the
+    parser. It is a datatype defined as follows:
+    
+    \begin{code}
+structure Parser : ParserClass(DHANSDART.hansard) where
+\end{code}
+    
+    which in turn instantiates the \code{dh.parser.ParserClass} class, and
+    for which most of its methods are declared in interface file
+    \file{dh/parser/parser.iface}, and implementation file
+    \file{dh/parser/parser.impl}, see
+    \autoref{sec:dataypes:ParserClass}.
+    
+    The constructor of the datatype takes as argument the filename of a
+    Hansard XML-source file and returns a parser structure.
+
+    % TODO(gn
+
+65: Shuffle=2.545, , score=2.545
+2"
+        frenchifyString String Int -> -> < <> ""
+   -- TODO: support multi-line strings
+   _n) where
+    return = return. fromLisp
+    (>>=) = flip (>>=). fromLisp
+
+instance LispMonad Lisp [Lisp] where
+    m >>= f = case m of
+        List l   -> List $ mconcat $ fmap f l
+        String s -> String $ mconcat $ fmap f (split' s)
+        atom     -> mconcat $ fmap f (split' atom)
+    return x  = List [x]
+
+instance LispMonad Lisp [LispItem]
+
+instance LispMonad IO Lisp
+
+instance MonadIO Lisp where
+    liftIO = lift. liftIO
+    {-# INLINE liftIO #-}
+
+-- |
+-- > 3 4 +
+intFunc :: LispMonad m => MonadIO m => Int -> m -> m
+intFunc i f = liftIO $ ioToLisp $ f (fromInteger $ toInteger i)
+
+instance Func (Int -> LispMonadIO m => LispMonad m) where
+    funcName   = "int"
+    argTypes    = [Func
+
+66: Shuffle=2.545, , score=2.545
+0],
+    
+
+21  The result we achieved are not equivalent so why do we bother to optimize it? I'll start from the top here 30  Here's the thing! We see that some values are the same in the 31  The result I achieved is not equivalent so I use the hashmap data structure here. Why? 32  The problem is the way we write the code, we can't just reuse same 33  solution in a different way here in a 9  time  and in 7  time. 34  I solved the problem by making recursive calls from different parts 35  It is hard to visualize it. I have an idea but my implementation takes long time to get the result. I don't know why yet. But now the 36  solution could be the best one I know right now. 37  The problem is the only part, and all of it is very hard to me to find what's wrong. 38  Recursion isn't the best way to solve it. I should have tried hashmap. 39  I'm trying to use the idea of "pre-order" binary tree, where the order of node
+
+67: Shuffle=2.545, , score=2.545
+<00 + 'abc'+ s ;
+        assertEquals(32, result.length);
+    }
+});reponame>rse/edge-safari
+// Tests for Bug 792521: IndexOf and LastIndexOf crash if passed arguments containing unicode escape codes
+
+TestCase("Bug 792521", {
+    setUp: function(done) {
+        this.array = ['a', 'b\u0014c'];
+        done();
+    },
+    testBug792521: function() {
+        // This should work for 2010-12:
+        let result = this.array.indexOf('b\u0014c', 1);
+        assertEquals(1, result);
+
+        // This should crash Safari 10+ for 2010-12:
+        let result_string = this.array[this.array.indexOf('b\u0014c', 1)];
+        assertEquals(2, result_string.length, 'Bug 792521: First string');
+    },
+    testBug792521LastIndexOf: function() {
+       
+
+68: Shuffle=2.545, , score=2.545
+8}
+				380, "x"}, {{32, {{}}, '1'}}, {"x0", {{}}, '0'},
+		{"0x", {{}}, '0'}, {"00""d0", {{}}, 'd'},
+		{"d0x", {{}}, 'd'}, {"d0d0", {{}}, 'd'}, {"d0x0", {{}}, 'd'}, {"dx00", {{}}, 'd'}};
+
+	for (vector<int>::const_iterator itor = testcase.begin(); itor!= testcase.end(); itor++) cout << int(*itor) <<'';
+	cout << endl;
+
+	for (map<string, node>::iterator itor = dct.begin(); itor!= dct.end(); itor++) {
+		cout << itor->first << endl;
+		for (map<int, vector<int> >::iterator jtor = itor->second.first.begin(); jtor!= itor->second.first.end(); jtor++) cout << "    " << jtor->second[0] << '(' << jtor->second[1] << ") ";
+		cout
+
+69: Shuffle=2.545, , score=2.545
+- 4  56637) * 126 / t)) % MOD;
+}
+
+else puts("Impossible");
+
+70: Shuffle=2.545, , score=2.545
+4f
+// Copyright The Darketry Open Developers/Contributors. Licensed under the MIT license.
+
+// We have to use `external` only here because
+// ganache-cli uses `fs.existsSync` call which uses `require` which
+// imports all the necessary dependencies with side effects.
+// The import would fail in the browser but would work in nodejs.
+
+export const external: string[];
+dapp
+
+71: Shuffle=2.541, , score=2.541
+(		return 17
+	
+
+
+
+	
+	
+	
+
+					
+					
+				
+				
+												
+import sys
+
+
+
+
+N = int(sys.stdin.readline())
+input_array = [int(sys.stdin.readline().strip()) for _ in range(N)]
+
+print(input_array)
+
+"""
+
+for i in range(len(input_array)):
+    for j in range(len(input_array)):
+        if i < j:
+            input_array[i + j] = min(input_array[i], input_array[j])
+
+print(input_array[:10])", ")
+# 
+
+72: Shuffle=2.541, , score=2.541
+3,' 	-5. -nan
+ '*/' (newline)
+ (newline)
+ 2.998529
+ 0.345333
+ 0.534854
+   nan
+ 'nan
+
+73: Shuffle=2.541, , score=2.541
+)
+
+ # -*- Python ID #***********/ #
+/* Program: Footnote */	
+#include <stdio.h>	#/* Include the C I o lib */
+
+int main ( )
+{		#/* Main */
+printf ("Footnotes:\n");	#/* Print the output line before the footnote */
+printf ( "\nThe C\nProgramming Language\n");	#/* Print the text */
+printf ("A Short Tutorial.\n");	#/* Print the output line after the footnote */	#/* Print the output line after the footnote */
+printf ("\n");	#/* Print the end of line */
+printf ("");	#/* Print the output line before the footnote */
+printf ("\n");	#/* Print the end of line */
+printf ("");	#/* Print the output line after the footnote */	#/* Print the output line after the footnote */	#/* Print the output line after the footnote */
+printf ("\n");	#/* Print the end of line */	#/* Print the output line after the footnote */	#/* Print the output line after the footnote */
+return (0
+
+74: Shuffle=2.541, , score=2.541
+9xo1=0
+        self.#a:#self[b]=e2
+        d=0
+        self.b:0
+        f=#self[0..self.b]
+        self.a:0
+        i=0
+        g=#self.a
+        e=#self[#self.b-1]
+        self.c:0b
+        self.0=0
+        self.d=0
+        self.e=0e0
+        self.f:self.c:self.4:self.4:self.4:self.n:
+        self.
+
+75: Shuffle=2.541, , score=2.541
+> =0,i<An[q]<m+B)?f[(g-1)/d-1][q+g+c] : 0;
+		if(t)
+		{
+		  for(d=0;d<=h;d++)
+		  {
+			if(((t>>=(y+1))*=(d+i))&m)a[d]++;
+		  }
+		}
+	  for(n=0;n<t&&((r[n]=e[t-n-1])^=f[n][p+r[t-n-1]]^f[n][p]);n++);
+	  t>0&&n==p+b?i(1) : (t<n?i(-1) : 0);
+	}
+      };
+      function s(a, b)
+      {
+        b=b.substring(0, 1);
+        for(var c = 0, d = 0, e = 0; e < a.length + 2; e++)
+        {
+          if(b == 64)c |= (d ^= 255) << 16, d = 0;
+          else
+         
+
+76: Shuffle=2.541, , score=2.541
+:1..5
+
+! Check correct calculation of the  FER/FER2
+
+ call calcferfer2 (0,2,1,0,0,0,0,0,1, fer, fer2)
+ if (fer.ne.fer2).then
+         call errt ('c', '10-043', 1)
+else
+         call pass()
+endif
+
+! Check correct calculation of the FER/FER2  for T = 273 K ( 0.5/100)
+ call calcferfer2 (273,2,1,0,0,0,0,0.5, fer, fer2)
+ if (fer.ne.5.71958).then
+         call errt ('c', '10-044', 1)
+else
+         call pass()
+ endif
+
+ return
+end
+5) if (fer.ne.0.0).then
+         call errt ('c', '10-041', 1)
+else
+         call pass()
+endif
+
+! Check correct calculation of  FER/FER2
+ do i =0,1
+
+77: Shuffle=2.541, , score=2.541
+.github (int));
+
+
+  if(!(int/3)!)
+    1..maxint {
+        if((int/3)+1==0) $stdout.put('+');
+        else $stdout.put('-');
+    };
+}
+
+    my int $int = $int.floor;
+    is-deeply( $int, 0, "div($int) floor is 0" );
+    is-deeply( div($int), 0, "div($int) function is equivalent" );
+
+    is-deeply( div(1/3),  1/3,  "div(1/3) is 1/3" );
+    is-deeply( div(-1/3), 2/-3,  "div(-1/3) is 2/-3" );
+    is-deeply( div(0), 0,  "div(0) is 0" );
+    is-deeply( div(1), 1,  "div(1) is 1" );
+    is-deeply( div(4), 1,  "div(4) is 1" );
+    is-deeply( div(5), 1,
+
+78: Shuffle=2.541, , score=2.541
+x[172786]:../blob/324bfda0d8c63be95c517663e9e39630ec99dd76/.github/ISSUE_TEMPLATE.md
+---
+name: Bug report
+about: Create a report to help us improve
+
+---
+
+### Description
+<!-- A clear and concise description of what the problem is. -->
+
+### Expected behavior
+<!-- A clear and concise description of what you expected to happen. -->
+
+### Screenshots
+<!-- If applicable, add screenshots to help explain your problem. -->
+
+### Versions
+<!-- The versions of cake build, cake script and dotnet. -->
+
+    {
+    <TargetFramework>net6.0</TargetFramework>
+}
+
+### Possible Drawbacks
+<!-- What are the possible side-effects or negative impacts of the code change? -->
+
+### Environment data
+
+<!--
+* Which version of Cake are you using?
+* What OS are you running on?
+* What runtime?
+* How much memory do you have?
+-->
+
+### Regression?
+
+<!-- Did this work in previous versions? -->
+
+###
+
+79: Shuffle=2.541, , score=2.541
+# This file system found 
+require("luaui/setup");  -- The "script" (do not put quotes there) which is run for every client
+
+local ui = require("ui")
+
+local function show(ui)
+    ui.text = "Hello World"
+end
+
+ui.register_ui("lua-hello-world", "Test script", "Shows a message", show)
+
+
+-- Add more "ui" scripts here...
+
+-- End of file
+
+
+80: Shuffle=2.541, , score=2.541
+a = list:
+    f,
+  a -> print (0 == y1 - x0),
+  p
+
+#
+# a)
+#
+f -> g y -> f x? (y > 0) -> g (y? g (y? y1) z : y? _
+
+#
+# b)
+#
+g' a -> a > 0
+
+g'' a -> a > 0
+
+g''? a -> a > 0
+
+#
+-- e)
+#
+print f? 3 : 4, print "end"
+# 0
+# end
+#
+
+#
+# b)
+#
+z = 3 > 2,
+print "is 3>2?", (z? _true? print"true," : print "false,"), print "end"
+"true, end"
+
+#
+# c)
+#
+x,
+y,
+z? print x? (x? _true? print "true" : print "false") : print "true"
+"false"
+
+#
+-- f)
+#
+x = (f true? print "true" : print "false
+
+81: Shuffle=2.541, , score=2.541
+ * IM like how well *'And for that they do in it! He was not a loathsome thing but a good
+thing, and he looked as he did all th' other way. Then when he had done he
+saw him out from the church gate, and then he went to ask what place and
+time he should come to. But he, like the other gents, cried, God, God, God
+be our God, God be our Father, God be our Man, God, our King! And he told
+all about it, and he had much to say, all of it that went for the rest of the
+morning.
+
+The next day was sick. So we talked of the baptism, and then he called me. I
+told him, Im going to the church. Its very likely that youll need it. Come
+with me, my boy; go to the church, and get your baptismal clothes. So he drove
+to the church gate, and began to talk with the people.
+
+At the first baptismal prayers, no one
+
+82: Shuffle=2.541, , score=2.541
+2	def adivosolveBy2 (numbers) 
+. numbers [x * :2] 
+. [x / :2] numbers 
+. numbers [y + *]
+. [y - *] numbers
+. numbers [x - *]
+. [x + *] numbers
+. numbers
+```
+```
+31221 7 18 202121 3
+```
+```
+21 122 12 1221 12221 123111 
+```
+1 2113 
+```
+```
+```
+202121222202 202 21132021 2102
+```
+
+83: Shuffle=2.541, , score=2.541
+
+
+/*
+
+    *** Note about jQuery/CSS
+
+    In this module it does not follow the pattern of using div and span tags and
+    instead follows the pattern of using classes like this.class1 and this.class2,
+    because we are using jQuery to manipulate DOM elements and jQuery is
+    heavily dependent on DOM.
+
+    So use this.element instead of this.selector, and it will work properly everywhere.
+
+*/
+
+'use strict'
+
+/*
+
+TODO:
+make it work in firefox,
+make the function names look like class methods if it makes sense (like remove, update)
+
+*/
+
+// module for handling user interface interaction.
+const ui = require ('./ui.js');
+const db = require ('./sql-query.js');
+const model = require('../lib/model.js');
+const gameModel = new model.GameModel();
+
+// this module should not export anything, but it does export an object that is then exported by `index.js`
+const exports = {};
+
+exports.openMainMenu = function () {
+    ui.clearScreen();
+    ui.showMainMenu();
+    exports.resetGameUI ();
+};
+
+exports.openGame
+
+84: Shuffle=2.541, , score=2.541
+a 3b" /2.1' *\ $a
+a*b   $a*"b"
+
+c 1 2 #2 1 $a
+c' 1 2 #2 1 $a
+c+ 1 2 $a
+c *  $a
+c- 1 2 #2 1 $a
+c' 1 2 $a
+d 1 2 #2 1 $a
+d' 1 2 #2 1 $a
+d+ 1 2 #2 1 $a
+d *   $a
+d\ 1 2 #2 1 $a
+e 1 2 3
+e' 1 2 3
+e/ 1 2 3
+e %  3
+e+  1
+e-  1
+e/  1 2 #2 1 $a
+f 1 2 3
+f' 1 2
+f+ 1 2
+f'  2
+
+( ) a(b)  12
+( ) ab(b)  3,4
+"((("c)))()   3
+
+85: Shuffle=2.541, , score=2.541
+4',
+    return output("test 31 test -    print('*'+ '*'.join(output))
+
+if __name__ == '__main__':
+    main()
+*- coding: utf-8 -*- \n")
+
+
+86: Shuffle=2.541, , score=2.541
+
+    if self is an invalid request (no URL to query.
+267 (r)
+  (
+  (
+  \
+  )
+  )
+278 (j)
+ (j \ j \j)
+ (j )
+298 (k)
+ ((k) \ ())
+ ()
+317 (p)
+ ((p) )
+ ((p) \ ())
+ (p\ p)
+ (p\ )
+357 (m)
+ ()
+ ()
+368 (l)
+ ()
+ ()
+378 387)
+
+454
+```
+
+Here is another input: 
+
+    let (x) = (\_) => _ in
+    let y =
+      (\_) =>
+      in
+      x
+ \))\ ( )  - no parentheses to close
+
+318)
+```
+ (let) \n let (\x) = (x) \n in (
+  (\ x) =>
+  )\ ( )  - no parentheses to close
+```
+
+340 ( )  - no parens to close (?)
+```
+  (let) \n let (\x) = (in \n x
+
+87: Shuffle=2.541, , score=2.541
+
+#!/ / @flow./options 'use utf -_-': // ( o )
+/// <reference path='../src/type-utils.js' />
+
+import test from 'ava';
+import typeUtils from '../src/type-utils';
+
+  
+/**
+ * @param {string} expected
+ * @param {*} actual
+ */
+function expectType(expected, actual) {
+  test(actual, t => {
+    t.is(typeUtils.toString(actual), expected);
+  });
+}
+
+expectType('number (NaN)', typeUtils.toDouble(NaN));
+
+
+expectType('number (0)', typeUtils.toDouble(0));
+
+// NaN < Number.MIN_SAFE_INTEGER
+expectType('number (-(2 ** 53) - 1)', typeUtils.toDouble(-Number.MIN_SAFE_INTEGER - 1));
+
+// Number.MIN_SAFE_INTEGER < NaN
+expectType('number (0)', typeUtils.toDouble(Number.MIN_SAFE_INTEGER - 1));
+
+expectType('number (+(2 ** 53))', typeUtils.toDouble(Number.MAX_SAFE_INTEGER + 1
+
+88: Shuffle=2.541, , score=2.541
+\04"\"\&\'><:;? \n");
+
+        testValueContains("\uFF41", true, "\uFF41");  // UCS-2 code-point 0x0620
+        testValueContains("1\uD800\uDC001\uD800", false);  // UCS-4 code-point 0xD8000, surrogate value 0x0001
+        testValueContains("1\u20001\u2001", false);  // UCS-4 code-point 0x20000, surrogate value 0x0001
+        testValueContains("1\uDC011\uDC02", false);  // UCS-4 code-point 0x010000, surrogate values 0x0001, 0x0002
+        testValueContains("1\uD800\uDC01", true, "\uD800\uDC01");  // UCS-2 code-point 0x010000, surrogate
+
+89: Shuffle=2.541, , score=2.541
+ = self); }
+
+                  /// Returns current date  @TODO add parameter */
+
+ date(){
+  return new Date()
+ },
+
+ /// return current date and time in a format 1970-01-02 10:00:00
+getCurrentDate(){
+date = this.date();
+year = date.getFullYear();
+month = date.getMonth();
+day = date.getDate();
+hour = date.getHours();
+min = date.getMinutes();
+sec = date.getSeconds();
+dateString = year+'-' + (month+1)+'-'+day+' '+hour+':' + min + ':' + sec;
+return dateString;
+},
+
+/// get number of milliseconds
+/// @return {number}
+getMilliSeconds() {
+	return this.dateNow() - this.date();
+},
+
+/// get milliseconds in a Date instance
+dateNow(){
+    return new Date().getTime();
+},
+
+
+/// @function getDate : returns current date in format yyyy/mm/dd
+getDate(){
+  return this.date().toISOString().slice(0, 1
+
+90: Shuffle=2.541, , score=2.541
+2399d%23
+/************************************************
+     v1.1 by 
+    http://bbs.niuhuihui.com/phpforum/archive/thread-41623.html
+    
+    v1.1 2018-08-17 
+************************************************/
+define(function(require, exports, module) {
+	var editor = window.editor = {
+		getPos:function(editor) {
+			var pos = editor.selection.getBookmark();
+			return pos;
+		},
+		getRange:function(editor) {
+			var range = editor.createRange();
+			range.select();
+			return range;
+		},
+		selectWord:function(editor) {
+			editor.selection.selectWord();
+			var range = editor.createRange();
+			range.select();
+		},
+		insertText:function(editor,text) {
+			editor.execCommand("inserthtml", text);
+			editor.selection.select();
+		},
+		execCmd:function(editor
+
+91: Shuffle=2.457, , score=2.457
+1),
+  (let
+    // NOTE,
+    // we'll make 'typeOfFoo: (p: (Type1, Type2, Type3) Type4'
+    // with the corresponding pattern type, but we'll
+    // leave the type expression as 'unknown'
+
+    // the 'p' in `typeOfFoo` should allow the 3 types
+    // above in any position (or not at all)
+    // TODO(dmitry): reenable this case when
+    // `createFunctionTypeFromParamList` has ability to infer the
+    // exact number of params
+    // t.is(checkType('typeOfFoo', [
+    //   t.paramList(t.param('p', t.tuple([
+    //     t.functionType([
+    //       t.param('x', t.union([t.stringLiteral('a'), t.number()])),
+    //       t.param('y', t.boolean()),
+    //       t.param('z', t.nullLiteral()),
+    //     ], t.type('a')))
+    //   ])),
+    // ]),
+
+    // and the 3 types
+    // above in a certain order (or not at all)
+    // TODO(dmitry
+
+92: Shuffle=2.457, , score=2.457
+1x * m * logb_base
+} \x;
+
+        /* convert binary value from \x to \y */
+        x = f;
+        while (bin_digits--) {
+            y = x / (b_base * \x);
+            n += y;
+            x = (x - (n * y)) / b_base;
+        }
+    }
+}
+
+{ #include <stdlib_base_math.c> }
+
+#undef \x
+
+#undef \x
+
+#undef bin_digits
+
+#undef b_base
+
+#undef parent
+
+}
+
+
+93: Shuffle=2.457, , score=2.457
+5x-r^h.js,jshl-0-h10-hx.hx-80-js,x^y^z^w^v^t^s^r^p^n-h20,n-m10-m5-m7-m9-m8-m3-m6-m4-m0^n-m20-m1-n-m30-m40-m60-m70-m50-m53-m52-m42-m51-m40-m35-m46-m12-m41-m30-m15-m21-m31-m20-n-m37-m0^b^a^y^x-b-a-y-b-a-y-b^a^b,n-m15-m25-m35-m45-m10-m20-m30-m40-m45-m50-m3-m6-m9-
+
+94: Shuffle=2.457, , score=2.457
+3(494 * num48 <= N && a<=B && B <=  (10^15))
+{
+	int x=0, y=0, num1=0, num2=0;
+	cin>>y>>num1>>B>>num2;
+	if(num1+num2<=2000)
+	{
+		num1=2000-(num1+num2+y);
+	}
+	else
+		if(num1<=3000)
+			num1=num1-3000;
+		else
+			if(num1<=6000)
+				num1=num1-6000;
+	if(num1==0&&num2==0&&x==0)
+		x=y;
+	else
+		if(num1==0&&num2==0)
+			x=x+y;
+		else
+			if(num1==0&&num2!=0)
+				x= x+num1-num2+y;
+			else
+				if(num1!=0&&num2==0)
+				
+
+95: Shuffle=2.457, , score=2.457
+#include n07pinclude file <0-lib.def>@>
+!include file <0-lib.def>@>
+!includ<0-lib.def>*
+!include<0-lib.def>*
+!include file<0-lib.def*>
+!macrodef
+!macrodef
+MACRO1(
+!endmacro
+
+endmacro
+
+0.cmd<1234
+!incl<0-lib.def>@>
+!include @<0-lib.def>@>
+!
+
+96: Shuffle=2.457, , score=2.457
+40;
+                    }
+
+                    case "wol2v":"switch (v8.c3) {"+
+                        "    _out = _v;\n"+
+                        "    goto _endOfSwitch;\n"+
+                        "} switch (v20v.a)" +
+                        "{ _out = v20v.b; goto _endOfSwitch; }\n",
+                    10,
+                    [0,1,1,4]
+                ],
+                [
+                    "switch (v8.c3) { case _s:goto _endOfSwitch; } switch (v20v.a){ case _s:goto _endOfSwitch; }",
+                    10,
+                    []
+                ],
+                [
+                    "switch (v8.c3) {"+
+                        "    if (v7[i] == _s){goto _endOfSwitch;}} switch (v20v.a)" +
+                        "{ if (v11[i] == _s){goto _endOfSwitch;}}",
+                    0,
+                    [0,1,2,6]
+                ],
+                [
+                    "switch (v8.c3) {"+
+                        "    if (v20v.a == _
+
+97: Shuffle=2.457, , score=2.457
+- name
+  const password
+
+  db
+    addProductName db(?,50)//string
+    + getProductName
+    name varchar(80)
+    price int
+    + getPrice
+    + getId
+}
+
+
+class ProductDao implements IProductDao {
+  def getProduct(id) {
+    //TODO :
+    null
+    //ProductDao.find.where('id = ${id}').first();
+  }
+
+  def addProduct(ProductDto productDto){
+    Product product = new Product(productName: productDto.productName)
+    product.save(flush: true, failOnError: true)
+  }
+
+  def deleteProduct(ProductDto productDto){
+  }
+
+  def getProductsList() {
+    //TODO :
+    //find.all().map {
+    //  new ProductDto(id: it.id, name: it.name, price: it.price)
+    //}
+    throw new RuntimeException('Not implemented yet')
+  }
+
+  def getProductPrice(String produc}
+}
+tName) {
+    //TODO :
+    throw new RuntimeException('Not implemented yet')
+  }
+}
+
+
+class ProductDto {
+  def id
+  def name
+  def price
+
+  ProductDto(id, name, price
+
+98: Shuffle=2.457, , score=2.457
+>
+                {/ 5\{\}}
+                <html>"
+                    self
+                           (Some
+                        (Leaf
+                            "  ")))
+                            self
+                        (Some
+                            "")))
+          ]))
+    (Some
+                        (Leaf
+                            "")))
+                            self
+                        (Some
+                            (Leaf
+                             
+
+99: Shuffle=2.457, , score=2.457
+s196982;n89n)y
+```
+        n(e
+```
+
+```
+        n(e
+
+```n(e
+```
+```n)e```
+```n)e```
+```n(e
+```
+```n(e
+
+```
+
+```n1)e```
+
+```
+n(e
+```
+
+```
+ n(e
+```
+
+```
+n(e;e(n)(n)n)n(e;n)y
+
+```
+```n1)e```
+
+```n1)n1)n1)n1)e```
+
+```n1(n1(n1(n1(n1(n1(n1(n1(n1(n1(n1(n1(n1(n)n)n)n)n)n)n)n)n)n)n)n)n)n```
+
+
+```n(e;e(n)(n)n)n)e;n)y;n)e;e;y
+
+```
+
+```
+n(e
+
+```
+
+```
+
+100: Shuffle=2.457, , score=2.457
+>### Installation
+
+36th: Baby Steps ->  I do
+5650: I have a Baby Steps -> I do
+5660: 36th Steps
+I do: 36th Steps + 16th Steps -> Baby Steps
+I do: 36th Steps + 92th Steps
+
+## Steps for I do
+
+### Step 2
+
+#### I do: 36th Steps
+
+* What: Do a good job at this step
+
+#### I do: 16th Steps + Baby Steps
+
+* What: 16th Steps + Baby Steps + Repetition
+    * [x] Do it!
+    * [ ] Do it!
+
+### Step 3
+
+#### I do: 16th Steps
+
+* I do: 16th Steps + Baby Steps
+* Do what I do at this step
+
+### Step 4
+
+#### I do: 16th Steps
+
+* Do what I do as I do at this step
+
+### Step 5
+
+#### I do: 22nd Steps
+
+* Do what I do
+
+###
+
